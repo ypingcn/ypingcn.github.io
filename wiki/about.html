@@ -1,0 +1,111 @@
+---
+layout: page
+title: "关于"
+header-img: "img/about-bg.jpg"
+description: "Hey, this is ypingcn"
+---
+<select class="sel-lang" onchange="onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> English 英文 </option>
+</select>
+<div class="zh post-container">
+    <blockquote>
+        <p>Life is going on<br>
+            There is a long way to go</p>
+    </blockquote>
+    <p>Hey，我是<strong>ypingcn</strong></p>
+    <p>这个博客是基于 Github Page 和 Jekyll 搭建的。欢迎使用 RSS 订阅本站更新。点击<a href="/feed.xml">　这里　</a>获取订阅地址。</p>
+    <p>也会把平时的练习的项目和在校课程的期末课程设计放到 Github 上。</p>
+    <h5>Projects</h5>
+    <ul>
+        <li>
+            <a href="https://github.com/ypingcn/P2PChat-Qt">P2PChat-Qt</a>
+            <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
+                height="20px"
+                src="https://ghbtns.com/github-btn.html?user=ypingcn&repo=P2PChat-Qt&type=star&count=true">
+            </iframe> 局域网聊天程序
+        </li>
+        <li>
+            <a href="https://github.com/ypingcn/BingWallpaper">BingWallpaper</a>
+            <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
+                height="20px"
+                src="https://ghbtns.com/github-btn.html?user=ypingcn&repo=BingWallpaper&type=star&count=true">
+            </iframe> 一键设置必应壁纸
+        </li>
+        <li>
+            <a href="https://github.com/ypingcn/tupgo">tupgo</a>
+            <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
+                height="20px" src="https://ghbtns.com/github-btn.html?user=ypingcn&repo=tuogo&type=star&count=true">
+            </iframe> <a href="https://github.com/TarsCloud">TARS</a> TUP ( TAF WUP ) 的 Go 实现
+        </li>
+    </ul>
+</div>
+<div class="en post-container">
+    <blockquote>
+        <p>Life is going on<br>
+            There is a long way to go</p>
+    </blockquote>
+    <p>Hey, I am <strong>ypingcn</strong></p>
+    <p>The Blog is based on Github Page and Jekyll.You can use RSS to get the lastest update.Click<a href="/feed.xml">
+            here</a></p>
+    <p>Some projects on the Github:</p>
+    <h5>Projects</h5>
+    <ul>
+        <li>
+            <a href="https://github.com/ypingcn/P2PChat-Qt">P2PChat-Qt</a>
+            <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
+                height="20px"
+                src="https://ghbtns.com/github-btn.html?user=ypingcn&repo=P2PChat-Qt&type=star&count=true">
+            </iframe> LAN chat demo
+        </li>
+        <li>
+            <a href="https://github.com/ypingcn/BingWallpaper">BingWallpaper</a>
+            <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
+                height="20px"
+                src="https://ghbtns.com/github-btn.html?user=ypingcn&repo=BingWallpaper&type=star&count=true">
+            </iframe> update your wallpaper using BingWallpaper with oneclick
+        </li>
+        <li>
+            <a href="https://github.com/ypingcn/tupgo">tupgo</a>
+            <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
+                height="20px" src="https://ghbtns.com/github-btn.html?user=ypingcn&repo=tuogo&type=star&count=true">
+            </iframe> <a href="https://github.com/TarsCloud">TARS</a> TUP ( TAF WUP ) implement in Go
+        </li>
+    </ul>
+</div>
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+    // handle render
+    function _render() {
+        var _hash = window.location.hash;
+        // en
+        if (_hash == "#en") {
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+            // zh by default
+        } else {
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+    // handle select change
+    function onLanChange(index) {
+        if (index == 0) {
+            window.location.hash = "#zh"
+        } else {
+            window.location.hash = "#en"
+        }
+    }
+    // init
+    _render();
+</script>

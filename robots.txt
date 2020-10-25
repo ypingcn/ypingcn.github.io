@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /files/
+Disallow: /feed.xml
+Disallow: /2016/04/01/thanks/
+Sitemap: https://ypingcn.github.io/sitemap.xml
+Sitemap: https://ypingcn.github.io/notes/sitemap.xml
+Sitemap: https://ypingcn.github.io/special/sitemap.xml
