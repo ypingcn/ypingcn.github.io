@@ -1,0 +1,1 @@
+git commit -m "update" --amend && git push origin master -f

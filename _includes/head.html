@@ -1,0 +1,98 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="{{ site.keyword }}">
+    <meta name="theme-color" content="{{ site.chrome-tab-theme-color }}">
+    <meta name="msvalidate.01" content="DBEA5FE38EFA4F1453FBE81340557E61" />
+    <meta name="google-site-verification" content="M_0tfwClFahOrYyF9cDiHY6yc0Dn2MX53E_EXsborxY" />
+    <!-- search test -->
+    <meta name="sogou_site_verification" content="kDe0ePMEZk"/>
+    <meta name="bytedance-verification-code" content="osIEj8PJnCsWD5fhgXab" />
+    <meta name='description' content='{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}'>
+    <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:site" content="@ypingcn"/>
+    <meta property="twitter:creator" content="@ypingcn"/>
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %} ypingcn -  万物逢时而美 {% endif %}" />
+    <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}"/>
+    <meta property="og:locale" content="zh-cn"/>
+    <meta property="og:image" content="{{ site.url }}/img/ypingcn.png"/>
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %} ypingcn -  万物逢时而美 {% endif %}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
+    <meta property="og:site_name" content="{{ site.SEOTitle }}"/>
+    {% if page.linkeddata %}
+    <script type="application/ld+json">
+      {{ page.linkeddata | jsonify }}
+    </script>
+    {% else if page.enable_linkeddata %}
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "mainEntityOfPage":{
+        "@type":"WebPage",
+        "@id":"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+      },
+      "url": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}",
+      "headline": "{{page.title}}",
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/img/home-bg.jpg",
+        "width": 1900,
+        "height": 870
+      },
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.update | date_to_xmlschema }}",
+      "author": {
+        "@type": "Person",
+        "name": "ypingcn"
+      },
+       "publisher": {
+        "@type": "Organization",
+        "name": "ypingcn",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/img/ypingcn.png",
+          "width": 175,
+          "height": 175
+        }
+      },
+      "description": "{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}"
+    }
+    </script>
+    {% endif %}
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="{{ site.url }}/pwa/manifest.json">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ site.url }}/img/favicon.ico">
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap.min.js@3.3.5/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "/css/hux-blog.min.css" | prepend: site.baseurl }}">
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
+    <!-- Custom Fonts -->
+    <!-- <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
+    <link href="//cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WQ4LEY90VJ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-WQ4LEY90VJ');
+    </script>
+    <!-- ga & ba script hoook -->
+    <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "9cwlm2pmbs");
+    </script>
+</head>

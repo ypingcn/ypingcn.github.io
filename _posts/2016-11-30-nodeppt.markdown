@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "用 nodePPT 完成网页演示"
+subtitle: "The experience about nodePPT"
+description: "不用安装 Office，网页也可以完成演示功能，nodePPT"
+date:   2016-11-30 +0800
+update: 2021-11-02 23:02 +0800
+author:     "ypingcn"
+header-img: "img/bg.webp"
+header-mask: 0.3
+catalog:    false
+tags:
+    - 技术
+---
+
+> 最近的课有分小组的课前演讲，想着试一试最近发现的这软件，无奈教室电脑不给力，不能用投影，用网页播放也一大堆错误。但我还是决定简短地记录下来这尝试的过程。
+
+最近发现 <a href="https://github.com/ksky521/nodePPT" rel="nofollow">nodePPT</a> 这个用 Nodejs 做的软件，可以用来做演讲用的网页演示文稿。支持 GFM 的 markdown 语法编写 和 html 语法。生成的网页简单但很实用。
+
+```
+This is probably the best web presentation tool so far!
+```
+
+## 安装
+
+作者一开始给出的安装命令便是```npm install -g nodeppt``` ，明显是要先安装npm，尝试着用 ```sudo apt install npm``` 装，之后再用作者提供的命令安装。
+
+有几个要留意的点：
+
+一是要加上管理员权限运行作者提供的命令。刚开始的时候一直错却不知道是哪里的问题。
+
+二是要改 npm 的源，默认的一直连不上。方法就是在 ```~/.npmrc``` 里加上以下的内容
+
+```
+registry = https://registry.npm.taobao.org
+```
+
+## 使用
+
+作者的演示网页里有详细的介绍，这里无需赘言。<a href="https://nodeppt.js.org/" rel="nofollow">nodeppt - 这可能是迄今为止最好的网页版演示库 - By 三水清</a> 
+
+用```nodeppt generate -a file_path/file_name```生成 html 文件，将其放在 Github Page 上也能正常使用。（只要浏览器支持）

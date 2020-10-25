@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: robots.txt
+---
+User-agent: *
+Disallow: /files/
+Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{ site.url }}/notes/sitemap.xml
+Sitemap: {{ site.url }}/special/sitemap.xml

@@ -1,0 +1,112 @@
+---
+layout:     post
+title:      "感谢"
+subtitle:   "Thank you"
+description: "huangxuan.me 博客模板渲染效果"
+date:       2016-04-01 12:00:00
+update:     2021-01-08 18:04:00
+author:     "ypingcn"
+header-img: "img/bg.webp"
+header-mask: 0.3
+catalog:    false
+---
+
+> 不折腾博客页面，够用就好。
+
+博客模板来自 <a href="https://huangxuan.me/" target="_blank" rel="noopener nofollow" title="huangxuan.me">huangxuan.me</a> ，页面最下方也有版权信息。感谢
+
+博文由 markdown 文件渲染而来，本篇博文暂时不更新。
+
+渲染预览如下
+
+------
+
+# 一级目录
+
+
+## 二级目录
+
+
+### 三级目录
+
+
+#### 四级目录
+
+
+##### 五级目录
+
+###### 六级目录
+
+---
+
+
+> 文字引用
+
+
+``` 文字引用 ```
+
+
+文字 **加粗** 
+
+
+文字 *斜体*
+
+文字 ~~删除~~
+
+---
+
+
+```c++
+// 代码块（语法高亮）
+#include <iostream>
+int main()
+{
+  std::cout<<"hello coding page."<<std::endl;
+  return 0;
+}
+```
+
+
+------
+
+
+表格（电脑端效果更加明显）
+
+
+| 列１　居左显示 | 列２　居中显示 | 列３　居右显示 |
+| :------ | :-----: | ------: |
+| 内容      |   内容    |      内容 |
+| 内容      |   内容    |      内容 |
+| 内容      |   内容    |      内容 |
+
+
+1. 有序列表一
+2. 有序列表二
+3. 有序列表三
+
+
+- 无序列表一
+- 无序列表二
+- 无序列表三
+
+
+------
+
+
+
+[外部链接](https://www.qq.com)
+
+------
+
+
+并非所有的　markdown 渲染引擎都支持　Todo Task List ，故记录下　html　写法备用
+
+
+<input type='checkbox' onclick='return false;' checked> Yes 不可以再次点击选中
+
+
+<input type='checkbox' onclick='return true;' > No　可以再次点击选中
+
+
+
+
