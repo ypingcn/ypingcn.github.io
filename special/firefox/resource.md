@@ -97,13 +97,20 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 
 所谓第三方分发，是指基于 Firefox 火狐浏览器的基础上，二次开发功能的浏览器
 
-### 1. RunningCheese Firefox
+### 1. Librewolf
+
+一款专注于安全和隐私、基于火狐浏览器定制的浏览器，自带广告过滤插件 uBlock Origin，适合在意隐私和安全、同时也适合需要安装但无法安装广告过滤插件的人群使用
+
+<a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>
+
+
+### 2. RunningCheese Firefox
 
 高效、简洁、深度定制版火狐浏览器，内置了许多非常实用的功能如鼠标手势等，功能齐全，深受粉丝欢迎。
 
 <a href="https://www.runningcheese.com/firefox" rel="nofollow" style="color: #0c82ff;">https://www.runningcheese.com/firefox</a>
 
-### 2. Fennec
+### 3. Fennec
 
 安卓版，去除了浏览器的遥测功能。
 

@@ -28,6 +28,8 @@ update: 2022-04-03 14:12 +0800
 
 > <a href="https://www.crxsoso.com/firefox/detail/ublock-origin" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件备选下载地址</a> 
 
+> 或者下载使用同样基于火狐浏览器定制的 Librewolf 浏览器，自带 uBlock Origin ，官网 --> <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>
+
 Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin ，点开菜单中的附加组件选项，勾选安装即可。
 
 > 注：2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 uBlock Origin，手机版本也会受到影响，可以安装 Ghostery 来代替
