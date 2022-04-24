@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  Firefox 火狐浏览器资源汇总（2022年）
-description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版才能尽量避免广告。而一般通过搜索容易被误导。特此汇总资源整理相关的下载资源，对广告说不。精心整理 Firefox 火狐浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器畅游网络
+description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版才能尽量避免广告。而一般通过搜索容易被误导。特此汇总资源整理相关的下载资源，对广告说不。精心整理 Firefox 火狐浏览器/Librewolf浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf浏览器畅游网络
 date: 2021-10-30 12:00 +0800
-update: 2022-04-23 18:12 +0800
+update: 2022-04-24 15:15 +0800
 ---
 
 中文用户下载 Firefox 火狐浏览器一般会下载到谋智版和国际版，下载国际版才能尽量避免广告。而一般通过搜索不容易下到正确的国际版。特此汇总资源整理相关的下载资源，对广告说不。
@@ -75,19 +75,19 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 该页面点击下载会跳转到应用商店且带有营销链接。如果有下载 Firefox 火狐浏览器 APK 的需要，不妨直接访问构建系统的地址，选择下载。地址如下——
 
 <a href="https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.release.latest/arm64-v8a
-" rel="nofollow" style="color: #0c82ff;">:https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.release.latest/arm64-v8a
+" rel="nofollow" style="color: #0c82ff;">https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.release.latest/arm64-v8a
 </a>
 
 
 ### 5. 安卓 Beta 测试版
 
-自动构建，频率大概是一周一到两次，Beta 作为公开测试版本也可能存在影响使用的问题，不推荐将数据放在上面。
+自动构建，频率大概是一周一到两次，Beta 作为公开测试版本也可能存在影响使用的问题，不推荐将日常使用的数据放在上面。
 
 <a href="https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.beta.latest/arm64-v8a" rel="nofollow" style="color: #0c82ff;">https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.beta.latest/arm64-v8a</a>
 
 ### 6. 安卓 Nightly 每夜构建版
 
-自动构建最新代码，频率是一天一次。需要注意的是，Nightly 是最新的代码构建而成的安装包，可能存在 BUG 等问题，不稳定不推荐主力使用。
+自动构建最新代码，频率是一天一次。需要注意的是，Nightly 是最新的代码构建而成的安装包，可能存在 BUG 等问题，可能有不稳定的问题，不推荐主力使用。
 
 <a href="https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.nightly.latest/arm64-v8a" rel="nofollow" style="color: #0c82ff;">https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.nightly.latest/arm64-v8a</a>
 
@@ -95,13 +95,16 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 
 ------
 
-所谓第三方分发，是指基于 Firefox 火狐浏览器的基础上，二次开发功能的浏览器
+所谓第三方分发，是指基于 Firefox 火狐浏览器的基础上，二次开发功能的浏览器。按不同开发者的关注点不同，或着重于隐私与安全的改动，或着重于丰富日常使用体验。
 
 ### 1. Librewolf
 
+> <a href="/special/firefox/librewolf/" style="color: #0c82ff;" target="_blank">《Librewolf 资源汇总》</a> 
+
 一款专注于安全和隐私、基于火狐浏览器定制的浏览器，自带广告过滤插件 uBlock Origin，适合在意隐私和安全、同时也适合需要安装但无法安装广告过滤插件的人群使用
 
-<a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>
+官网 <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>
+
 
 
 ### 2. RunningCheese Firefox
