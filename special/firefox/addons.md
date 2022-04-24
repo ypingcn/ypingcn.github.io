@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  Firefox 火狐浏览器插件推荐（2022年）
-description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，分享几个插件。
+description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，分享几个插件。同时提供备份安装插件的方法，助你安装无忧。
 date: 2020-10-29 23:59 +0800
-update: 2022-04-23 18:12 +0800
+update: 2022-04-24 15:15 +0800
 ---
 
 插件，又称拓展、附加组件、Addons、擴充套件，意在为浏览器实现更多的功能。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
@@ -28,7 +28,7 @@ update: 2022-04-23 18:12 +0800
 
 > <a href="https://www.crxsoso.com/firefox/detail/ublock-origin" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件备选下载地址</a> 
 
-> 或者下载使用同样基于火狐浏览器定制的 Librewolf 浏览器，自带 uBlock Origin ，官网 --> <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>
+**如果是无法安装 uBlock Origin 的大陆地区用户，也可以考虑下载使用同样基于火狐浏览器定制的 Librewolf 浏览器，自带 uBlock Origin ，详见 <a href="/special/firefox/librewolf/" style="color: #0c82ff;" target="_blank">《Librewolf 资源汇总》</a>**
 
 Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin ，点开菜单中的附加组件选项，勾选安装即可。
 
@@ -53,7 +53,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/</a>
 
-> 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 广告过滤插件的影响。
+> 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装广告过滤插件的影响。
 
 > <a href="https://www.crxsoso.com/firefox/detail/adnauseam" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件备选下载地址</a> 
 
