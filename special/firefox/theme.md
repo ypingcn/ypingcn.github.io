@@ -3,7 +3,7 @@ layout: page
 title:  Firefox 火狐浏览器主题美化（2022年）
 description: Firefox 火狐浏览器支持主题设置，简单几次点击即可美化浏览器，满足自己的审美需求。
 date: 2022-03-30 20:40 +0800
-update: 2022-03-30 20:40 +0800
+update: 2022-06-03 14:40 +0800
 ---
 
 Firefox 火狐浏览器支持主题设置，简单几次点击即可美化浏览器，满足自己的审美需求。浏览器访问 ```about:addons``` 切换到主题页即可更改，下方还有当前主题推荐支持一键更换。
@@ -41,3 +41,22 @@ Firefox 火狐浏览器支持主题设置，简单几次点击即可美化浏览
 一个可以让你的主题颜色跟随网页主题色更改的插件，跟使用 Vivaldi 浏览器一样的体验，动态实现主题美化。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;"> VivaldiFox 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/</a>
+
+---
+
+**更多阅读**
+
+<ul class="pager">
+    <li class="previous">
+        <a href="/special/firefox/librewolf/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Librewolf 浏览器资源汇总》">
+        下一篇<br>
+        <span>《Librewolf 浏览器资源汇总》</span>
+        </a>
+    </li>
+    <li class="next">
+        <a href="/special/firefox/addons/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Firefox 火狐浏览器插件推荐》">
+        下一篇<br>
+        <span>《Firefox 火狐浏览器插件推荐》</span>
+        </a>
+    </li>
+</ul>

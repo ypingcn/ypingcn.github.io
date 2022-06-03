@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  Firefox 火狐浏览器资源汇总（2022年）
-description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版才能尽量避免广告。而一般通过搜索容易被误导。特此汇总资源整理相关的下载资源，对广告说不。精心整理 Firefox 火狐浏览器/Librewolf浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf浏览器畅游网络
+description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版才能尽量避免广告。而一般通过搜索容易被误导。特此汇总资源整理相关的下载资源，对广告说不。精心整理 Firefox 火狐浏览器/Librewolf 浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf浏览器畅游网络
 date: 2021-10-30 12:00 +0800
-update: 2022-04-24 15:15 +0800
+update: 2022-06-03 14:24 +0800
 ---
 
 中文用户下载 Firefox 火狐浏览器一般会下载到谋智版和国际版，下载国际版才能尽量避免广告。而一般通过搜索不容易下到正确的国际版。特此汇总资源整理相关的下载资源，对广告说不。
@@ -34,9 +34,11 @@ update: 2022-04-24 15:15 +0800
 
 ------
 
-电脑版本可以在官网直接下载获取，安卓可以使用 <a href="https://f-droid.org/en/packages/de.marmaro.krt.ffupdater/" rel="nofollow" style="color: #0c82ff;">FFUpdate</a> 软件自动更新，或者自行前往官网下载（需要判断好下载页面）
+电脑版本可以在官网直接下载获取。
 
-Firefox 火狐浏览器更新节奏为```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR```，不确认自己适合哪个版本的可以在 <a href="/special/firefox/version/" style="color: #0c82ff;" target="_blank"> 《Firefox 火狐浏览器各版本区别》</a> 文章中了解更多差异和改动。个人使用还是推荐 ``` ESR ``` 或者 ``` Release ``` 这两个更为稳定的版本。
+安卓可以使用 <a href="https://f-droid.org/en/packages/de.marmaro.krt.ffupdater/" rel="nofollow" style="color: #0c82ff;"> FFUpdate </a> 软件自动下载更新，或者自行前往官网下载（需要判断好下载页面），或者在 fdroid 里安装  <a href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid" rel="nofollow" style="color: #0c82ff;"> Fennec </a>。
+
+> Firefox 火狐浏览器更新节奏为```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR```，不确认自己适合哪个版本的可以在 <a href="/special/firefox/version/" style="color: #0c82ff;" target="_blank"> 《Firefox 火狐浏览器各版本区别》</a> 文章中了解更多差异和改动。个人使用还是推荐 ``` ESR ``` 或者 ``` Release ``` 这两个更为稳定的版本。
 
 ### 1. PC 电脑 Windows 最新正式版
 
@@ -105,8 +107,6 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 
 官网 <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>
 
-
-
 ### 2. RunningCheese Firefox
 
 高效、简洁、深度定制版火狐浏览器，内置了许多非常实用的功能如鼠标手势等，功能齐全，深受粉丝欢迎。
@@ -124,3 +124,22 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 语言设置一般是在下载前已经选定好的，遇到不符合需要的情况，可以在设置页里，找到「常规」-> 「语言」（或者直接访问 about:preferences#general ），下拉选择需要额外安装的语言，按提示操作即可。
 
 或者访问 AMO 官网中语言包的下载页面，<a href="https://addons.mozilla.org/zh-CN/firefox/language-tools" rel="nofollow" style="color: #0c82ff;">https://addons.mozilla.org/zh-CN/firefox/language-tools</a>，下载后在设置页面中启用即可。
+
+---
+
+**更多阅读**
+
+<ul class="pager">
+    <li class="previous">
+        <a href="/special/firefox/theme/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Firefox 火狐浏览器主题美化》">
+        下一篇<br>
+        <span>《Firefox 火狐浏览器主题美化》</span>
+        </a>
+    </li>
+    <li class="next">
+        <a href="/special/firefox/addons/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Firefox 火狐浏览器插件推荐》">
+        下一篇<br>
+        <span>《Firefox 火狐浏览器插件推荐》</span>
+        </a>
+    </li>
+</ul>

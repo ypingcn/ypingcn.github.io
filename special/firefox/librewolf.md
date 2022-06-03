@@ -1,17 +1,21 @@
 ---
 layout: page
-title:  Librewolf 浏览器（基于火狐浏览器）的资源汇总（2022年）
+title:  Librewolf 浏览器资源汇总（2022年）
 date: 2022-04-24 13:40 +0800
-update: 2022-04-24 13:40 +0800
+update: 2022-06-03 13:56 +0800
 ---
 
-Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基于 Mozilla Firefox 浏览器定制，旨在为普通用户提供安全和隐私相关设置调整、开箱即用的优秀浏览器。它同样支持 Windows、MacOS、Linux 等多个平台
+Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基于 Mozilla Firefox 火狐浏览器定制，旨在为普通用户提供安全和隐私相关设置调整、开箱即用的优秀浏览器。
+它同样支持 Windows、MacOS、Linux 等多个用户日常使用的平台。
+
+![](/img/special/firefox/librewolf.png "Librewolf 浏览器图标")
 
 它有以下的几个特点适合普通用户使用：
 
 1. 默认内置安装 uBlock Origin 以阻止脚本/广告，保护隐私和安全。
 2. 没有 “添加到 Pocket” 按钮，减少了被推广的机会。
 3. 默认不启用火狐账户进行云同步，但需要时可以手动开启。
+4. 没有自动更新功能。（需要时只能重新下载安装，配置会保留）
 
 对于在意上网安全的用户，它做了以下几点的改动：
 
@@ -23,8 +27,27 @@ Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基�
 
 ## 安装
 
-Librewolf 浏览器官网是 <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>，点击首页 Installation 的蓝色按钮即可跳转到对应平台的下载页面
+Librewolf 浏览器官网是 <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>，点击首页 Installation 的蓝色按钮即可跳转到对应平台的下载页面。
 
 Librewolf 浏览器 Windows 安装包下载地址：<a href="https://librewolf.net/installation/windows/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/installation/windows/</a>
 
 Librewolf 浏览器 MacOS 安装包下载地址：<a href="https://librewolf.net/installation/macos/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/installation/macos/</a>
+
+---
+
+**更多阅读**
+
+<ul class="pager">
+    <li class="previous">
+        <a href="/special/firefox/theme/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Firefox 火狐浏览器主题美化》">
+        下一篇<br>
+        <span>《Firefox 火狐浏览器主题美化》</span>
+        </a>
+    </li>
+    <li class="next">
+        <a href="/special/firefox/version/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Firefox 火狐浏览器版本差异》">
+        下一篇<br>
+        <span>《Firefox 火狐浏览器版本差异》</span>
+        </a>
+    </li>
+</ul>

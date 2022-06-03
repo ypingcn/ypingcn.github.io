@@ -3,7 +3,7 @@ layout: page
 title:  Firefox 火狐浏览器插件推荐（2022年）
 description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，分享几个插件。同时提供备份安装插件的方法，助你安装无忧。
 date: 2020-10-29 23:59 +0800
-update: 2022-04-24 15:15 +0800
+update: 2022-06-03 14:30 +0800
 ---
 
 插件，又称拓展、附加组件、Addons、擴充套件，意在为浏览器实现更多的功能。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
@@ -101,3 +101,22 @@ clearUrls 可以自动清理请求中的这种多余参数，能有效减少信�
 浏览器侧边栏插件，可以跟 edge 一样将所有打开的标签页和书签展示在侧边栏上，提高宽屏显示器的利用效率。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">VivaldiFox 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
+
+---
+
+**更多阅读**
+
+<ul class="pager">
+    <li class="previous">
+        <a href="/special/firefox/librewolf/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Librewolf 浏览器资源汇总》">
+        下一篇<br>
+        <span>《Librewolf 浏览器资源汇总》</span>
+        </a>
+    </li>
+    <li class="next">
+        <a href="/special/firefox/theme/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Firefox 火狐浏览器主题美化》">
+        下一篇<br>
+        <span>《Firefox 火狐浏览器主题美化》</span>
+        </a>
+    </li>
+</ul>

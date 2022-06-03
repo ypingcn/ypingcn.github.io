@@ -2,12 +2,12 @@
 layout: page
 title:  Firefox 火狐浏览器版本差异（2022年）
 date: 2021-10-30 12:00 +0800
-update: 2022-01-16 15:04 +0800
+update: 2022-06-03 14:15 +0800
 ---
 
-> Firefox 火狐浏览器无广告国际版资源，浏览器 APK 下载等资源等详见 <a href="/special/firefox/resource/" style="color: #0c82ff;" target="_blank" >《Firefox 火狐浏览器资源汇总》</a>
+Firefox 火狐浏览器在 PC 电脑上主要分为 ```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR``` 四个版本，每个版本都会在上一个版本稳定之后按计划进入下一个版本。
 
-Firefox 火狐浏览器在 PC 电脑上主要分为 ```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR``` 四个版本，每个版本都会在上一个版本稳定之后按计划进入下一个版本。不同版本的区别不止在 Logo 上，更多的是为了满足不同的需要。
+不同版本的区别不止在 Logo 上，更多的是为了满足不同的需要。
 
 > 以下版本均支持安装插件（又称拓展） <a href="/special/firefox/addons/" style="color: #0c82ff;" target="_blank"> 拓展推荐 </a> ～
 
@@ -62,4 +62,21 @@ Developer 版本官方介绍 <a href="https://www.mozilla.org/zh-CN/firefox/deve
 
 上面提到的不同版本更新节奏均可以在 <a href="https://wiki.mozilla.org/Release_Management/Calendar" rel="nofollow" style="color: #0c82ff;"> Mozilla wiki </a> 中的「发行计划」查询到
 
-> Firefox 火狐浏览器无广告国际版资源，浏览器 APK 下载等资源 --> <a href="/special/firefox/resource/" style="color: #0c82ff;" target="_blank" >《Firefox 火狐浏览器资源汇总》</a>
+---
+
+**更多阅读**
+
+<ul class="pager">
+    <li class="previous">
+        <a href="/special/firefox/librewolf/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Librewolf 浏览器资源汇总》">
+        下一篇<br>
+        <span>《Librewolf 浏览器资源汇总》</span>
+        </a>
+    </li>
+    <li class="next">
+        <a href="/special/firefox/addons/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Firefox 火狐浏览器插件推荐》">
+        下一篇<br>
+        <span>《Firefox 火狐浏览器插件推荐》</span>
+        </a>
+    </li>
+</ul>
