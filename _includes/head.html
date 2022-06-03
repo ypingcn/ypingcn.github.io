@@ -6,8 +6,6 @@
     <meta name="theme-color" content="{{ site.chrome-tab-theme-color }}">
     <meta name="msvalidate.01" content="DBEA5FE38EFA4F1453FBE81340557E61" />
     <meta name="google-site-verification" content="M_0tfwClFahOrYyF9cDiHY6yc0Dn2MX53E_EXsborxY" />
-    <!-- search test -->
-    <meta name="sogou_site_verification" content="kDe0ePMEZk"/>
     <meta name="bytedance-verification-code" content="osIEj8PJnCsWD5fhgXab" />
     <meta name='description' content='{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}'>
     <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
@@ -71,14 +69,14 @@
     <!-- Canonical URL -->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap.min.js@3.3.5/bootstrap.min.css">
+    <link rel="stylesheet" href="//fastly.jsdelivr.net/npm/bootstrap.min.js@3.3.5/bootstrap.min.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/hux-blog.min.css" | prepend: site.baseurl }}">
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
     <!-- Custom Fonts -->
     <!-- <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
-    <link href="//cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="//fastly.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WQ4LEY90VJ"></script>
     <script>

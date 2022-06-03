@@ -90,11 +90,11 @@
 
 <!-- jQuery -->
 <!-- <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script> -->
-<script src="//cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+<script src="//fastly.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <!-- <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script> -->
-<script src="//cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+<script src="//fastly.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
@@ -142,7 +142,7 @@
 <!--fastClick.js -->
 <script>
     // async("//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js", function(){
-    async("//cdn.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js", function(){
+    async("//fastly.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js", function(){
         var $nav = document.querySelector("nav");
         if($nav) FastClick.attach($nav);
     })
