@@ -1,5 +1,5 @@
 ---
-layout:  page
+layout: page
 title:  帮助 FAQ
 update:  2022-06-03 13:53 +0800
 description: 博客的 FAQ 页面，记录博客所有模块的入口和常见问题的解答，希望能及时提供帮助。
@@ -46,5 +46,3 @@ linkeddata: {"@context":"http://schema.org","@type":"ItemList","numberOfItems":"
 ### 基金
 
 <a href="/special/fund/year-book/" style="color: #0c82ff;"># @中国公募基金发展大事记 ~ </a>
-
-

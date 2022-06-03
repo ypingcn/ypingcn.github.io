@@ -1,5 +1,5 @@
 ---
-layout:  page
+layout: page
 title:  LCTT 翻译记录
 description: 本页面记录了2016年11月到2018年10月间在  Linux.Cn Translation Team （LCTT）翻译的文章，并在此向校对者致以真诚的谢意。
 update:  2021-11-06 23:30 +0800

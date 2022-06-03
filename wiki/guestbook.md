@@ -1,5 +1,5 @@
 ---
-layout:  page
+layout: page
 title:  留言
 update:  2017-08-10 15:50 +0800
 ---
