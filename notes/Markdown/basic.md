@@ -3,7 +3,7 @@ layout: page
 title:  Markdown 基础语法
 description: Markdown 十二个基本语法（标题、引用、斜体、粗体、有序列表和无序列表、链接、图片、删除线、分割线、脚注、代码）
 date: 2016-11-10 12:00 +0800
-update: 2021-11-21 15:12 +0800
+update: 2022-06-03 15:19 +0800
 linkeddata: {"@context":"https://schema.org","@type":"NewsArticle","headline":"Markdown 十二个基本语法（标题、引用、斜体、粗体、有序列表和无序列表、链接、图片、删除线、分割线、脚注、代码）","image":["https://blog.ypingcn.com/img/home-bg.webp"],"datePublished":"2016-11-10T08:00:00+08:00","dateModified":"2021-11-06 00:20 +0800","author":[{"@type":"Person","name":"ypingcn","url":"https://blog.ypingcn.com/wiki/about/"}]}
 ---
 
@@ -95,3 +95,22 @@ hello[^note]
 参考资料
 
 <a href="http://wowubuntu.com/markdown/" style="color: #0c82ff;"  target="_blank" rel="noopener nofollow">Markdown 语法说明(简体中文版)</a>
+
+---
+
+**更多阅读**
+
+<ul class="pager">
+    <li class="previous">
+        <a href="/notes/Markdown/LaTex-math/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Markdwon + LaTex 表达数学式子》">
+        下一篇<br>
+        <span>《Markdwon + LaTex 表达数学式子》</span>
+        </a>
+    </li>
+    <li class="next">
+        <a href="/notes/Markdown/basic/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Markdown 基础语法》">
+        下一篇<br>
+        <span>《Markdown 基础语法》</span>
+        </a>
+    </li>
+</ul>

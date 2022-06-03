@@ -3,7 +3,7 @@ layout: page
 title:  Markdwon + LaTex 表达数学式子
 description: Markdown 撰写数学式子（字符、省略号、括号、分隔符、箭头、插入文字、上下标与希腊字母、标准函数、分数、根号、导数、偏导数、积分、极限、求和、向量、排列组合等）的方法
 date: 2016-11-10 08:20 +0800
-update: 2021-12-05 14:28 +0800
+update: 2022-06-03 15:19 +0800
 ---
 
 <a href="/notes/Markdown/basic/" style="font-weight: bold">基础的 Markdown 语法</a> 中无法满足数学式子的表达需求，此时可以借助 Latex 语法完成。在 Markdown 中由前后两个 ``` $$ ```包围的部分可以写 LaTex 源代码（最新版 Typora 已经支持）如下
@@ -178,6 +178,21 @@ g & h & i
 
 \#2 <a href="https://zh.wikibooks.org/wiki/LaTeX/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F" style="color: #0c82ff;"  target="_blank" rel="noopener nofollow">LaTeX/数学公式 - 维基教科书，自由的教学读本</a>
 
+---
 
+**更多阅读**
 
-
+<ul class="pager">
+    <li class="previous">
+        <a href="/notes/Markdown/LaTex-math/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Markdwon + LaTex 表达数学式子》">
+        下一篇<br>
+        <span>《Markdwon + LaTex 表达数学式子》</span>
+        </a>
+    </li>
+    <li class="next">
+        <a href="/notes/Markdown/basic/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Markdown 基础语法》">
+        下一篇<br>
+        <span>《Markdown 基础语法》</span>
+        </a>
+    </li>
+</ul>
