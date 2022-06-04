@@ -101,7 +101,7 @@ layout: default
                 <h5><a href="{{'/wiki/about/' | prepend: site.baseurl }}">关于</a></h5>
                 <div class="short-about">
                     {% if site.sidebar-avatar %}
-                    <img src="{{site.sidebar-avatar}}" alt="ypingcn - 博客边栏正方形头像" />
+                    <img src="{{site.sidebar-avatar}}" alt="博客边栏正方形头像" />
                     {% endif %}
                     {% if site.sidebar-about-description %}
                     <p>{{site.sidebar-about-description}}</p>
@@ -196,17 +196,10 @@ layout: default
                             alt="「基金专题」">「基金专题」</a>
                 </div>
                 <h5>你可能会喜欢</h5>
-                <div>
-                    {% assign next_page_group = site.pages | sample: 6  %}
-                    {% for next_page in next_page_group %}
-                    {% assign now_folder_level = next_page.url | split:"/" | size %}
-                    {% assign now_all_folder = next_page.url | split:"/" %}
-                    {% if next_page.title and now_folder_level >= 3 %}
-                    {% if now_all_folder[1]  == "special" or now_all_folder[1]  == "notes" %}
+                <div>{% assign next_page_group = site.pages | sample: 6  %}{% for next_page in next_page_group %}{% assign now_folder_level = next_page.url | split:"/" | size %}{% assign now_all_folder = next_page.url | split:"/" %}
+                    {% if next_page.title and now_folder_level >= 3 %}{% if now_all_folder[1]  == "special" or now_all_folder[1]  == "notes" %}
                     <a target="_blank" style="color: #0c82ff;" href="{{next_page.url}}" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
-                    {% endif %}
-                    {% endif %}
-                    {% endfor %}
+                    {% endif %}{% endif %}{% endfor %}
                 </div>
             </li>
             </section>
