@@ -26,7 +26,7 @@ for x in sorted(dir):
             result = pattern.findall(line)
             if result:
                 print(result[0])
-                index.write("<a href=\"./"+x+"/"+y[0:len(y)-3]+"\" style=\"color:#0c82ff;\">《"+result[0]+"》</a>\n\n")
+                index.write("<a href=\"./"+x+"/"+y[0:len(y)-3]+"/\" style=\"color:#0c82ff;\">《"+result[0]+"》</a>\n\n")
     os.chdir("..")
     index.write("\n")
 
