@@ -198,8 +198,17 @@ layout: default
                 <h5>你可能会喜欢</h5>
                 <div>{% assign next_page_group = site.pages | sample: 6  %}{% for next_page in next_page_group %}{% assign now_folder_level = next_page.url | split:"/" | size %}{% assign now_all_folder = next_page.url | split:"/" %}
                     {% if next_page.title and now_folder_level >= 3 %}{% if now_all_folder[1]  == "special" or now_all_folder[1]  == "notes" %}
-                    <a target="_blank" style="color: #0c82ff;" href="{{next_page.url}}" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
+                    <a style="color: #0c82ff;" href="{{next_page.url}}" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
                     {% endif %}{% endif %}{% endfor %}
+                </div>
+                <h5>[AD] -- 侧边栏广告 --</h5>
+                <div>
+                <!-- 侧边栏广告 -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6252206902371079"
+                    data-ad-slot="1807131374" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
                 </div>
             </li>
             </section>
