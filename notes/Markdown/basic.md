@@ -100,17 +100,25 @@ hello[^note]
 
 **更多阅读**
 
-<ul class="pager">
-    <li class="previous">
-        <a href="/notes/Markdown/LaTex-math/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Markdwon + LaTex 表达数学式子》">
-        下一篇<br>
-        <span>《Markdwon + LaTex 表达数学式子》</span>
-        </a>
-    </li>
-    <li class="next">
-        <a href="/notes/Markdown/basic/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Markdown 基础语法》">
-        下一篇<br>
-        <span>《Markdown 基础语法》</span>
-        </a>
-    </li>
-</ul>
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2
+    col-md-10 col-md-offset-1
+    post-container">
+        <ul class="pager">
+            <li class="previous">
+                <a href="/notes/Markdown/LaTex-math/" target="_blank" data-toggle="tooltip" data-placement="top"
+                    title="《Markdwon + LaTex 表达数学式子》">
+                    下一篇<br>
+                    <span>《Markdwon + LaTex 表达数学式子》</span>
+                </a>
+            </li>
+            <li class="next">
+                <a href="/notes/Markdown/basic/" target="_blank" data-toggle="tooltip" data-placement="top"
+                    title="《Markdown 基础语法》">
+                    下一篇<br>
+                    <span>《Markdown 基础语法》</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

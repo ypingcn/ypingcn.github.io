@@ -106,17 +106,25 @@ clearUrls 可以自动清理请求中的这种多余参数，能有效减少信�
 
 **更多阅读**
 
-<ul class="pager">
-    <li class="previous">
-        <a href="/special/firefox/librewolf/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Librewolf 浏览器资源汇总》">
-        下一篇<br>
-        <span>《Librewolf 浏览器资源汇总》</span>
-        </a>
-    </li>
-    <li class="next">
-        <a href="/special/firefox/theme/"  target="_blank" data-toggle="tooltip" data-placement="top" title="《Firefox 火狐浏览器主题美化》">
-        下一篇<br>
-        <span>《Firefox 火狐浏览器主题美化》</span>
-        </a>
-    </li>
-</ul>
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2
+    col-md-10 col-md-offset-1
+    post-container">
+        <ul class="pager">
+            <li class="previous">
+                <a href="/special/firefox/librewolf/" target="_blank" data-toggle="tooltip" data-placement="top"
+                    title="《Librewolf 浏览器资源汇总》">
+                    下一篇<br>
+                    <span>《Librewolf 浏览器资源汇总》</span>
+                </a>
+            </li>
+            <li class="next">
+                <a href="/special/firefox/theme/" target="_blank" data-toggle="tooltip" data-placement="top"
+                    title="《Firefox 火狐浏览器主题美化》">
+                    下一篇<br>
+                    <span>《Firefox 火狐浏览器主题美化》</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
