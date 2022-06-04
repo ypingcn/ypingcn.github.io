@@ -46,3 +46,17 @@ linkeddata: {"@context":"http://schema.org","@type":"ItemList","numberOfItems":"
 ### 基金
 
 <a href="/special/fund/year-book/" style="color: #0c82ff;"># @中国公募基金发展大事记 ~ </a>
+
+### KPOP
+
+<a href="/special/song/iu-drama/" style="color: #0c82ff;"># Drama @IU </a>
+
+<a href="/special/song/iu-suga-eight" style="color: #0c82ff;"># Eight @IUxSUGA </a>
+
+<a href="/special/song/iu-the-forgotten-season/" style="color: #0c82ff;"># 被遗忘的季节 @IU </a>
+
+<a href="/special/song/iu-your-meaning/" style="color: #0c82ff;"># 你的意义 @IU </a>
+
+<a href="/special/song/janabi-a-thought-on-an-autumn-night/" style="color: #0c82ff;"># 秋夜思绪 @Jannabi </a>
+
+<a href="/special/song/jannabi-for-lover-who-hesitate/" style="color: #0c82ff;"># 致犹豫的恋人们 @Jannabi </a>
