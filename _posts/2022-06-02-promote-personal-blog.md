@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "营销自己 —— 个人博客推广记录总结"
+title:  "个人博客推广记录总结"
 subtitle: "how to promote personal blog"
 description: ""
 date:   2022-06-02 +0800
-update: 2022-06-03 17:41 +0800
+update: 2022-06-05 13:56 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
