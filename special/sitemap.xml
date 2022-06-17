@@ -2,6 +2,12 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+    <loc>{{site.url}}/special/firefox/addons/</loc>
+    <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+</url>
 {% for page in site.pages %}
 {% assign now_folder = page.url | slice: 0,9 %}
 {% assign now_folder_level = page.url | split:"/" | size %}
