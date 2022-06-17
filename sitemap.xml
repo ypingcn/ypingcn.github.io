@@ -5,39 +5,59 @@
 
 <url>
   <loc>{{ site.url }}</loc>
-  <lastmod>2020-11-01T12:00+08:00</lastmod>
+  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>{{ site.url }}/tags/</loc>
-  <lastmod>2020-11-01T12:00+08:00</lastmod>
+  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>{{ site.url }}/notes/</loc>
-  <lastmod>2020-11-01T12:00+08:00</lastmod>
+  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>{{ site.url }}/wiki/</loc>
-  <lastmod>2020-11-21T11:30+08:00</lastmod>
+  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
   <changefreq>daily</changefreq>
-  <priority>1.00</priority>
+  <priority>0.60</priority>
 </url>
-
+<url>
+  <loc>{{ site.url }}/wiki/privacy/</loc>
+  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>{{ site.url }}/wiki/lctt/</loc>
+  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>{{ site.url }}/wiki/copywriting-guidelines/</loc>
+  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>{{ site.url }}/wiki/about/</loc>
+  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.60</priority>
+</url>
 {% for post in site.posts %}
-    <url>
-      <loc>
-      {{ site.url }}{{ post.url | remove: 'index.html' }}
-      </loc>
-      <lastmod>
-      {% if post.update %}{{ post.update | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}
-      </lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.00</priority>
-    </url>
-{% endfor %}
+<url>
+    <loc>
+    {{ site.url }}{{ post.url | remove: 'index.html' }}
+    </loc>
+    <lastmod>{% if post.update %}{{ post.update | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %} </lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+</url>{% endfor %}
 </urlset>
