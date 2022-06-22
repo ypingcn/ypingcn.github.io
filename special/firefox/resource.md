@@ -3,24 +3,22 @@ layout: page
 title:  Firefox 火狐浏览器资源汇总（2022年）
 description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版才能尽量避免广告。而一般通过搜索容易被误导。特此汇总资源整理相关的下载资源，对广告说不。精心整理 Firefox 火狐浏览器/Librewolf 浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf浏览器畅游网络
 date: 2021-10-30 12:00 +0800
-update: 2022-06-03 14:24 +0800
+update: 2022-06-22 14:41 +0800
 ---
 
 中文用户下载 Firefox 火狐浏览器一般会下载到谋智版和国际版，下载国际版才能尽量避免广告。而一般通过搜索不容易下到正确的国际版。特此汇总资源整理相关的下载资源，对广告说不。
 
-另外，就算下载到了国际版，下载后需要更新下主页的设置。中文版的默认主页在购物节期间依旧会有广告。
-
 <a href="/special/firefox/addons/" style="color: #0c82ff;" target="_blank"> 合理安装使用插件</a> 可以让日常使用更加顺手有效率～
 
-## 一. 国际版与谋智版的区分
+**快速下载**：最新国际简体中文版<a href="https://archive.mozilla.org/pub/firefox/releases/101.0.1/win64/zh-CN/Firefox%20Setup%20101.0.1.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 101.0.1.exe </a>
 
 ------
 
+## 一. 国际版与谋智版的区分
+
 ### 1. 从版本信息判断
 
-在浏览器的版本信息中查看：路径是 菜单 -> 帮助 -> 关于
-
-如果在弹出的页面中包含「北京谋智网络技术有限公司」「谋智」等字眼，那就是下载到了国内代理的特殊版本，需要调整使用为国际版。下图是国际版的一个关于截图。
+在浏览器的版本信息中查看：路径是 【菜单】 -> 【帮助】 -> 关于 如果在弹出的页面中包含「北京谋智网络技术有限公司」「谋智」等字眼，那就是下载到了国内代理的特殊版本，需要调整使用为国际版。下图是国际版的一个关于截图。
 
 <img src="/img/special/firefox/firefox-nightly-about.png" style="width:auto;height:auto;max-width:100%;max-height:100%;" alt="Firefox 火狐浏览器 Nightly 版关于页面">
 
@@ -30,9 +28,9 @@ update: 2022-06-03 14:24 +0800
 
 国际版在地址栏中间是没有二维码按钮的，二维码是由插件功能提供的而不是自带功能。从这一点界面上的区别也可以简单快速地判断出。
 
-## 二. 安装包下载地址
-
 ------
+
+## 二. 安装包下载地址
 
 电脑版本可以在官网直接下载获取。
 
@@ -80,7 +78,6 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 " rel="nofollow" style="color: #0c82ff;">https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.release.latest/arm64-v8a
 </a>
 
-
 ### 5. 安卓 Beta 测试版
 
 自动构建，频率大概是一周一到两次，Beta 作为公开测试版本也可能存在影响使用的问题，不推荐将日常使用的数据放在上面。
@@ -93,9 +90,9 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 
 <a href="https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.nightly.latest/arm64-v8a" rel="nofollow" style="color: #0c82ff;">https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.nightly.latest/arm64-v8a</a>
 
-## 三. 第三方分发版本
-
 ------
+
+## 三. 第三方分发版本
 
 所谓第三方分发，是指基于 Firefox 火狐浏览器的基础上，二次开发功能的浏览器。按不同开发者的关注点不同，或着重于隐私与安全的改动，或着重于丰富日常使用体验。
 
