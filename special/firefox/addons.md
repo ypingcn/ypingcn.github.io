@@ -3,14 +3,12 @@ layout: page
 title:  Firefox 火狐浏览器插件推荐（2022年）
 description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，分享几个插件。同时提供备份安装插件的方法，助你安装无忧。
 date: 2020-10-29 23:59 +0800
-update: 2022-06-03 14:30 +0800
+update: 2022-06-22 14:20 +0800
 ---
 
 插件，又称拓展、附加组件、Addons、擴充套件，意在为浏览器实现更多的功能。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
 
 而 <a href="https://addons.mozilla.org/zh-CN/firefox/" rel="nofollow" style="color: #0c82ff;">「Firefox 火狐浏览器插件官网 AMO 」</a> 中有海量实用的官方/第三方扩展插件，这些运行在浏览器上的小插件能为浏览器增添功能，让上网变得更快、更安全，效率更高。无论你是在操作效率、隐私安全上有要求，或者是希望提高购物、看视频、界面阅读等方面的体验，在 AMO 中都能找到对应的拓展完成你的目标～
-
-> Firefox 火狐浏览器官网国际版资源，浏览器 APK 下载等资源等详见 <a href="/special/firefox/resource/" style="color: #0c82ff;" target="_blank" >《Firefox 火狐浏览器资源汇总》</a>
 
 ## uBlock Origin
 
@@ -18,17 +16,18 @@ update: 2022-06-03 14:30 +0800
 
 <center><font color="#bfbfbf"> --- uBlock Origin 简介及评分 --- </font></center>
 
-首先推荐的是去广告插件 uBlock Origin <a href="https://ublockorigin.com/" rel="nofollow" style="color: #0c82ff;">「官网」</a>，只使用默认的配置就能减少无关内容对页面浏览的分心。还能在设置页面里添加更多规则，例如启用 EasyPrivacy 规则，减少网站对用户数据的收集。
+首先推荐的是广告过滤插件 uBlock Origin <a href="https://ublockorigin.com/" rel="nofollow" style="color: #0c82ff;">「官网」</a>。
 
-它本身是还是一个开源软件，因此也有许多热心的网友整理了很多 uBlock Origin 规则以供使用 —— 除了内置的 uBlock filters 规则外，还有著名的过滤广告规则 EasyList 、隐私保护规则 EasyPrivacy 和拦截恶意网站，除此之外还有针对特定地区/语言的不同规则可以选择。
+只使用默认的配置就能减少无关内容对页面浏览的分心。还能在设置页面里添加更多第三方维护的规则，如 EasyPrivacy 规则，以此减少网站对用户数据的收集。
+
+因为它本身是还是一个开源软件，因此也有许多热心的网友整理了很多 uBlock Origin 规则以供使用 —— 除了内置的 uBlock filters 规则外，还有著名的过滤广告规则 EasyList 、隐私保护规则 EasyPrivacy 和拦截恶意网站，除此之外还有针对特定地区/语言的不同规则可以选择。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/</a>
 
-> 注：2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 uBlock Origin，大陆用户访问会提示「此页面在您的地区不可用、您尝试访问的页面在您的地区不可用」，可以使用这个地址备选下载。 
-
-> <a href="https://www.crxsoso.com/firefox/detail/ublock-origin" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件备选下载地址</a> 
+> 注：2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 uBlock Origin，大陆用户访问会提示「**此页面在您的地区不可用、您尝试访问的页面在您的地区不可用**」，可以使用这个地址备选下载。 <a href="https://www.crxsoso.com/firefox/detail/ublock-origin" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件备选下载地址</a> 
 
 **如果是无法安装 uBlock Origin 的大陆地区用户，也可以考虑下载使用同样基于火狐浏览器定制的 Librewolf 浏览器，自带 uBlock Origin ，详见 <a href="/special/firefox/librewolf/" style="color: #0c82ff;" target="_blank">《Librewolf 资源汇总》</a>**
+
 
 Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin ，点开菜单中的附加组件选项，勾选安装即可。
 
@@ -53,9 +52,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/</a>
 
-> 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装广告过滤插件的影响。
-
-> <a href="https://www.crxsoso.com/firefox/detail/adnauseam" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件备选下载地址</a> 
+> 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装广告过滤插件的影响。 <a href="https://www.crxsoso.com/firefox/detail/adnauseam" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件备选下载地址</a> 
 
 ## Gesturefy
 
