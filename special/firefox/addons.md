@@ -10,6 +10,8 @@ update: 2022-06-22 14:20 +0800
 
 而 <a href="https://addons.mozilla.org/zh-CN/firefox/" rel="nofollow" style="color: #0c82ff;">「Firefox 火狐浏览器插件官网 AMO 」</a> 中有海量实用的官方/第三方扩展插件，这些运行在浏览器上的小插件能为浏览器增添功能，让上网变得更快、更安全，效率更高。无论你是在操作效率、隐私安全上有要求，或者是希望提高购物、看视频、界面阅读等方面的体验，在 AMO 中都能找到对应的拓展完成你的目标～
 
+**更多**: <a href="/wiki/affiliate/" style="color: #0c82ff;" target="_blank"> 好物资源推荐</a>  
+
 ## uBlock Origin
 
 <img src="/img/special/firefox/firefox-ublock-origin.png" style="width:auto;height:auto;max-width:100%;max-height:100%;" alt="uBlock Origin 简介及评分">

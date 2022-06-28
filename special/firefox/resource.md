@@ -6,11 +6,15 @@ date: 2021-10-30 12:00 +0800
 update: 2022-06-22 14:41 +0800
 ---
 
+**快速下载**：最新国际简体中文版<a href="https://archive.mozilla.org/pub/firefox/releases/101.0.1/win64/zh-CN/Firefox%20Setup%20101.0.1.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 101.0.1.exe </a>
+
+---
+
 中文用户下载 Firefox 火狐浏览器一般会下载到谋智版和国际版，下载国际版才能尽量避免广告。而一般通过搜索不容易下到正确的国际版。特此汇总资源整理相关的下载资源，对广告说不。
 
-<a href="/special/firefox/addons/" style="color: #0c82ff;" target="_blank"> 合理安装使用插件</a> 可以让日常使用更加顺手有效率～
+**更多**: <a href="/wiki/affiliate/" style="color: #0c82ff;" target="_blank"> 好物资源推荐</a>  
 
-**快速下载**：最新国际简体中文版<a href="https://archive.mozilla.org/pub/firefox/releases/101.0.1/win64/zh-CN/Firefox%20Setup%20101.0.1.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 101.0.1.exe </a>
+**更多**: <a href="/special/firefox/addons/" style="color: #0c82ff;" target="_blank"> 合理安装使用插件</a> 可以让日常使用更加顺手有效率～
 
 ------
 
