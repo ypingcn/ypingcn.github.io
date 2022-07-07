@@ -2,7 +2,11 @@
 layout: page
 title:  Librewolf 浏览器资源汇总（2022年）
 date: 2022-04-24 13:40 +0800
-update: 2022-06-22 14:36 +0800
+update: 2022-07-07 10:53 +0800
+---
+
+**快速下载**：<a href="https://gitlab.com/librewolf-community/browser/windows/uploads/7ed3c7e53861c238824694655f52f55e/librewolf-101.0.1-1.en-US.win64-setup.exe" rel="nofollow" style="color: #0c82ff;">Librewolf-101.0.1-1.en-US.win64-setup.exe</a>
+
 ---
 
 Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基于 Mozilla Firefox 火狐浏览器定制，旨在为普通用户提供安全和隐私相关设置调整、开箱即用的优秀浏览器。
@@ -31,7 +35,7 @@ Librewolf 浏览器官网是 <a href="https://librewolf.net/" rel="nofollow" sty
 
 Librewolf 浏览器 Windows 安装包下载地址：<a href="https://librewolf.net/installation/windows/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/installation/windows/</a>
 
-**快速下载**：<a href="https://gitlab.com/librewolf-community/browser/windows/uploads/7ed3c7e53861c238824694655f52f55e/librewolf-101.0.1-1.en-US.win64-setup.exe" rel="nofollow" style="color: #0c82ff;">Librewolf-101.0.1-1.en-US.win64-setup.exe</a>
+
 
 Librewolf 浏览器 MacOS 安装包下载地址：<a href="https://librewolf.net/installation/macos/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/installation/macos/</a>
 

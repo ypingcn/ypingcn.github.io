@@ -2,11 +2,13 @@
 layout: page
 title:  歌曲教学 - 秋夜思绪 @Jannabi
 date: 2022-06-03 19:34 +0800
-update: 2022-06-03 19:34 +0800
+update: 2022-07-07 10:30 +0800
 description: 秋夜思绪 @Jannabi - 韩语罗马音译
 ---
 
 秋夜思绪 （A thought on an autumn night 가을밤에 든 생각） @Jannabi 
+
+Lyrics Korean/Hangul Romanization/Chinese
 
 韩语罗马音译全文如下
 

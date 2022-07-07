@@ -2,11 +2,13 @@
 layout: page
 title:  歌曲教学 - 你的意义 @IU
 date: 2022-06-03 19:34 +0800
-update: 2022-06-03 19:34 +0800
+update: 2022-07-07 10:30 +0800
 description: 你的意义 @IU - 韩语罗马音译
 ---
 
 你的意义(너의 의미) @IU
+
+Lyrics Korean/Hangul Romanization/Chinese
 
 韩语罗马音译全文如下
 

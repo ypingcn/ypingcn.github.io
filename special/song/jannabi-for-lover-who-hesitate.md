@@ -2,11 +2,13 @@
 layout: page
 title:  歌曲教学 - 致犹豫的恋人们 @Jannabi
 date: 2022-06-03 19:34 +0800
-update: 2022-06-03 19:34 +0800
+update: 2022-07-07 10:30 +0800
 description: 致犹豫的恋人们 @Jannabi - 韩语罗马音译
 ---
 
 致犹豫的恋人们(주저하는 연인들을 위해) @Jannabi 
+
+Lyrics Korean/Hangul Romanization/Chinese
 
 韩语罗马音译全文如下
 
