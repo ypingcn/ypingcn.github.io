@@ -2,7 +2,7 @@
 layout: page
 title:  Firefox 火狐浏览器版本差异（2022年）
 date: 2021-10-30 12:00 +0800
-update: 2022-06-03 14:15 +0800
+update: 2022-08-01 10:0 +0800
 ---
 
 Firefox 火狐浏览器在 PC 电脑上主要分为 ```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR``` 四个版本，每个版本都会在上一个版本稳定之后按计划进入下一个版本。
@@ -13,7 +13,7 @@ Firefox 火狐浏览器在 PC 电脑上主要分为 ```Nightly``` --> ```Beta```
 
 ## Nlightly 每夜构建版
 
-![](/img/special/firefox/Fx-Browser-Nightly-icon-fullColor-128.png "Firefox 火狐浏览器 Nightly")
+<img src="/img/special/firefox/Fx-Browser-Nightly-icon-fullColor-128.png" alt="Firefox 火狐浏览器 Nightly" title="Firefox 火狐浏览器 Beta" />
 
 <font color="#bfbfbf">--- Firefox 火狐浏览器 Nightly, @Mozilla Copyright --- </font>
 
@@ -27,11 +27,11 @@ Nightly 版的 Logo 是十分鲜艳的紫色，表明这个版本是十分不稳
 
 ## Beta+Develpoer 公开测试版
 
-![](/img/special/firefox/Fx-Browser-Beta-icon-fullColor-128.png "Firefox 火狐浏览器 Beta")
+<img src="/img/special/firefox/Fx-Browser-Beta-icon-fullColor-128.png" alt="Firefox 火狐浏览器 Beta" title="Firefox 火狐浏览器 Beta" />
 
 <font color="#bfbfbf">--- Firefox 火狐浏览器 Beta, @Mozilla Copyright --- </font>
 
-![](/img/special/firefox/Fx-Browser-Developer-icon-fullColor-128.png "Firefox 火狐浏览器 Developer")
+<img src="/img/special/firefox/Fx-Browser-Developer-icon-fullColor-128.png" alt="Firefox 火狐浏览器 Developer" title="Firefox 火狐浏览器 Developer" />
 
 <font color="#bfbfbf">--- Firefox 火狐浏览器 Developer, @Mozilla Copyright --- </font>
 
@@ -47,7 +47,7 @@ Developer 版本官方介绍 <a href="https://www.mozilla.org/zh-CN/firefox/deve
 
 ## Release 正式发布版本
 
-![](/img/special/firefox/Fx-Browser-icon-fullColor-128.png "Firefox 火狐浏览器")
+<img src="/img/special/firefox/Fx-Browser-icon-fullColor-128.png" alt="Firefox 火狐浏览器" title="Firefox 火狐浏览器" />
 
 <font color="#bfbfbf">--- Firefox 火狐浏览器, @Mozilla Copyright --- </font>
 
