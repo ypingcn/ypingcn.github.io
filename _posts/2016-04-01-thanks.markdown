@@ -4,7 +4,7 @@ title:      "感谢"
 subtitle:   "Thank you"
 description: "huangxuan.me 博客模板渲染效果"
 date:       2016-04-01 12:00:00
-update:     2021-01-08 18:04:00
+update:     2022-08-01 10:00:00
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
@@ -21,17 +21,11 @@ catalog:    false
 
 ------
 
-# 一级目录
-
-
 ## 二级目录
-
 
 ### 三级目录
 
-
 #### 四级目录
-
 
 ##### 五级目录
 
@@ -55,7 +49,6 @@ catalog:    false
 
 ---
 
-
 ```c++
 // 代码块（语法高亮）
 #include <iostream>
@@ -65,7 +58,6 @@ int main()
   return 0;
 }
 ```
-
 
 ------
 
@@ -94,7 +86,7 @@ int main()
 
 
 
-[外部链接](https://www.qq.com)
+[外部链接](https://blog.ypingcn.com)
 
 ------
 
