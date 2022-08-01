@@ -5,6 +5,7 @@ permalink: robots.txt
 User-agent: *
 Disallow: /files/
 Disallow: /img/my/
+Disallow: /cdn-cgi/
 Sitemap: {{ site.url }}/sitemap.xml
 Sitemap: {{ site.url }}/notes/sitemap.xml
 Sitemap: {{ site.url }}/special/sitemap.xml
