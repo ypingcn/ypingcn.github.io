@@ -4,7 +4,7 @@ title:  "如何高效地搜索"
 subtitle: "How to search effective online"
 description: "信息爆炸时代，有价值的信息淹没在浩如烟海的噪音中，如何高效地获得所需要的信息也就成为当今时代所必须要掌握的一项技能"
 date:   2021-11-21 +0800
-update: 2021-11-21 20:00 +0800
+update: 2022-08-01 10:00 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
@@ -49,8 +49,7 @@ tags:
 
 [《浏览器插件推荐》](/special/firefox/addons/) 中也曾介绍过 ```uBlock Origin``` 这个插件，安装过后效果立竿见影，过滤了很多不需要的内容，离想要的结果更近了一步。
 
-
-![](/img/post/20211121-search-ublock.jpg "搜索时广告过滤开启关闭的效果对比")
+<img src="/img/post/20211121-search-ublock.jpg" alt="搜索时广告过滤开启关闭的效果对比" title="搜索时广告过滤开启关闭的效果对比" />
 
 例如在搜索「浏览器」这个关键词的时候，如果没有开启广告过滤的话，前三个结果就是广告，而且第二、三个都是些 XXX 传媒出品的内容，派不上用场不说，安装后还有可能给我们的电脑带进来广告弹窗等其他隐患，效率高低立见。
 
