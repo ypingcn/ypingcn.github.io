@@ -1,14 +1,12 @@
 ---
 layout: page
 title:  C++基础知识
-update: 2022-07-06 00:00 +0800
+update: 2022-08-01 10:00 +0800
 ---
 
-[toc]
+## 基本概念
 
-# 基本概念
-
-## 左值、右值
+### 左值、右值
 
 左值 lvalue 是有标识符、可以取地址的表达式，如
  - 变量、函数或数据成员的名字
@@ -22,21 +20,21 @@ update: 2022-07-06 00:00 +0800
 生命周期按使用范围先进后出
 特殊规则：如果一个 prvalue 被绑定到一个引用上，它的生命周期则会延长到跟这个引用变量一样长。（只对 prvalue 有效，而对 xvalue 无效。如果由于某种原因，prvalue 在绑定到引用以前已经变成了 xvalue，那生命期就不会延长。）
 
-# 关键字与函数实现
+## 关键字与函数实现
 
-## static
+### static
 
  - 隐藏【不同文件不能看到其他文件的 static 变量和 函数】
  - 持久 【整个程序生命周期】
 
-## define const
+### define const
 
 | const | define |
 | ----- | ------ |
 | 预处理展开 | 编译运行使用 |
 | 类型检查  | 不检查    |
 
-## typedef const 
+### typedef const 
 
 > const
 
@@ -63,7 +61,7 @@ int *(*a[5])(int, char*);
 typedef int *(*pFun)(int, char*);pFun a[5]; 
 ```
 
-## const 指针
+### const 指针
 
 const int * a
 
@@ -75,7 +73,7 @@ int * const a
 
 常量指针，能靠解引用改变它指向的对象的值，本身的值不能改。
 
-## 指针引用区别
+### 指针引用区别
 
 ★相同点：
 
@@ -99,7 +97,7 @@ int * const a
 
 ●引用是类型安全的，而指针不是 (引用比指针多了类型检查
 
-## strlen()
+### strlen()
 
 ```c++
 int strlen(const char * src)
@@ -112,7 +110,7 @@ int strlen(const char * src)
 }
 ```
 
-## strcpy()
+### strcpy()
 
 ```c++
 char * strcpy(char * dest,const char *src)
@@ -124,7 +122,7 @@ char * strcpy(char * dest,const char *src)
     return ans;
 }
 ```
-## memset()
+### memset()
 
 ```
 void * memset(void * s,int c,size_t n)
@@ -140,7 +138,7 @@ void * memset(void * s,int c,size_t n)
 }
 ```
 
-## memcpy()
+### memcpy()
 
 ```
 void * memcpy(void * dst,const void * src,size_t size)
@@ -170,7 +168,7 @@ void * memcpy(void * dst,const void * src,size_t size)
 }
 ```
 
-## 可变参数
+### 可变参数
 
 ```c++
 #include<stdarg.h>
@@ -218,21 +216,21 @@ int main()
 }
 ```
 
-## 获得结构体内成员的偏移量
+### 获得结构体内成员的偏移量
 
 ```cpp
 #define myoffsetof(type,member) ((size_t)&((type*)0)->member)
 ```
 
-# C++ 部分
+## C++ 部分
 
-## C/C++ 
+### C/C++ 
 
 面向过程与面向对象（继承、多态、封装）
 
 C++ 有异常处理，模版，重载，命名空间
 
-## C++/Java 
+### C++/Java 
 
 | C++              | Java    |
 | ---------------- | ------- |
@@ -241,7 +239,7 @@ C++ 有异常处理，模版，重载，命名空间
 | 多继承              | 单继承     |
 | 要声明              | 所有类都是虚类 |
 
-## C++11
+### C++11
 
 
  - auto
@@ -256,27 +254,27 @@ enum class Options {None, One, All};
 Options o = Options::All;
 ```
 
-## 特殊成员函数
+### 特殊成员函数
 
-### 默认构造函数
+#### 默认构造函数
 ```
 A::A()
 ```
-### 复制构造函数
+#### 复制构造函数
 ```
 A::A(A&)
 A::A(const A&)
 A::A(volatile A&)
 A::A(const volatile&)
 ```
-### 移动构造函数 (C++11 起)
+#### 移动构造函数 (C++11 起)
 ```
 A::A(A&&)
 A::A(const A&&)
 A::A(volatile A&&)
 A::A(const volatile&&)
 ```
-### 复制赋值运算符
+#### 复制赋值运算符
 ```
 A& operator=(A)
 A& operator=(A&)
@@ -284,26 +282,26 @@ A& operator=(const A&)
 A& operator=(volatile A&)
 A& operator=(const volatile A&)
 ```
-### 移动赋值运算符 (C++11 起)
+#### 移动赋值运算符 (C++11 起)
 ```
 A& operator=(A&&)
 A& operator=(const A&&)
 A& operator=(volatile A&&)
 A& operator=(const volatile A&&)
 ```
-### 析构函数
+#### 析构函数
 ```
 ~A::A()
 virtual ~A::A()
 ```
-## C++11 default
+### C++11 default
 
 
-## C++11/14/17
+### C++11/14/17
 
 https://github.com/changkun/modern-cpp-tutorial
 
-### std::optional
+#### std::optional
 
 管理一个可选的容纳值，即可以存在也可以不存在的值。
 能用 std::nullopt 创建任何（空的） std::optional
@@ -312,7 +310,7 @@ std::optional<string> o;
 std::optional<string> o1 = std::nullopt;
 ```
 
-### std::variant
+#### std::variant
 类型安全的联合体，实例在任意时刻要么保有其一个可选类型之一的值，要么在错误情况下无值。
 ```cpp
  std::variant<int,float> v;
@@ -320,7 +318,7 @@ std::optional<string> o1 = std::nullopt;
  int value = std::get<int>(v);
 ```
 
-### std::any
+#### std::any
 描述用于任何类型的单个值的类型安全容器
 
 ```cpp
@@ -349,11 +347,11 @@ i
 no value
 ```
 
-### C++20
+#### C++20
 
 > 更多资料 【C++20：四巨头 | 类库大魔王的挖井日记 | https://minidump.info/blog/2020/02/the-big-four-of-cpp20/】
 
-#### concept
+##### concept
 
 模板编程在编译期就进行参数检查，限制模板参数
 
@@ -408,7 +406,7 @@ T gcd(T a, T b){
 
 > https://zh.cppreference.com/w/cpp/concepts
 
-#### range/view/range
+##### range/view/range
 
 range：有 begin() end() 的东西
 view：减少拷贝的视图，概念指定拥有常数时间复制、移动及赋值
@@ -430,7 +428,7 @@ std::vector<int> ints{0,1,2,3,4,5};
     }
 ```
 
-#### coroutines
+##### coroutines
 
 > https://zh.cppreference.com/w/cpp/language/coroutines
 
@@ -457,18 +455,18 @@ lazy<int> f() {
 }
 ```
 
-#### module
+##### module
 
 > https://zh.cppreference.com/w/cpp/language/modules
 
-## 多态性
+### 多态性
 
 编译时多态（静态）、运行时多态（动态）
 静态：函数模版体现多态性
 动态：虚函数，有继承关系的子类和父类之间，虚函数允许子类重写父类的成员函数，定义一个父类的指针，指向子类的对象，而且调用的又是虚函数，运行时就会动态绑定到父类指针的子类对象，查找子类的虚函数表，找到虚函数的地址。纯虚函数基类没有定义，其派生类必须实现。
 virtual void f() = 0
 
-## 动态绑定和静态绑定
+### 动态绑定和静态绑定
 
 对象的静态类型是声明时采用的类型，编译期确定。
 对象的动态类型是运行时决定的。
@@ -494,7 +492,7 @@ pB = pC;//pB的动态类型是可以更改的，现在它的动态类型是C*
 
 默认参数是静态绑定的。
 
-## 虚函数
+### 虚函数
 
 编译器必需要保证虚函数表的指针存在于对象实例中最前面的位置
 
@@ -504,7 +502,7 @@ pB = pC;//pB的动态类型是可以更改的，现在它的动态类型是C*
 
 https://coolshell.cn/articles/12165.html
 
-## 构造函数类型
+### 构造函数类型
 
 无参数构造函数
 
@@ -514,7 +512,7 @@ https://coolshell.cn/articles/12165.html
 
 等号赋值运算符
 
-## 拷贝构造函数调用时机
+### 拷贝构造函数调用时机
 
 拷贝构造函数将会被调用。以下情况都会调用拷贝构造函数：
 
@@ -524,11 +522,11 @@ https://coolshell.cn/articles/12165.html
 
 （3）一个对象需要通过另外一个对象进行初始化。
 
-## 构造函数的初始化成员列表
+### 构造函数的初始化成员列表
 
 初始化成员列表少了一次调用默认构造函数的过程 
 
-## 必须使用“初始化列表”初始化数据成员
+### 必须使用“初始化列表”初始化数据成员
 
 > 初始化列表在构造函数执行前执行
 > https://blog.csdn.net/sinat_20265495/article/details/53670644
@@ -539,20 +537,20 @@ https://coolshell.cn/articles/12165.html
 
 3.子类初始化父类的私有成员；
 
-## 类的成员换了顺序后有什么影响
+### 类的成员换了顺序后有什么影响
 
 类成员的声明顺序决定初始化顺序；
 构造函数初始化列表不影响初始化顺序；
 
 https://blog.csdn.net/cy_cai/article/details/52980355
 
-## 构造函数的虚函数
+### 构造函数的虚函数
 
 如果在构造函数或析构函数中调用虚函数，则运行的是为构造函数或析构函数自身定义的版本
 
 构造函数里头，调用虚函数，派生类对象还没有创建出来，所以调用的是父类的函数
 
-## 析构函数的虚函数
+### 析构函数的虚函数
 
 如果在构造函数或析构函数中调用虚函数，则运行的是为构造函数或析构函数自身定义的版本
 
@@ -561,22 +559,22 @@ https://blog.csdn.net/cy_cai/article/details/52980355
 http://www.cnblogs.com/lixiaohui-ambition/archive/2012/07/13/2589716.html
 在实现多态时，当用基类操作派生类，在析构时防止只析构基类而不析构派生类的状况发生。
 
-## 不能继承的类
+### 不能继承的类
 
 ```
 构造函数或析构函数为私有函数，所以该类是无法被继承的，
 ```
-## 只能在堆上定义对象
+### 只能在堆上定义对象
 
 ```
 将析构函数定义为private，在栈上不能自动调用析构函数，只能手动调用。
 ```
 
-## 只能在栈上定义对象
+### 只能在栈上定义对象
 
 将函数 operator new 和 operator delete 定义为private，这样使用 new 操作符创建对象时候，无法调用operator new，delete销毁对象也无法调用operator delete。
 
-## 函数重载与函数重写
+### 函数重载与函数重写
 
 > 函数重载 
 
@@ -590,7 +588,7 @@ http://www.cnblogs.com/lixiaohui-ambition/archive/2012/07/13/2589716.html
  且父类与子类中的函数必须有完全相同的原型 
  用 virtual 声明之后能够产生多态(如果不使用 virtual，那叫重定义)
 
-## 类型转换
+### 类型转换
 
 const_cast<T>(expression) // 去除常量类型
 reinterpret_cast<T>(expression) // 低级转型，复制比特位，为了映射一个完全不同的类型
@@ -610,13 +608,13 @@ downcast(向下转换):有可能会出现问题,编译时可能不会发现.
 >    static_cast 可以被用于强制隐型转换（例如，non-const 对象转型为 const 对象（就像 Item 3 中的），int 转型为 double，等等）。它还可以用于很多这样的转换的反向转换（例如，void* 指针转型为有类型指针，基类指针转型为派生类指针），但是它不能将一个 const 对象转型为 non-const 对象。（只有 const_cast 能做到。）
 
 > 旧风格的强制转型依然合法( (int)i 这种写法 )，但是新的形式更可取。首先，在代码中它们>更容易识别（无论是人还是像 grep 这样的工具都是如此），这样就简化了在代码中寻找类型系统被破坏的地方的过程。第二，更精确地指定每一个强制转型的目的，使得编译器诊断使用错误成为可能。例如，如果你试图使用一个 const_cast 以外的新风格强制转型来消除常量性，你的代码将无法编译。
-## 运算符重载
+### 运算符重载
 
 除了类属关系运算符"."、成员指针运算符"->"、作用域运算符"::"、sizeof运算符和三目运算符"?:"以外，C++中的所有运算符都可以重载。
 
 赋值= 下标[] 调用() 必须为定义为类成员操作符
 
-## 友元函数
+### 友元函数
 
 类的友元函数是定义在类外部，但有权访问类的所有私有（private）成员和保护（protected）成员。尽管友元函数的原型有在类的定义中出现过，但是友元函数并不是成员函数。
 
@@ -630,9 +628,9 @@ downcast(向下转换):有可能会出现问题,编译时可能不会发现.
 
 可以直接调用友元函数，不需要通过对象或指针
 
-# 内存相关
+## 内存相关
 
-## 编译过程
+### 编译过程
 
 词法分析-> 语法分析 -> 代码优化 -> 代码生成
 
@@ -652,7 +650,7 @@ class A { int a; };: sizeof(A) = 4;
 
 class A { static int a; int b; };: sizeof(A) = 4;
 
-## sizeof 的结构体对齐
+### sizeof 的结构体对齐
 
 32位系统
 
@@ -680,7 +678,7 @@ class A { static int a; int b; };: sizeof(A) = 4;
 
 https://blog.csdn.net/ablenavy/article/details/2849577
 
-## new-delete malloc-free
+### new-delete malloc-free
 
 - malloc/free 是C语言的标准库函数，new/delete 是C++的运算符。 
 
@@ -705,7 +703,7 @@ new由两步构成：1.operator new    2.调用构造函数
 new由malloc分配内存空间，然后判断是否分配，并发出bad_alloc的异常消息.
 
 
-## STL 空间配置器 alloc
+### STL 空间配置器 alloc
 
 在 SGI 中，如果用了一级配置器，便是直接使用了malloc() 和 free() 函数，而如果使用了二级适配器，则如果所申请的内存区域大于 128b,直接使用一级适配器，否则，使用二级适配器。
 
@@ -729,19 +727,19 @@ static _Obj*  _S_free_list[]; //我就是这样用的
 
 分配 allocate  释放 deallocate
 
-## 深拷贝 浅拷贝
+### 深拷贝 浅拷贝
 
 在某些状况下，类内成员变量需要动态开辟堆内存，如果实行位拷贝，也就是把对象里的值完全复制给另一个对象，如A=B。这时，如果B中有一个成员变量指针已经申请了内存，那A中的那个成员变量也指向同一块内存。这就出现了问题：当B把内存释放了（如：析构），这时A内的指针就是野指针了，出现运行错误。
 
 深拷贝和浅拷贝可以简单理解为：如果一个类拥有资源，当这个类的对象发生复制过程的时候，资源重新分配，这个过程就是深拷贝，反之，没有重新分配资源，就是浅拷贝。下面举个深拷贝的例子。
 
-## 零拷贝
+### 零拷贝
 
 https://www.jianshu.com/p/fad3339e3448
 
 mmap sendfile splice
 
-## 内存空间分布
+### 内存空间分布
 
 > cat /proc/[pid]/maps
 
@@ -781,23 +779,23 @@ int main()
 ```
 
 
-# STL
+## STL
 
-## unordered_map 和 map 的区别
+### unordered_map 和 map 的区别
 
 不同的是 unordered_map 不会根据 key 的大小进行排序，
 
 存储时是根据 key 的 hash 值判断元素是否相同，即 unordered_map 内部元素是无序的，而 map中的元素是按照二叉搜索树存储，进行中序遍历会得到有序遍历。
 
-## 智能指针
+### 智能指针
 
 https://blog.csdn.net/weizhengbo/article/details/68957993
 
-### auto_ptr
+#### auto_ptr
 指向 new 出来的内存，资源独占，自动释放
 不能指向数组（delete 而非delete[]） 不能作为容器对象（不支持拷贝构造与赋值）
 
-### unique_ptr
+#### unique_ptr
 同auto_ptr 但是直接赋值会编译出错
 
 ```cpp
@@ -835,13 +833,13 @@ private:
     T*ptr;
 };
 ```
-### share_ptr
+#### share_ptr
 随意赋值 引用为0才析构 可能有环状引用
 
-### weak_ptr
+#### weak_ptr
 指向一个由shared_ptr管理的对象而不影响所指对象的生命周期，也就是说，它只引用，不计数。
 
-## priority_queue
+### priority_queue
 
 priority_queue调用 STL里面的 make_heap(), pop_heap(), push_heap() 算法实现，也算是堆的另外一种形式。
 
@@ -852,7 +850,7 @@ priority_queue<int, vector<int>, greater<int> > q;  // 小顶堆
 priority_queue<int, vector<int>, less<int> > q;     // 大顶堆
 ```
 
-## vector 使用的注意点
+### vector 使用的注意点
 
 vector 的下标只能用于已经初始化的对象
 
@@ -863,7 +861,7 @@ for(int i=0;i<10;i++)
     a[i]=i;
 ```
 
-## STL容器的线程安全问题
+### STL容器的线程安全问题
 
 http://www.cnblogs.com/ztteng/p/3411738.html
 
@@ -879,7 +877,7 @@ http://www.cnblogs.com/ztteng/p/3411738.html
 >
 > 3.每个容器在调用算法的执行期需要锁定。
 
-## STL sort()
+### STL sort()
 
 https://blog.csdn.net/ouyangjinbin/article/details/51094300
 
@@ -887,16 +885,16 @@ https://blog.csdn.net/ouyangjinbin/article/details/51094300
 
 STL的sort()算法，数据量大时采用Quick Sort，分段递归排序。一旦分段后的数据量小于某个阈值，为避免Quick Sort的递归调用带来过大的额外开销，就改用Insertion Sort（插入排序）。如果递归层次过深，还会改用Heap Sort。
 
-## STL partial_sort()
+### STL partial_sort()
 
 paitical_sort的原理是 **堆排序**
 
-## STL std::list.sort()
+### STL std::list.sort()
 
 http://www.cnblogs.com/avota/p/5388865.html
 归并排序
 
-## 迭代器失效的问题
+### 迭代器失效的问题
 
 《STL之容器：抉择时机，剔除元素，迭代器失效._caiaw_新浪博客》
 [http://blog.sina.com.cn/s/blog_69883c580100sdmo.html](http://blog.sina.com.cn/s/blog_69883c580100sdmo.html)
@@ -921,13 +919,13 @@ set 删除元素使该迭代器失效，增加、删除其他元素无影响
 
 map 删除元素使该迭代器失效，增加、删除其他元素无影响
 
-## 迭代器的 it++ 和 ++it
+### 迭代器的 it++ 和 ++it
 
 ```++it``` 返回引用，```it++``` 返回一个临时对象
 
-# 面向对象
+## 面向对象
 
-## 三特征五原则
+### 三特征五原则
 
 封装、继承、多态
 
@@ -937,7 +935,7 @@ map 删除元素使该迭代器失效，增加、删除其他元素无影响
 - 依赖原则（具体依赖抽象，上层依赖下层）
 - 接口分离原则
 
-## 单例
+### 单例
 
 ```
 class Log
@@ -958,7 +956,7 @@ private:
 	static std::list<std::string> m_data;
 }
 ```
-## 线程安全的单例
+### 线程安全的单例
 
 ```c++
 class singleton{
@@ -981,7 +979,7 @@ private:
 pthread_mutex_t singleton::lock = PTHREAD_MUTEX_INITIALIZER;
 singleton singleton::instance = NULL;
 ```
-## 对象复用
+### 对象复用
 
 对象池可以显著提高性能，如果一个对象的创建非常耗时或非常昂贵，频繁去创建的话会非常低效。对象池通过对象复用的方式来避免重复创建对象，它会事先创建一定数量的对象放到池中，当用户需要创建对象的时候，直接从对象池中获取即可，用完对象之后再放回到对象池中，以便复用。这种方式避免了重复创建耗时或耗资源的大对象，大幅提高了程序性能。本文将探讨对象池的技术特性以及源码实现。
 
@@ -989,21 +987,23 @@ unique_ptr
 
 https://www.cnblogs.com/virusolf/p/5008517.html
 
-## 大小端转换
+### 大小端转换
 ```cpp
 #define BigLittleSwap32(A) ((((uint32)(A) & 0xff000000) >> 24) | \
                     (((uint32)(A) & 0x00ff0000) >> 8) | \
                     (((uint32)(A) & 0x0000ff00) << 8) | \
                     (((uint32)(A) & 0x000000ff) << 24))
 ```
-## 设计模式
+### 设计模式
 
 以 Java 的例子为主，仅供参考的链接
 
 https://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
-### 单例
-### 订阅发布模式
-### 工厂模式
+#### 单例
+	
+#### 订阅发布模式
+	
+#### 工厂模式
 
-对上层的使用者隔离对象创建的过程，
+对上层的使用者隔离对象创建的过程
