@@ -3,18 +3,16 @@ layout: page
 title:  Firefox 火狐浏览器资源汇总（2022年）
 description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版（简体中文、英文）才能尽量避免广告，精心整理 Firefox 火狐浏览器/ Librewolf 浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf 浏览器畅游网络
 date: 2021-10-30 12:00 +0800
-update: 2022-07-07 10:53 +0800
+update: 2022-08-09 14:45 +0800
 ---
 
-**快速下载**：最新Firefox火狐浏览器国际版（简体中文）<a href="https://archive.mozilla.org/pub/firefox/releases/102.0.1/win64/zh-CN/Firefox%20Setup%20102.0.1.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 102.0.1.exe </a>
-
-**快速下载**：最新Firefox火狐浏览器国际版（英文）<a href="https://archive.mozilla.org/pub/firefox/releases/102.0.1/win64/zh-CN/Firefox%20Setup%20102.0.1.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 102.0.1.exe </a>
+**快速下载**：最新Firefox火狐浏览器国际版（简体中文）<a href="https://archive.mozilla.org/pub/firefox/releases/103.0.2/win64/zh-CN/Firefox%20Setup%20103.0.2.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 103.0.2.exe </a>
 
 ---
+
+谋智版是由代理公司基于国际版定制二次开发的浏览器，主要改动是使用国内的服务器来为用户提供书签同步等功能，新标签页增加了购物返利的链接等【特色】功能，数据也不互通。
 
 中文用户下载 Firefox 火狐浏览器一般会下载到谋智版和国际版，下载国际版才能尽量避免广告。而一般通过搜索不容易下到正确的国际版。特此汇总资源整理相关的下载资源，对广告说不。
-
-**更多**: <a href="/wiki/affiliate/" style="color: #0c82ff;" target="_blank"> 好物资源推荐</a>  
 
 **更多**: <a href="/special/firefox/addons/" style="color: #0c82ff;" target="_blank"> 合理安装使用插件</a> 可以让日常使用更加顺手有效率～
 
@@ -22,7 +20,29 @@ update: 2022-07-07 10:53 +0800
 
 ## 一. 国际版与谋智版的区分
 
-### 1. 从版本信息判断
+首先先明确一下关于火狐官网的问题
+
+问题：哪个是火狐浏览器的官方网站：firefox.com.cn 还是 mozilla.org？
+答案：mozilla.org！
+
+### 1. 从下载页面的【顶部栏】和【底部栏】判断
+
+不同下载页面的底部栏说明了网站的运营主体。
+
+【✔推荐】国际版的底部栏注明的是```Mozilla 基金会```，这家基金会是火狐浏览器的开发和运营主体。顶部栏也支持不同语言（```zh-CN```代表简体中文）。
+
+```
+欢迎访问 Mozilla Corporation 的非营利母公司 — Mozilla 基金会。
+上述内容中的某些部分系 mozilla.org 志愿者个人版权所有（©1998–2022）。内容可按知识共享许可协议使用。 
+```
+
+【❌不推荐】而国内版是一家商业公司，是国内的代理公司。顶部栏没有语言切换。
+
+```
+北京谋智火狐信息技术有限公司 版权所有.
+```
+
+### 2. 从下载后的版本信息判断
 
 在浏览器的版本信息中查看：路径是 【菜单】 -> 【帮助】 -> 关于 如果在弹出的页面中包含「北京谋智网络技术有限公司」「谋智」等字眼，那就是下载到了国内代理的特殊版本，需要调整使用为国际版。下图是国际版的一个关于截图。
 
@@ -30,7 +50,7 @@ update: 2022-07-07 10:53 +0800
 
 <center><font color="#bfbfbf"> --- Firefox 火狐浏览器 Nightly 版中文版关于页面 --- </font></center>
 
-### 2. 从浏览器界面判断
+### 3. 从浏览器界面判断
 
 国际版在地址栏中间是没有二维码按钮的，二维码是由插件功能提供的而不是自带功能。从这一点界面上的区别也可以简单快速地判断出。
 
@@ -40,7 +60,7 @@ update: 2022-07-07 10:53 +0800
 
 电脑版本可以在官网直接下载获取。
 
-安卓可以使用 <a href="https://f-droid.org/en/packages/de.marmaro.krt.ffupdater/" rel="nofollow" style="color: #0c82ff;"> FFUpdate </a> 软件自动下载更新，或者自行前往官网下载（需要判断好下载页面），或者在 fdroid 里安装  <a href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid" rel="nofollow" style="color: #0c82ff;"> Fennec </a>。
+安卓可以使用 FFUpdate 软件自动下载更新，或者自行前往官网下载（需要判断好下载页面），或者在 fdroid 里安装 Fennec 浏览器。
 
 > Firefox 火狐浏览器更新节奏为```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR```，不确认自己适合哪个版本的可以在 <a href="/special/firefox/version/" style="color: #0c82ff;" target="_blank"> 《Firefox 火狐浏览器各版本区别》</a> 文章中了解更多差异和改动。个人使用还是推荐 ``` ESR ``` 或者 ``` Release ``` 这两个更为稳定的版本。
 
@@ -80,21 +100,19 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 
 该页面点击下载会跳转到应用商店且带有营销链接。如果有下载 Firefox 火狐浏览器 APK 的需要，不妨直接访问构建系统的地址，选择下载。地址如下——
 
-<a href="https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.release.latest/arm64-v8a
-" rel="nofollow" style="color: #0c82ff;">https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.release.latest/arm64-v8a
-</a>
+【https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.release.latest/arm64-v8a】
 
 ### 5. 安卓 Beta 测试版
 
 自动构建，频率大概是一周一到两次，Beta 作为公开测试版本也可能存在影响使用的问题，不推荐将日常使用的数据放在上面。
 
-<a href="https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.beta.latest/arm64-v8a" rel="nofollow" style="color: #0c82ff;">https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.beta.latest/arm64-v8a</a>
+【https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.beta.latest/arm64-v8a】
 
 ### 6. 安卓 Nightly 每夜构建版
 
 自动构建最新代码，频率是一天一次。需要注意的是，Nightly 是最新的代码构建而成的安装包，可能存在 BUG 等问题，可能有不稳定的问题，不推荐主力使用。
 
-<a href="https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.nightly.latest/arm64-v8a" rel="nofollow" style="color: #0c82ff;">https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.nightly.latest/arm64-v8a</a>
+【https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.fenix.nightly.latest/arm64-v8a】
 
 ------
 
