@@ -2,9 +2,9 @@
 layout: post
 title:  "blade build 在微服务开发中的应用"
 subtitle: "blade build in microservice's development"
-description: ""
+description: "对 blade build 结合结合实际微服务开发的一篇应用流程的总结"
 date:   2021-12-05 +0800
-update: 2022-01-16 15:17 +0800
+update: 2022-08-09 11:20 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
@@ -41,7 +41,6 @@ tags:
 ### 2.1 冲突严重解决路径长
 
 在开发协作的过程中，可能他人的无心之举就能打断你当前的开发。
-
 
 在当前 ```/home/tafjce/ ``` 目录+``` 主干开发 + 主干发布模式 ```的代码管理模式下，如果有一个人在针对 B 服务的 IDL 进行修改，将无法编译通过的 IDL 发布出去了（```make release``` 不进行实际的编译检查），那么其下游的 A 和 D 服务开发者将无法编译自身服务，链路越长，排查难度越大。且定位到具体的操作人难度大，只能通过文件最后修改人的信息判断。如果是使用管理员权限执行的命令，那么这种定位方法将被直接锁死无法使用。
 
