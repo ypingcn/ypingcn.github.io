@@ -4,7 +4,7 @@ title:  "个人博客推广记录总结"
 subtitle: "how to promote personal blog"
 description: ""
 date:   2022-06-02 +0800
-update: 2022-06-05 13:56 +0800
+update: 2022-08-09 11:20 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
@@ -30,3 +30,19 @@ tags:
 做了这些后博客的访问量显著上升，最高曝光每天已经有600了，特别是“火狐插件”这个关键词已经能到相关结果的前五！这无疑是一种激励！详见  [《火狐浏览器插件推荐》](/special/firefox/addons/)
 
 希望后续能借博客沉淀下更多属于自己的知识，帮助到更多的人。
+
+---
+
+2022.07.07 更新
+
+本站博客内容索引无故被必应删除，使用'site'命令搜索都提示```Some results have been removed```/```部分搜尋結果已被移除```/```部分搜索结果未予显示。有关详细信息，请参阅此处。```，以必应为基础的例如 DuckDuckGo 等均无法搜索到本站，谷歌索引暂时正常。但必应站长里也没有相关的版权投诉问题，后台显示每天爬虫都有爬取，申述无果。网上也有类似的博主反馈被删除，暂时无能为力。
+
+记录一下其他博主的类似问题，以便有空的时候尝试解决问题。
+
+2022-03-25 <a href="https://www.jessesquires.com/blog/2022/03/25/my-website-disappeared-from-bing-and-duckduckgo/" rel="nofollow" style="color: #0c82ff;">《My website disappeared from Bing and DuckDuckGo · Jesse Squires》</a>
+
+2022-07-25 <a href="https://www.jessesquires.com/blog/2022/07/25/my-website-disappeared-from-bing-and-duckduckgo-part-2/" rel="nofollow" style="color: #0c82ff;">《My website disappeared from Bing and DuckDuckGo, Part 2 · Jesse Squires》</a>
+
+2022-06-16 <a href="https://lapcatsoftware.com/articles/bing.html" rel="nofollow" style="color: #0c82ff;">《Bing and DuckDuckGo removed my business web site - Jeff Johnson》</a>
+
+2022-06-24 <a href="https://io.bikegremlin.com/28530/microsoft-bing-serp-gone-overnight/" rel="nofollow" style="color: #0c82ff;">《Microsoft Bing - site gone from SERP overnight! | BikeGremlin I/O》</a>
