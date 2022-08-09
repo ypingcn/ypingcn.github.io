@@ -2,7 +2,7 @@
 layout: post
 title:  "使用本地缓存优化微服务"
 subtitle: "cache in microservice"
-description: ""
+description: "微服务相较于整体式架构而言具有易拓展的特点，可以使用本地缓存来优化不经常变动的结果避免走网络请求，这种优化是十分显著的"
 date:   2022-01-30 +0800
 update: 2022-08-09 11:00 +0800
 author:     "ypingcn"
