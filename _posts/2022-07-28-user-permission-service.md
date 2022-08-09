@@ -2,9 +2,9 @@
 layout: post
 title:  "用户权限服务的设计"
 subtitle: "user permission service"
-description: ""
+description: "简化黑名单、白名单逻辑的用户权限服务的设计"
 date:   2022-07-28 +0800
-update: 2022-07-28 08:00 +0800
+update: 2022-08-09 11:00 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
@@ -59,5 +59,5 @@ struct AuthRsp
 
 随着单个数据源的增加（某种程度上也有名单维护不合理的原因），每次更新内存中的数据都会因为SQL语句执行时间过长（网络传输的数据大），导致服务处理其他请求变慢甚至异常。
 
-
+TODO
 
