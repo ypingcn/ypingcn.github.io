@@ -3,10 +3,10 @@ layout: page
 title:  Firefox 火狐浏览器资源汇总（2022年）
 description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版（简体中文、英文）才能尽量避免广告，精心整理 Firefox 火狐浏览器/ Librewolf 浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf 浏览器畅游网络
 date: 2021-10-30 12:00 +0800
-update: 2022-08-09 14:45 +0800
+update: 2022-08-23 10:00 +0800
 ---
 
-**快速下载**：最新Firefox火狐浏览器国际版（简体中文）<a href="https://archive.mozilla.org/pub/firefox/releases/103.0.2/win64/zh-CN/Firefox%20Setup%20103.0.2.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 103.0.2.exe </a>
+**快速下载**：最新Firefox火狐浏览器国际版（简体中文）<a href="https://archive.mozilla.org/pub/firefox/releases/104.0/win64/zh-CN/Firefox%20Setup%20104.0.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 104.0.exe </a>
 
 ---
 
