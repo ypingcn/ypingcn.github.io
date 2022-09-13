@@ -2,10 +2,10 @@
 layout: page
 title:  Librewolf 浏览器资源汇总（2022年）
 date: 2022-04-24 13:40 +0800
-update: 2022-09-03 22:00 +0800
+update: 2022-09-13 16:00 +0800
 ---
 
-**快速下载**：<a href="https://gitlab.com/librewolf-community/browser/windows/uploads/940ad5d90cb68a736b9905f5eced776f/librewolf-104.0-1.en-US.win64-setup.exe" rel="nofollow" style="color: #0c82ff;">Librewolf-104.0-1.en-US.win64-setup.exe</a>
+**快速下载**：<a href="https://gitlab.com/librewolf-community/browser/windows/uploads/04980f5a964a07bb32c14ec86ecd59f4/librewolf-104.0.2-1.en-US.win64-setup.exe" rel="nofollow" style="color: #0c82ff;">Librewolf-104.0.2-1.en-US.win64-setup.exe</a>
 
 ---
 
