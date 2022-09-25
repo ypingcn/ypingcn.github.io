@@ -30,7 +30,6 @@ update: 2022-09-25 17:00 +0800
 
 **如果是无法安装 uBlock Origin 的大陆地区用户，也可以考虑下载使用同样基于火狐浏览器定制的 Librewolf 浏览器，自带 uBlock Origin ，详见 <a href="/special/firefox/librewolf/" style="color: #0c82ff;" target="_blank">《Librewolf 资源汇总》</a>**
 
-
 Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin ，点开菜单中的附加组件选项，勾选安装即可。
 
 > 注：2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 uBlock Origin，手机版本也会受到影响，可以安装 Ghostery 来代替
@@ -43,6 +42,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 4. √ 多用途的 Peter Lowe’s Ad and tracking server list
 5. √ 区域/语言中的 CHN: AdGuard Chinese (中文) 
 
+**uBO Minus 是基于 Manifest V3 标准的实验性插件**。 Manifest V3 就移除了每个广告屏蔽扩展都在使用 WebRequest API，只能提供带有限制性的 declarativeNetRequest API 接口。这个改动消弱了隐私拓展的能力，加之 Manifest V3 仅允许扩展拥有最多 3 万条规则（相比 Manifest V2 的一些广告拦截器就有接近 10 万条规则），这两点改动使得 uBO Minus 插件效果不如 uBlock Origin 。这里还是推荐使用 uBlock Origin。
 
 ## AdNauseam
 
