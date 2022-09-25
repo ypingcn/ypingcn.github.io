@@ -3,10 +3,10 @@ layout: page
 title:  Firefox 火狐浏览器资源汇总（2022年）
 description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版（简体中文、英文）才能尽量避免广告，精心整理 Firefox 火狐浏览器/ Librewolf 浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf 浏览器畅游网络
 date: 2021-10-30 12:00 +0800
-update: 2022-08-23 10:00 +0800
+update: 2022-09-25 17:00 +0800
 ---
 
-**快速下载**：最新Firefox火狐浏览器国际版（简体中文）<a href="https://archive.mozilla.org/pub/firefox/releases/104.0/win64/zh-CN/Firefox%20Setup%20104.0.exe" rel="nofollow" style="color: #0c82ff;"> Firefox Setup 104.0.exe </a>
+**快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Firefox火狐浏览器国际版（简体中文） </a>
 
 ---
 
@@ -66,13 +66,13 @@ update: 2022-08-23 10:00 +0800
 
 ### 1. PC 电脑 Windows 最新正式版
 
-> 2022年3月起，每次 Firefox 火狐浏览器下载都将配唯一标识符（dltoken）进行下载分析统计，这在某种程度上会侵犯用户隐私。在下载 PC 电脑正式版的时候更推荐到 SFTP 上下载 <a href="https://ftp.mozilla.org/pub/firefox/releases/" rel="nofollow" style="color: #0c82ff;"> https://ftp.mozilla.org/pub/firefox/releases/ </a> 
+> 2022年3月起，每次 Firefox 火狐浏览器下载都将配唯一标识符（dltoken）进行下载分析统计，这在某种程度上会侵犯用户隐私。在下载 PC 电脑正式版的时候更推荐到  <a href="https://ypingcn.com/go/out?r=firefox-sftp" rel="nofollow" style="color: #0c82ff;"> SFTP  </a>  上下载
 
 有简体中文页面。页面上有 Firefox 火狐浏览器功能特性的相关介绍和下载界面。要注意的是，该页面下载的安装包后续使用的时候是需要联网下载的。
 
-Firefox 火狐浏览器官网 <a href="https://www.mozilla.org/zh-CN/firefox/new/" rel="nofollow" style="color: #0c82ff;">https://www.mozilla.org/zh-CN/firefox/new/</a> 。支持 Windows 10、Windows 7 等多个Windows版本上运行。
+查阅 <a href="https://ypingcn.com/go/out?r=firefox-official" rel="nofollow" style="color: #0c82ff;">Firefox 火狐浏览器官网</a> 可知，火狐浏览器支持 Windows 10、Windows 7 等多个Windows版本上运行。
 
-如果有需要选择不同语言的 Firefox 国际版 Windows 离线安装包（推荐）和在线安装包的需求，可以访问 <a href="https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release" rel="nofollow" style="color: #0c82ff;">https://www.mozilla.org/zh-CN/firefox/all/</a>，根据页面的指示下载需要的平台（Windows、MacOS、Linux）+软件版本（Beta、Nightly、Developer 等）+界面语言（简体中文、繁体中文、英文等）。
+如果有需要选择不同语言的 Firefox 国际版 Windows 离线安装包（推荐）和在线安装包的需求，可以访问 <a href="https://ypingcn.com/go/out?r=firefox-all" rel="nofollow" style="color: #0c82ff;">链接</a>，根据页面的指示下载需要的平台（Windows、MacOS、Linux）+软件版本（Beta、Nightly、Developer 等）+界面语言（简体中文、繁体中文、英文等）。
 
 <img src="/img/special/firefox/firefox-all-version-download-option.png" style="width:auto;height:auto;max-width:100%;max-height:100%;" alt="Firefox 火狐浏览器各版本语言下载选项">
 
@@ -80,23 +80,17 @@ Firefox 火狐浏览器官网 <a href="https://www.mozilla.org/zh-CN/firefox/new
 
 ### 2. PC 电脑最新测试版、开发者版、每日构建版
 
-简体中文页面，此处可以选择其他语言包下载。
-
-Firefox 火狐浏览器桌面版官网 <a href="https://www.mozilla.org/zh-CN/firefox/channel/desktop/" rel="nofollow" style="color: #0c82ff;">https://www.mozilla.org/zh-CN/firefox/channel/desktop/</a>
+<a href="https://ypingcn.com/go/out?r=firefox-desktop" rel="nofollow" style="color: #0c82ff;">Firefox 火狐浏览器桌面版官网</a> 可以选择其他语言包、其他版本下载 
 
 在 1 中提到的下载离线安装包的地址中，也可以选择 Beta Developer Nightly 这三个版本。
 
 ### 3. PC 历史版本下载
 
-全部历史版本，适合有特殊需要的时候使用下载
-
-<a href="https://archive.mozilla.org/pub/firefox/releases/" rel="nofollow" style="color: #0c82ff;">https://archive.mozilla.org/pub/firefox/releases/</a>
+全部<a href="https://ypingcn.com/go/out?r=firefox-archive" rel="nofollow" style="color: #0c82ff;">历史版本</a>，适合有特殊需要的时候使用下载
 
 ### 4. 移动端（安卓、iOS）正式版
 
-正式版是稳定的版本，推荐当作主力版本使用。搭配帐号同步使用更佳。对应移动端的介绍页面如下。
-
-Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/firefox/mobile/" rel="nofollow" style="color: #0c82ff;">https://www.mozilla.org/zh-CN/firefox/mobile/</a>
+正式版是稳定的版本，推荐当作主力版本使用。搭配帐号同步使用更佳。 <a href="https://ypingcn.com/go/out?r=firefox-mobile" rel="nofollow" style="color: #0c82ff;">Firefox 火狐浏览器移动端官网</a>对应介绍页面如上。
 
 该页面点击下载会跳转到应用商店且带有营销链接。如果有下载 Firefox 火狐浏览器 APK 的需要，不妨直接访问构建系统的地址，选择下载。地址如下——
 
@@ -126,25 +120,25 @@ Firefox 火狐浏览器移动端官网 <a href="https://www.mozilla.org/zh-CN/fi
 
 一款专注于安全和隐私、基于火狐浏览器定制的浏览器，自带广告过滤插件 uBlock Origin，适合在意隐私和安全、同时也适合需要安装但无法安装广告过滤插件的人群使用
 
-官网 <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">https://librewolf.net/</a>
+官网 <a href="https://ypingcn.com/go/out?r=librewolf-official" rel="nofollow" style="color: #0c82ff;">Librewolf 官网</a>
 
 ### 2. RunningCheese Firefox
 
 高效、简洁、深度定制版火狐浏览器，内置了许多非常实用的功能如鼠标手势等，功能齐全，深受粉丝欢迎。
 
-<a href="https://www.runningcheese.com/firefox" rel="nofollow" style="color: #0c82ff;">https://www.runningcheese.com/firefox</a>
+<a href="https://ypingcn.com/go/out?r=runningcheese-firefox" rel="nofollow" style="color: #0c82ff;">页面链接</a>
 
 ### 3. Fennec
 
 安卓版，去除了浏览器的遥测功能。
 
-<a href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid" rel="nofollow" style="color: #0c82ff;">https://f-droid.org/en/packages/org.mozilla.fennec_fdroid</a>
+<a href="https://ypingcn.com/go/out?r=fennec" rel="nofollow" style="color: #0c82ff;"></a>
 
 ## 四. 更改 Firefox 火狐浏览器语言设置
 
 语言设置一般是在下载前已经选定好的，遇到不符合需要的情况，可以在设置页里，找到「常规」-> 「语言」（或者直接访问 about:preferences#general ），下拉选择需要额外安装的语言，按提示操作即可。
 
-或者访问 AMO 官网中语言包的下载页面，<a href="https://addons.mozilla.org/zh-CN/firefox/language-tools" rel="nofollow" style="color: #0c82ff;">https://addons.mozilla.org/zh-CN/firefox/language-tools</a>，下载后在设置页面中启用即可。
+或者访问 <a href="https://ypingcn.com/go/out?r=firefox-language" rel="nofollow" style="color: #0c82ff;"> AMO 官网中语言包的下载页面</a> ，下载后在设置页面中启用即可。
 
 ---
 

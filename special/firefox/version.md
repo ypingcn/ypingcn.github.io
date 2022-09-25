@@ -2,7 +2,7 @@
 layout: page
 title:  Firefox 火狐浏览器版本差异（2022年）
 date: 2021-10-30 12:00 +0800
-update: 2022-08-01 10:0 +0800
+update: 2022-09-25 17:00 +0800
 ---
 
 Firefox 火狐浏览器在 PC 电脑上主要分为 ```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR``` 四个版本，每个版本都会在上一个版本稳定之后按计划进入下一个版本。
@@ -43,7 +43,7 @@ Nightly 版的 Logo 是十分鲜艳的紫色，表明这个版本是十分不稳
 
 这两个版本适合前端开发者，或者想要尝试新功能但对稳定性有一定要求的用户。
 
-Developer 版本官方介绍 <a href="https://www.mozilla.org/zh-CN/firefox/developer/" rel="nofollow" style="color: #0c82ff;"> https://www.mozilla.org/zh-CN/firefox/developer/ </a>
+<a href="https://ypingcn.com/go/out?r=firefox-developer" rel="nofollow" style="color: #0c82ff;">Developer 版本官方介绍</a>
 
 ## Release 正式发布版本
 
@@ -60,7 +60,7 @@ Developer 版本官方介绍 <a href="https://www.mozilla.org/zh-CN/firefox/deve
 因为部分用户需要保持稳定，几个月或者更长的时间才会更新一次软件版本。于是便有了 ESR（Extended Support Release 长期支持）版本，前面提到的便称为 Rapid Release 快速发布版。 
 
 
-上面提到的不同版本更新节奏均可以在 <a href="https://wiki.mozilla.org/Release_Management/Calendar" rel="nofollow" style="color: #0c82ff;"> Mozilla wiki </a> 中的「发行计划」查询到
+上面提到的不同版本更新节奏均可以在 <a href="https://ypingcn.com/go/out?r=firefox-calendar" rel="nofollow" style="color: #0c82ff;"> Mozilla wiki </a> 中的「发行计划」查询到
 
 ---
 
