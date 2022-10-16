@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "个人博客推广记录总结"
-subtitle: "how to promote personal blog"
+subtitle: "How to promote personal blog"
 description: ""
 date:   2022-06-02 +0800
 update: 2022-08-09 11:20 +0800

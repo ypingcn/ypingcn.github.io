@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2017 年终总结"
-subtitle: "annual summary for 2017"
+subtitle: "Annual summary for 2017"
 description: "2017 年终总结。说是总结，其实是对自己这年的要求，有太多需要改变的事。"
 date:   2018-01-28 +0800
 update: 2018-01-28 12:00 +0800

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "简化开发逻辑的用户属性服务设计"
-subtitle: "user attribute service implement for microservices"
+subtitle: "User attribute service implement for microservices"
 description: "简化开发逻辑的用户属性服务设计，支持快速迭代上线减少编写重复代码"
 date:   2022-10-14 +0800
 update: 2022-10-14 12:00 +0800

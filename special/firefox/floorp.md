@@ -7,6 +7,8 @@ update: 2022-10-16 00:20 +0800
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=floorp-windows-lastest" rel="nofollow" style="color: #0c82ff;"> 最新 Floorp 浏览器 Windows 版本</a>
 
+---
+
 Floorp 浏览器是国外学生社区基于 Firefox 火狐浏览器开发的隐私友好型浏览器，旨在为用户提供保护隐私的前提下增强浏览器使用体验。且包含不少特色功能例如顺手的侧边栏、Edge 配色等。
 
 其隐私保护功能目前有 ——

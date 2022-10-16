@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "18 年春招记录"
-subtitle: "spring recruitment record in 2018"
+subtitle: "Spring recruitment record in 2018"
 description: "最后也找到实习了，面过算是不少的公司，多少有点感悟。There is a long way to go."
 date:   2018-03-18 +0800
 update: 2018-03-20 12:00 +0800

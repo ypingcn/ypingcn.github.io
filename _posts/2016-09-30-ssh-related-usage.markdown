@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "初试 ssh 命令"
-subtitle: "first try ssh commands"
+subtitle: "First try ssh commands"
 description: "ssh 连接服务器、远程使用命令、上传文件、下载文件"
 date:   2016-09-30 +0800
 update: 2021-11-02 23:00 +0800

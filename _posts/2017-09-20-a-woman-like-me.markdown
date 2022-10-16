@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "续写 《像我这样的一个女子》"
-subtitle: "a woman like me"
+subtitle: "A woman like me"
 description: "选修课作业，续写 西西的作品《像我这样的一个女子》"
 date:   2017-09-20 +0800
 update: 2022-01-08 17:55 +0800
