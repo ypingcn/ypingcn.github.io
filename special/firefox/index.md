@@ -17,6 +17,8 @@ update: 2022-10-16 00:20 +0800
 
 <a href="./website/" style="color:#0c82ff;">《Firefox 火狐浏览器网站资源汇总（2022年）》</a>
 
+<a href="./doh/" style="color:#0c82ff;">《如何在 Firefox 火狐浏览器上启用安全 DNS（DoH）》</a>
+
 <a href="./librewolf/" style="color:#0c82ff;">《Librewolf 浏览器资源》</a>
 
 <a href="./floorp/" style="color:#0c82ff;">《Floorp 浏览器资源》</a>
