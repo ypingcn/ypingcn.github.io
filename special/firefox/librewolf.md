@@ -2,15 +2,16 @@
 layout: page
 title:  Librewolf 浏览器资源汇总（2022年）
 date: 2022-04-24 13:40 +0800
-update: 2022-09-25 17:00 +0800
+update: 2022-10-24 17:00 +0800
 ---
 
 **快速下载**：<a href="https://ypingcn.com/go/out?r=librewolf-windows-lastest" rel="nofollow" style="color: #0c82ff;">最新版Librewolf Windows安装程序下载</a>
 
 ---
 
-Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基于 Mozilla Firefox 火狐浏览器定制，旨在为普通用户提供安全和隐私相关设置调整、开箱即用的优秀浏览器。
-它同样支持 Windows、MacOS、Linux 等多个用户日常使用的操作系统平台。
+Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基于 Mozilla Firefox 火狐浏览器定制，旨在为普通用户提供注重安全隐私、开箱即用的优秀浏览器。
+
+同样支持 Windows、MacOS、Linux 等不同日常使用的操作系统平台，满足不同人群的使用需要。
 
 <img src="/img/special/firefox/librewolf.png" alt="Librewolf 浏览器图标" title="Librewolf 浏览器图标" />
 
@@ -26,7 +27,7 @@ Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基�
 1. 移除浏览器内置的遥测功能，不会再与 ```*.telemetry.mozilla.org``` 等相关域名交互上报用户行为数据。
 2. 追踪保护默认设置为“严格”模式，默认就是屏蔽【社交媒体跟踪器、所有窗口中的跨网站 Cookie（包括跟踪性 Cookie）、所有窗口中的跟踪性内容、加密货币挖矿程序和数字指纹跟踪程序】
 3. 默认启用 HTTPS-only 模式。在访问非 HTTPS 的网站时会提醒用户，不会直接访问展示内容。
-4. 默认内置私密搜索供应商，如 Searx、Qwant（DuckDuckGo 被设置为默认搜索引擎）。但对于普通用户而已这几个搜索引擎访问没有日常使用的百度谷歌好，所以在需要时候，需要访问相关地址，在搜索栏或地址栏里手动添加回去。
+4. 默认内置私密搜索供应商，如 Searx、Qwant（DuckDuckGo 被设置为默认搜索引擎）、DuckDuckGo、Brave Search。但对于普通用户而已这几个搜索引擎访问没有日常使用的百度谷歌好，所以在需要时候，需要访问相关地址，在搜索栏或地址栏里手动添加回去。
 5. 支持伪造虚假的屏幕分辨率、时区、语言等，使得网站更难获取用户的环境参数。更多浏览器的隐私保护效果测评，可以访问 <a href="https://ypingcn.com/go/out?r=privacytests" rel="nofollow" style="color: #0c82ff;">https://privacytests.org/ </a> 获取更多测评细节。
 
 ## 安装
@@ -36,6 +37,8 @@ Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基�
 Librewolf 浏览器 Windows 安装包下载地址：<a href="https://ypingcn.com/go/out?r=librewolf-windows" rel="nofollow" style="color: #0c82ff;">点击前往</a>
 
 Librewolf 浏览器 MacOS 安装包下载地址：<a href="https://ypingcn.com/go/out?r=librewolf-macos" rel="nofollow" style="color: #0c82ff;">点击前往</a>
+
+其他 Linux 平台如 Arch、Debian、Gentoo、Fedora 等发行版可以访问 <a href="https://ypingcn.com/go/out?r=librewolf-official" rel="nofollow" style="color: #0c82ff;">Librewolf 浏览器官网</a> 获取更为详细的指引。
 
 ---
 
