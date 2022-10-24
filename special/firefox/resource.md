@@ -120,19 +120,19 @@ update: 2022-10-24 13:00 +0800
 
 一款专注于安全和隐私、基于火狐浏览器定制的浏览器，自带广告过滤插件 uBlock Origin，适合在意隐私和安全、同时也适合需要安装但无法安装广告过滤插件的人群使用
 
-官网 <a href="https://ypingcn.com/go/out?r=librewolf-official" rel="nofollow" style="color: #0c82ff;">Librewolf 官网</a>
+官网 <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">Librewolf 官网</a>
 
 ### 2. RunningCheese Firefox
 
 高效、简洁、深度定制版火狐浏览器，内置了许多非常实用的功能如鼠标手势等，功能齐全，深受粉丝欢迎。
 
-<a href="https://ypingcn.com/go/out?r=runningcheese-firefox" rel="nofollow" style="color: #0c82ff;">页面链接</a>
+<a href="https://www.runningcheese.com/firefox" rel="nofollow" style="color: #0c82ff;">页面链接</a>
 
 ### 3. Fennec
 
 安卓版，去除了浏览器的遥测功能。
 
-<a href="https://ypingcn.com/go/out?r=fennec" rel="nofollow" style="color: #0c82ff;"></a>
+<a href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/" rel="nofollow" style="color: #0c82ff;"></a>
 
 ## 四. 更改 Firefox 火狐浏览器语言设置
 

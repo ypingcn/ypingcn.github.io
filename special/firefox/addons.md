@@ -8,7 +8,7 @@ update: 2022-10-24 13:00 +0800
 
 插件，又称拓展、附加组件、Addons、擴充套件等，意在为浏览器实现更多更丰富的特性。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
 
-而 <a href="https://ypingcn.com/go/out?r=addons-firefox" rel="nofollow" style="color: #0c82ff;">「Firefox 火狐浏览器插件官网 AMO 」</a> 中有海量实用的官方/第三方扩展插件，这些运行在浏览器上的小插件能为浏览器增添功能，让上网变得更快、更安全，效率更高。无论你是在操作效率、隐私安全上有要求，或者是希望提高购物、看视频、界面阅读等方面的体验，在 AMO 中都能找到对应的拓展完成你的目标～
+而 <a href="https://addons.mozilla.org/zh-CN/firefox/" rel="nofollow" style="color: #0c82ff;">「Firefox 火狐浏览器插件官网 AMO 」</a> 中有海量实用的官方/第三方扩展插件，这些运行在浏览器上的小插件能为浏览器增添功能，让上网变得更快、更安全，效率更高。无论你是在操作效率、隐私安全上有要求，或者是希望提高购物、看视频、界面阅读等方面的体验，在 AMO 中都能找到对应的拓展完成你的目标～
 
 以下插件排名不分先后。
 
@@ -18,15 +18,15 @@ update: 2022-10-24 13:00 +0800
 
 <center><font color="#bfbfbf"> --- uBlock Origin 简介及评分 --- </font></center>
 
-首先推荐的是广告过滤插件 uBlock Origin <a href="https://ypingcn.com/go/out?r=ublock-origin-official" rel="nofollow" style="color: #0c82ff;">「官网」</a>。
+首先推荐的是广告过滤插件 uBlock Origin <a href="https://ublockorigin.com/" rel="nofollow" style="color: #0c82ff;">「官网」</a>。
 
 只使用默认的配置就能减少无关内容对页面浏览的分心。还能在设置页面里添加更多第三方维护的规则，如 EasyPrivacy 规则，以此减少网站对用户数据的收集。
 
 因为它本身是还是一个开源软件，因此也有许多热心的网友整理了很多 uBlock Origin 规则以供使用 —— 除了内置的 uBlock filters 规则外，还有著名的过滤广告规则 EasyList 、隐私保护规则 EasyPrivacy 和拦截恶意网站，除此之外还有针对特定地区/语言的不同规则可以选择。
 
-<a href="https://ypingcn.com/go/out?r=ublock-origin-firefox" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/</a>
 
-> 注：2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 uBlock Origin，大陆用户访问会提示「**此页面在您的地区不可用、您尝试访问的页面在您的地区不可用**」，可以使用这个地址备选下载。 <a href="https://ypingcn.com/go/out?r=ublock-origin-crxsoso" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件备选下载地址</a> 
+> 注：2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 uBlock Origin，大陆用户访问会提示「**此页面在您的地区不可用、您尝试访问的页面在您的地区不可用**」，可以使用这个地址备选下载。 <a href="https://www.crxsoso.com/firefox/detail/ublock-origin" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件备选下载地址</a> 
 
 **如果是无法安装 uBlock Origin 的大陆地区用户，也可以考虑下载使用同样基于火狐浏览器定制的 Librewolf 浏览器，自带 uBlock Origin ，详见 <a href="/special/firefox/librewolf/" style="color: #0c82ff;" target="_blank">《Librewolf 资源汇总》</a>**
 
@@ -52,9 +52,9 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 唯一使用上的缺点就是，设置页面的色调看起来很费力。
 
-<a href="https://ypingcn.com/go/out?r=adnauseam-firefox" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/</a>
 
-> 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装广告过滤插件的影响。 <a href="https://ypingcn.com/go/out?r=adnauseam-crxsoso" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件备选下载地址</a> 
+> 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装广告过滤插件的影响。 <a href="https://www.crxsoso.com/firefox/detail/adnauseam" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件备选下载地址</a> 
 
 ## 三、Gesturefy
 
@@ -64,7 +64,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 通过鼠标手势完成简单页面操作，提高效率，无需移动过多距离即可完成前进、后退等操作，还支持诸多自定义操作。
 
-<a href="https://ypingcn.com/go/out?r=gesturefy-firefox" rel="nofollow" style="color: #0c82ff;">Gesturefy 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/</a>
 
 ## 四、clearUrls
 
@@ -76,7 +76,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 clearUrls 可以自动清理请求中的这种多余参数，能有效减少信息暴露，对广告营销说「不」。
 
-<a href="https://ypingcn.com/go/out?r=clearurls-firefox" rel="nofollow" style="color: #0c82ff;">clearUrls 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" style="color: #0c82ff;">clearUrls 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/</a>
 
 ## 五、Firefox Multi-Account Containers
 
@@ -86,20 +86,20 @@ clearUrls 可以自动清理请求中的这种多余参数，能有效减少信�
 
 类似“小号窗口”，开启后同个浏览器就能登录不同账号，再也不用安装多个浏览器～
 
-<a href="https://ypingcn.com/go/out?r=multi-account-containers-firefox" rel="nofollow" style="color: #0c82ff;">Firefox Multi-Account Containers 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" style="color: #0c82ff;">Firefox Multi-Account Containers 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/</a>
 
 ## 六、VivaldiFox
 
 一个可以让你的主题颜色跟随网页主题色更改的插件，跟 Vivaldi 浏览器一样的体验。
 
-<a href="https://ypingcn.com/go/out?r=vivaldifox-firefox" rel="nofollow" style="color: #0c82ff;">VivaldiFox 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;">VivaldiFox 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
 
 
 ## 七、Sidebery
 
 浏览器侧边栏插件，可以跟 edge 一样将所有打开的标签页和书签展示在侧边栏上，提高宽屏显示器的利用效率。
 
-<a href="https://ypingcn.com/go/out?r=sidebery-firefox" rel="nofollow" style="color: #0c82ff;">Sidebery 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
 
 ---
 
