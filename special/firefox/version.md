@@ -5,13 +5,11 @@ date: 2021-10-30 12:00 +0800
 update: 2022-09-25 17:00 +0800
 ---
 
-Firefox 火狐浏览器在 PC 电脑上主要分为 ```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR``` 四个版本，每个版本都会在上一个版本稳定之后按计划进入下一个版本。
-
-不同版本的区别不止在 Logo 上，更多的是为了满足不同的需要。
+Firefox 火狐浏览器在 PC 电脑上主要分为 ```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR``` 四个版本，每个版本都会在上一个版本稳定之后按计划进入下一个版本。由前往后，更新频率逐步降低，但稳定性逐步上升。不同版本的区别除去 Logo 样式上的不同，更多的是为了满足不同的需要，不同版本有不同版本的侧重点。
 
 > 以下版本均支持安装插件（又称拓展） <a href="/special/firefox/addons/" style="color: #0c82ff;" target="_blank"> 拓展推荐 </a> ～
 
-## Nlightly 每夜构建版
+## 一、Nlightly 每夜构建版
 
 <img src="/img/special/firefox/Fx-Browser-Nightly-icon-fullColor-128.png" alt="Firefox 火狐浏览器 Nightly" title="Firefox 火狐浏览器 Beta" />
 
@@ -25,7 +23,7 @@ Nightly 版的 Logo 是十分鲜艳的紫色，表明这个版本是十分不稳
 
 这个版本适合追求新功能，不在意浏览器稳定性的用户。
 
-## Beta+Develpoer 公开测试版
+## 二、Beta/Develpoer 公开测试版
 
 <img src="/img/special/firefox/Fx-Browser-Beta-icon-fullColor-128.png" alt="Firefox 火狐浏览器 Beta" title="Firefox 火狐浏览器 Beta" />
 
@@ -43,9 +41,9 @@ Nightly 版的 Logo 是十分鲜艳的紫色，表明这个版本是十分不稳
 
 这两个版本适合前端开发者，或者想要尝试新功能但对稳定性有一定要求的用户。
 
-<a href="https://ypingcn.com/go/out?r=firefox-developer" rel="nofollow" style="color: #0c82ff;">Developer 版本官方介绍</a>
+<a href="https://www.mozilla.org/zh-CN/firefox/developer/" rel="nofollow" style="color: #0c82ff;">Developer 版本官方介绍</a>
 
-## Release 正式发布版本
+## 三、Release 正式发布版本
 
 <img src="/img/special/firefox/Fx-Browser-icon-fullColor-128.png" alt="Firefox 火狐浏览器" title="Firefox 火狐浏览器" />
 
@@ -55,12 +53,11 @@ Nightly 版的 Logo 是十分鲜艳的紫色，表明这个版本是十分不稳
 
 一般是一个月时间后，在前面两个版本稳定后一段时间内便会进正式版本。正式版的 Logo 中颜色变回火狐的传统红，也不带有任何标识，是对外宣传使用的版本。
 
-## ESR 长期支持版
+## 四、ESR 长期支持版
 
 因为部分用户需要保持稳定，几个月或者更长的时间才会更新一次软件版本。于是便有了 ESR（Extended Support Release 长期支持）版本，前面提到的便称为 Rapid Release 快速发布版。 
 
-
-上面提到的不同版本更新节奏均可以在 <a href="https://ypingcn.com/go/out?r=firefox-calendar" rel="nofollow" style="color: #0c82ff;"> Mozilla wiki </a> 中的「发行计划」查询到
+上面提到的不同版本更新节奏均可以在 <a href="https://wiki.mozilla.org/Release_Management/Calendar" rel="nofollow" style="color: #0c82ff;"> Mozilla wiki </a> 中的「发行计划」查询到
 
 ---
 
