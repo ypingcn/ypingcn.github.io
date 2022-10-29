@@ -94,6 +94,26 @@ layout: default
                 </div>
             </section>
             {% endif %}
+            <section>
+                <div>
+                    <h5><a href="{{'/wiki/' | prepend: site.baseurl }}">本站专题</a></h5>
+                    <a target="_blank" style="color: #0c82ff;" href="https://ypingcn.com/?utm_source=blog&utm_medium=sidebar&utm_campaign=promotion" alt="「书签导航」">「书签导航」</a>
+                    <br><a target="_blank" style="color: #0c82ff;" href="/special/firefox/?utm_source=blog&utm_medium=sidebar&utm_campaign=promotion" alt="「火狐专题」">「火狐专题」</a>
+                    <br><a target="_blank" style="color: #0c82ff;" href="/special/fund/year-book/?utm_source=blog&utm_medium=sidebar&utm_campaign=promotion" alt="「基金专题」">「基金专题」</a>
+                    <br><a target="_blank" style="color: #0c82ff;" href="/wiki/affiliate/?utm_source=blog&utm_medium=sidebar&utm_campaign=promotion" alt="「好物推荐」">「好物推荐」</a>
+                </div>
+
+                <hr>
+                <h5>[AD] -- 侧边栏广告 --</h5>
+                <div>
+                <!-- 侧边栏广告 -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6252206902371079"
+                    data-ad-slot="1807131374" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+            </section>
 
             <!-- Short About -->
             <section class="visible-md visible-lg">
@@ -106,111 +126,26 @@ layout: default
                     {% if site.sidebar-about-description %}
                     <p>{{site.sidebar-about-description}}</p>
                     {% endif %}
-
                     <!-- SNS Link -->
                     <ul class="list-inline">
-                        {% if site.RSS %}
                         <li>
-                            <a target="_blank" rel="noreferrer" href="{{ " /feed.xml" | prepend: site.baseurl }}">
+                            <a target="_blank" href="{{ " /feed.xml" | prepend: site.baseurl }}">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
                                 </span>
                             </a>
                         </li>
-                        {% endif %}
-                        {% if site.twitter_username %}
-                        <li>
-                            <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ site.twitter_username }}">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        {% endif %}
-                        {% if site.zhihu_username %}
-                        <li>
-                            <a target="_blank" rel="noreferrer"
-                                href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa  fa-stack-1x fa-inverse">知</i>
-                                </span>
-                            </a>
-                        </li>
-                        {% endif %}
-                        {% if site.weibo_username %}
-                        <li>
-                            <a target="_blank" rel="noreferrer" href="http://weibo.com/{{ site.weibo_username }}">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        {% endif %}
-                        {% if site.facebook_username %}
-                        <li>
-                            <a target="_blank" rel="noreferrer"
-                                href="https://www.facebook.com/{{ site.facebook_username }}">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        {% endif %}
-                        {% if site.github_username %}
-                        <li>
-                            <a target="_blank" rel="noreferrer" href="https://github.com/{{ site.github_username }}">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        {% endif %}
-                        {% if site.linkedin_username %}
-                        <li>
-                            <a target="_blank" rel="noreferrer"
-                                href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        {% endif %}
                     </ul>
-
                 </div>
             </section>
             <section>
                 <hr>
-                <h5><a href="{{'/wiki/' | prepend: site.baseurl }}">本站专题</a></h5>
-                <div>
-                    <a target="_blank" rel="noreferrer" style="color: #0c82ff;" href="/special/firefox/"
-                            alt="「火狐专题」">「火狐专题」</a>
-                    <br><a target="_blank" rel="noreferrer" style="color: #0c82ff;" href="/special/fund/year-book/"
-                            alt="「基金专题」">「基金专题」</a>
-                    <br><a target="_blank" rel="noreferrer" style="color: #0c82ff;" href="/wiki/affiliate/"
-                            alt="「好物推荐」">「好物推荐」</a>
-                </div>
                 <h5>你可能会喜欢</h5>
                 <div>{% assign next_page_group = site.pages | sample: 6  %}{% for next_page in next_page_group %}{% assign now_folder_level = next_page.url | split:"/" | size %}{% assign now_all_folder = next_page.url | split:"/" %}
                     {% if next_page.title and now_folder_level >= 3 %}{% if now_all_folder[1]  == "special" or now_all_folder[1]  == "notes" %}
-                    <a style="color: #0c82ff;" href="{{next_page.url}}" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
+                    <a style="color: #0c82ff;" href="{{next_page.url}}?utm_source=blog&utm_medium=sidebar&utm_campaign=recommend" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
                     {% endif %}{% endif %}{% endfor %}
-                </div>
-                <h5>[AD] -- 侧边栏广告 --</h5>
-                <div>
-                <!-- 侧边栏广告 -->
-                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6252206902371079"
-                    data-ad-slot="1807131374" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                    <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
                 </div>
             </li>
             </section>
