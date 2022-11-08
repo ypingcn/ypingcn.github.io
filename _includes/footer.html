@@ -76,8 +76,11 @@
                     {% endif %}
                 </ul>
                 <p class="copyright text-muted">
+                    转载请注明：文章《{{page.title}}》转载自 <a href="{{ site.url }}?utm_source=blog&utm_medium=footer&utm_campaign=promotion">{{ site.url }}</a>
                     <br>
-                    版权所有 &copy; {{ site.title }} 保留所有权利 2016 - {{ site.time | date: '%Y' }} 
+                    本文地址：<a href="{{site.url}}{{page.url}}?utm_source=blog&utm_medium=footer&utm_campaign=promotion">{{site.url}}{{page.url}}</a>
+                    <br>
+                    版权所有 &copy; <a href="/wiki/about/?utm_source=blog&utm_medium=footer&utm_campaign=promotion">{{ site.title }}</a> 保留所有权利 2016 - {{ site.time | date: '%Y' }} 
                     <br>
                     除特殊声明外，本站文章均采用<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" rel="noopener nofollow">知识共享署名-非商业性使用-禁止演绎
                         4.0</a>国际许可协议进行许可。
