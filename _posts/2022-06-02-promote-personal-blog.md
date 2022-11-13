@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "个人博客推广记录总结"
+title:  "博客更新记录总结 | 个人博客历史（一）"
 subtitle: "How to promote personal blog"
 description: ""
 date:   2022-06-02 +0800
-update: 2022-08-09 11:20 +0800
+update: 2022-11-13 18:00 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 分享
-    - 教程
+    - 博客历史
 ---
 > 这是一篇对本博客推广的记录总结。也希望能成为其他有缘人推广自己个人博客的借鉴吧。
 
