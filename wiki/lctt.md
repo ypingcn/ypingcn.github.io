@@ -3,6 +3,7 @@ layout: page
 title:  LCTT 翻译记录
 description: 本页面记录了2016年11月到2018年10月间在  Linux.Cn Translation Team （LCTT）翻译的文章，并在此向校对者致以真诚的谢意。
 update:  2022-09-25 20:00 +0800
+not_show_copyright: true
 ---
 
 > LCTT 是 Linux.Cn Translation Team 的简称，负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。详细情况请访问 <a href="https://ypingcn.com/go/out?r=llctt-official" rel="noopener nofollow" style="color: #0c82ff;" >网站介绍</a>

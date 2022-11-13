@@ -2,13 +2,14 @@
 layout: page
 title: 笔记
 update: 2022-06-04 +0800
+not_show_copyright: true
 ---
 
 个人整理自用的技术向笔记文章，比较零碎所以不用博文的形式更新
 
 ## Dev
 
-<a href="./Dev/commands/" style="color:#0c82ff;">《后端日常开发/问题排查常用 Linux 命令（2022年）》</a>
+<a href="./Dev/commands/" style="color:#0c82ff;">《后端日常开发/问题排查常用 Linux 命令》</a>
 
 ## C
 

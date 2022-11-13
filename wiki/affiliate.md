@@ -3,6 +3,7 @@ layout: page
 title:  我的好物推荐
 update:  2022-09-25 18:30 +0800
 description: 我的好物推荐
+not_show_copyright: true
 ---
 
 > 如果对我推荐的东西感觉不错，请使用下面的链接购买/访问，购物链接会获得一定的返佣，其他类型链接无返佣。非常感谢。

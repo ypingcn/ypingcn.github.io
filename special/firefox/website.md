@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Firefox 火狐浏览器网站资源汇总（2022年）
+title:  Firefox 火狐浏览器网站资源汇总
 date: 2022-07-26 13:40 +0800
 update: 2022-07-26 13:40 +0800
 ---

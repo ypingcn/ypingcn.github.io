@@ -3,6 +3,7 @@ layout: page
 title:  中文排版指北
 description: 中文排版指北——统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 update:  2021-11-23 22:04 +0800
+not_show_copyright: true
 ---
 
 > 引用自 <a href="https://github.com/mzlogin/chinese-copywriting-guidelines" rel="nofollow" style="font-weight: bold">中文文案排版指北（简体中文版）</a>

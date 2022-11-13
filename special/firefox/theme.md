@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Firefox 火狐浏览器主题美化（2022年）
+title:  Firefox 火狐浏览器主题美化
 description: Firefox 火狐浏览器支持主题设置，简单几次点击即可美化浏览器，满足自己的审美需求。
 date: 2022-03-30 20:40 +0800
 update: 2022-10-24 17:00 +0800

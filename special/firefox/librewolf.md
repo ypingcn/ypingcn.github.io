@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Librewolf 浏览器资源汇总（2022年）
+title:  Librewolf 浏览器资源汇总
 date: 2022-04-24 13:40 +0800
 update: 2022-10-24 17:00 +0800
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Firefox 火狐浏览器版本差异（2022年）
+title:  Firefox 火狐浏览器版本差异
 date: 2021-10-30 12:00 +0800
 update: 2022-09-25 17:00 +0800
 ---

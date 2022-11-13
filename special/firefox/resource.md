@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Firefox 火狐浏览器资源汇总（2022年）
+title:  Firefox 火狐浏览器资源汇总
 description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版（简体中文、英文）才能尽量避免广告，精心整理 Firefox 火狐浏览器/ Librewolf 浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf 浏览器畅游网络
 date: 2021-10-30 12:00 +0800
 update: 2022-10-24 13:00 +0800
