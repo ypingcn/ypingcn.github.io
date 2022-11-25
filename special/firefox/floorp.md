@@ -2,7 +2,7 @@
 layout: page
 title:  Floorp 浏览器资源汇总
 date: 2022-10-16 00:20 +0800
-update: 2022-10-24 14:00 +0800
+update: 2022-11-25 20:00 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=floorp-windows-lastest" rel="nofollow" style="color: #0c82ff;"> 最新 Floorp 浏览器 Windows 版本</a>
@@ -27,6 +27,23 @@ Floorp 浏览器是国外学生社区基于 Firefox 火狐浏览器开发的隐�
 2. 支持多级标签、双击关闭标签等标签操作。
 3. 支持设置侧边工具栏，可自定义上下左右等位置。
 4. 支持一键切换 User Agent 到使用 Firefox User Agent (默认)、模拟 Chrome（Windows）、模拟 Chrome（macOS）、模拟 Chrome（Linux）、模拟 移动端 等多个选择
+
+官方特地<a href="https://blog.ablaze.one/1146/2022-01-19/" rel="nofollow" style="color: #0c82ff;">介绍</a>了相关的隐私改动
+
+1. 与 WebRTC 相比，Floorp 尽可能地隐藏了您的本地 IP。 Floorp 将尽力保护其用户。
+2. 某些 API 因指纹对策而被阻止。
+3. 从 Google 到 Mozilla 的定位服务
+4. 重写WebGL发送的设备信息，使发送的内容和用户的设备信息不一样，这样就不会发送准确的信息。 （有些是为了兼容性而发送的）
+5. 在与 http 通信时，Floorp 从不删除“http”符号。
+6. 在 Floorp 上，容器选项卡。 能得到的。
+7. 阻止其他不必要的 API。 并增加了保护。
+8. 启用内容安全策略 (CSP)
+9. 安装附加组件时启用黑名单查找
+10. 删除了似乎是 Firefox 调查的内容。
+11. 禁止 Firefox 向 Mozilla 发送信息
+12. 默认启用容器选项卡
+13. 更好地兼容 SVG avif jxl 图像文件或默认打开它们
+14. 当启用 WebGL 时，Floorp 提供最好的保护。 
 
 支持 Windows、MacOS、Linux 等多个常用平台。Linux 平台使用 flatpak 技术安装，官网仅在 Ubuntu 和 Fedora 平台测试可用。经测试 Linuxmint 亦可流畅使用 Floorp 浏览器。
 
