@@ -4,7 +4,7 @@ title:  "追「个人养老金」热点？不如多了解观望看看"
 subtitle: "Retirement pension plan"
 description: "个人养老金"
 date:   2022-12-04 +0800
-update: 2022-12-04 18:35 +0800
+update: 2022-12-09 19:19 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
@@ -31,9 +31,9 @@ tags:
 
 3. 对于年轻人群体而言选择「公募基金」更为适合，但现有品种只是各种养老目标基金，缺少国债、不同指数基金的选择，品种单一缺少分散风险的有效手段。
 
-> 后续相关信息的更新，会放在 <a target="_blank" href="https://ypingcn.com/article/finance.html?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" style="color: #0c82ff;">《财经文章收藏》</a> 
+> 后续相关信息的更新，会放在 <a target="_blank" href="https://ypingcn.com/article/finance.html" style="color: #0c82ff;">《财经文章收藏》</a> 
 > 
-> 个人养老金可买的公募基金相关信息的更新，会放在 <a target="_blank" href="https://blog.ypingcn.com/special/fund/year-book?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" style="color: #0c82ff;">《中国公募基金发展大事记》</a> 
+> 个人养老金可买的公募基金相关信息的更新，会放在 <a target="_blank" href="https://blog.ypingcn.com/special/fund/year-book" style="color: #0c82ff;">《中国公募基金发展大事记》</a> 
 > 
 > 欢迎访问。
 
