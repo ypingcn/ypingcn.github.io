@@ -4,11 +4,11 @@ title:  "2022 年终总结"
 subtitle: "Annual summary for 2022"
 description: "2022 年终总结"
 date:   2023-01-01 +0800
-update: 2023-01-01 12:00 +0800
+update: 2023-01-01 21:30 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
-catalog:    false
+catalog:    true
 tags:
     - 总结
 ---
@@ -17,8 +17,7 @@ tags:
 
 <img src="/img/post/20230101-ad5db8dd043df6904fb7eed16fdcbd56.jpg" alt="2022年网易云年度总结" title="2022年网易云年度总结" />
 
-<font color="#bfbfbf">图片出自：2022年网易云年度总结</font>
-
+<center><font color="#bfbfbf">图片出自：2022年网易云年度总结</font></center>
 
 ## 博客篇
 
@@ -49,8 +48,8 @@ tags:
 最后现在看，基本实现了我年初「提高持仓」+「合理配置」的基本目标，亏损也在可以接受的范围内。过去一年偏股混合型指数下跌``` 21.03 ```%，但个人的组合资金加权收益率是``` -5.86 ```% ，时间加权是``` -11.57```%， 都跑赢了指数。接下来的一年我打算减少对这块的时间投入，考虑用合适的投顾组合减少开黑车。持有的金额也达到了我的预期所以今年不再使用存量资金投入。不预测只应对，悲观预期和乐观收益并不是一件矛盾的事情，所以希望今年能有所收获。
 
 <img src="/img/post/20230101-45b4e9085db1f6fe441f6c9604445601.jpg" alt="万得启动页配图" title="万得启动页配图" />
-
-<font color="#bfbfbf">图片出自：2022年万得启动页配图</font>
+ 
+<center><font color="#bfbfbf">图片出自：2022年万得迎新年启动页配图</font></center>
 
 ## 最后
 
