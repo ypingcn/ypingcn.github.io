@@ -2,58 +2,58 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<!-- date_to_xmlschema -->
 <url>
   <loc>{{ site.url }}</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>{{ site.url }}/tags/</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>{{ site.url }}/notes/</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>{{ site.url }}/wiki/</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>{{ site.url }}/wiki/privacy/</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>{{ site.url }}/wiki/lctt/</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>{{ site.url }}/wiki/copywriting-guidelines/</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>{{ site.url }}/wiki/about/</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>{{ site.url }}/wiki/affiliate/</loc>
-  <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
+  <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S+08:00" }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.60</priority>
 </url>
@@ -62,7 +62,7 @@
     <loc>
     {{ site.url }}{{ post.url | remove: 'index.html' }}
     </loc>
-    <lastmod>{% if post.update %}{{ post.update | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %} </lastmod>
+    <lastmod>{% if post.update %}{{ post.update | date: "%Y-%m-%dT%H:%M:%S+08:00" }}{% else %}{{ post.date | date: "%Y-%m-%dT%H:%M:%S+08:00" }}{% endif %} </lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
 </url>{% endfor %}
