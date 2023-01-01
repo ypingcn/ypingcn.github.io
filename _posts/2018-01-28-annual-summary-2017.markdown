@@ -10,7 +10,7 @@ header-img: "img/bg.webp"
 header-mask: 0.3
 catalog:    false
 tags:
-    - 生活
+    - 总结
 ---
 
 现在已经是2018年第一个月的月末了，去年一年的经历也多多少岁有点想法，记录下来吧。
