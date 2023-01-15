@@ -95,13 +95,7 @@ layout: default
             {% endif %}
         </div>
         <!-- Sidebar Container -->
-        <div class="
-                col-lg-3 col-lg-offset-0
-                col-md-3 col-md-offset-0
-                col-sm-12
-                col-xs-12
-                sidebar-container
-            ">
+        <div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12 col-xs-12 sidebar-container">
             <!-- Featured Tags -->
             {% if site.featured-tags %}
             <section>
@@ -120,14 +114,13 @@ layout: default
                 <div>
                     <h5><a href="{{'/wiki/' | prepend: site.baseurl }}">本站专题</a></h5>
                     <a target="_blank" style="color: #0c82ff;" href="https://ypingcn.com/" alt="「书签导航」">「书签导航」</a>
-                    <br><a target="_blank" style="color: #0c82ff;" href="https://ypingcn.com/article" alt="「文章收藏」">「文章收藏」</a>
+                    <br><a target="_blank" style="color: #0c82ff;" href="https://ypingcn.com/article/" alt="「文章收藏」">「文章收藏」</a>
                     <br><a target="_blank" style="color: #0c82ff;" href="/special/firefox/" alt="「火狐专题」">「火狐专题」</a>
-                    <br><a target="_blank" style="color: #0c82ff;" href="/special/fund/year-book/" alt="「基金专题」">「基金专题」</a>
                     <br><a target="_blank" style="color: #0c82ff;" href="/wiki/affiliate/" alt="「好物推荐」">「好物推荐」</a>
+                    <br><a target="_blank" style="color: #0c82ff;" href="/special/fund/year-book/" alt="「基金专题」">「基金专题」</a>
                 </div>
-
                 <hr>
-                <h5>[AD] -- 侧边栏广告 --</h5>
+                <h5>[AD] -- 「侧边栏广告」 --</h5>
                 <div>
                 <!-- 侧边栏广告 -->
                 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6252206902371079"
@@ -136,12 +129,19 @@ layout: default
                     (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>
                 </div>
+                <hr>
+                <h5>「更多独立博客」</h5>
+                <a target="_blank" style="color: #0c82ff;" rel="noopener nofollow" href="https://www.foreverblog.cn/feeds.html" alt="十年之约专题展示">十年之约专题展示</a>
+                <br>
+                <a href="https://travellings.cn/?utm_source=blog&utm_medium=sidebar&utm_campaign=blog.ypingcn.com"
+                    target="_blank" rel="noopener nofollow" title="开往-友链接力">
+                    <img src="https://travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120">
+                </a>
             </section>
-
             <!-- Short About -->
             <section class="visible-md visible-lg">
                 <hr>
-                <h5><a href="{{'/wiki/about/' | prepend: site.baseurl }}">关于</a></h5>
+                <h5><a href="{{'/wiki/about/' | prepend: site.baseurl }}">「关于」</a></h5>
                 <div class="short-about">
                     {% if site.sidebar-avatar %}
                     <img src="{{site.sidebar-avatar}}" alt="博客边栏正方形头像" />
@@ -164,7 +164,7 @@ layout: default
             </section>
             <section>
                 <hr>
-                <h5>你可能会喜欢</h5>
+                <h5>「你可能会喜欢」</h5>
                 <div>{% assign next_page_group = site.pages | sample: 6  %}{% for next_page in next_page_group %}{% assign now_folder_level = next_page.url | split:"/" | size %}{% assign now_all_folder = next_page.url | split:"/" %}
                     {% if next_page.title and now_folder_level >= 3 %}{% if now_all_folder[1]  == "special" or now_all_folder[1]  == "notes" %}
                     <a style="color: #0c82ff;" href="{{next_page.url}}" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
