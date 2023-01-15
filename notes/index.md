@@ -3,6 +3,7 @@ layout: page
 title: 笔记
 update: 2022-06-04 +0800
 not_show_copyright: true
+not_show_ad: true
 ---
 
 个人整理自用的技术向笔记文章，比较零碎所以不用博文的形式更新

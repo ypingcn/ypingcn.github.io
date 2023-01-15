@@ -78,7 +78,7 @@
                 <p class="copyright text-muted">
                     {% if page.not_show_copyright %}
                     {% else %}
-                    转载请注明以下信息：标题《{{page.title}}》转载自 <a href="{{ site.url }}">{{ site.url }}</a>
+                    转载请注明以下信息：《{{page.title}}》转载自 <a href="{{ site.url }}">{{ site.url }}</a>
                     <br>
                     本文地址：<a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>
                     <br>
@@ -111,6 +111,27 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
 
+
+    
+<!-- Start of Howxm client code snippet -->
+<script>
+    function _howxm() { _howxmQueue.push(arguments) }
+    window._howxmQueue = window._howxmQueue || [];
+    _howxm('setAppID', '6de25c29-c1a0-4047-8a0f-b62c74650c44');
+    (function () {
+        var scriptId = 'howxm_script';
+        if (!document.getElementById(scriptId)) {
+        var e = document.createElement('script'),
+            t = document.getElementsByTagName('script')[0];
+        e.setAttribute('id', scriptId);
+        e.type = 'text/javascript'; e.async = !0;
+        e.src = 'https://static.howxm.com/sdk.js';
+        t.parentNode.insertBefore(e, t)
+        }
+    })();
+    </script>
+    <!-- End of Howxm client code snippet -->
+
 <!-- Service Worker -->
 {% if site.service-worker %}
 <script type="text/javascript">
@@ -123,7 +144,6 @@
     }
 </script>
 {% endif %}
-
 
 <!-- async load function -->
 <script>

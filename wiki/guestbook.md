@@ -3,6 +3,7 @@ layout: page
 title:  留言
 update:  2022-11-11 00:00 +0800
 not_show_copyright: true
+not_show_ad: true
 ---
 
 来者皆是客。欢迎！
