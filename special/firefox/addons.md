@@ -3,7 +3,7 @@ layout: page
 title:  Firefox 火狐浏览器插件推荐
 description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，分享几个插件。同时提供备份安装插件的方法，助你安装无忧。
 date: 2020-10-29 23:59 +0800
-update: 2022-10-24 13:00 +0800
+update: 2023-01-21 21:30 +0800
 ---
 
 插件，又称拓展、附加组件、Addons、擴充套件等，意在为浏览器实现更多更丰富的特性。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
@@ -94,12 +94,19 @@ clearUrls 可以自动清理请求中的这种多余参数，能有效减少信�
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;">VivaldiFox 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
 
-
 ## 七、Sidebery
 
 浏览器侧边栏插件，可以跟 edge 一样将所有打开的标签页和书签展示在侧边栏上，提高宽屏显示器的利用效率。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
+
+## 八、Tampermonkey
+
+堪称【浏览器辅助神器】的油猴脚本，有丰富的大神定义脚本，众多功能等待挖掘！ 
+
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/</a>
+
+脚本推荐：<a href="https://ypingcn.com/article/scriptlist.html" style="color: #0c82ff;">优秀好用脚本列表</a>
 
 ---
 

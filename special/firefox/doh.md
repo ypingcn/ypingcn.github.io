@@ -2,7 +2,7 @@
 layout: page
 title: 如何在 Firefox 火狐浏览器上启用安全 DNS（DoH）
 date: 2022-10-16 10:20 +0800
-update: 2022-10-24 14:00 +0800
+update: 2023-01-21 21:30 +0800
 ---
 
 每个网站都需要知道IP地址才能正确访问，但是 IP 地址太多不可能每个都记录下来，需要有一个方式来给用户使用，这就是域名系统 DNS（Domain Name System）的来由。DNS 是指将地址栏中的地址转换成具体网络IP地址的一个协议，但因其设计没有考虑相关的安全性导致其容易被第三方劫持进而修改结果。而安全 DNS （DNS-over-HTTPS，简称 DoH ）则是基于加密的 HTTPS 协议实现的 DNS 的功能，具有避免网络运营商劫持、有效保护个人浏览记录、去除广告保护隐私等功能。
@@ -32,6 +32,8 @@ update: 2022-10-24 14:00 +0800
 
 #### 2.3 AdGuard
 
+>（网络原因不太推荐在国内网络条件下使用）
+
 老牌广告过滤商，注册帐号后支持设置广告过滤等自定义内容。
 
 默认 （屏蔽广告、追踪器）```https://dns.adguard.com/dns-query```
@@ -41,6 +43,8 @@ update: 2022-10-24 14:00 +0800
 无过滤 ```https://unfiltered.adguard-dns.com/dns-query```
 
 #### 2.4 NextDNS
+
+>（网络原因，不太推荐在国内网络条件下使用）
 
 去广告 DNS 服务商，每月可免费查询 300,000 次，同时支持 DoH 、DoT 等方式。<a href="https://ypingcn.com/go/out?r=nextdns" target="_blank" rel="noopener nofollow" style="color: #0c82ff;" title="NextDns">【注册】</a>
 
@@ -57,10 +61,6 @@ update: 2022-10-24 14:00 +0800
 屏蔽病毒程序 ```https://security.cloudflare-dns.com/dns-query```
 
 屏蔽病毒程序和成人内容 ```https://family.cloudflare-dns.com/dns-query```
-
-#### 2.6 iQDNS
-
-网友架设的服务，可用作备用。 ```https://a.passcloud.xyz/dns-query```
 
 ------
 
