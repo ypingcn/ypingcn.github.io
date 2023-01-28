@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Floorp 浏览器资源汇总
+title:  Floorp 浏览器资源汇总（2023年）
 date: 2022-10-16 00:20 +0800
-update: 2022-11-25 20:00 +0800
+update: 2023-01-28 11:50 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=floorp-windows-lastest" rel="nofollow" style="color: #0c82ff;"> 最新 Floorp 浏览器 Windows 版本</a>

@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Firefox 火狐浏览器插件推荐
-description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，分享几个插件。同时提供备份安装插件的方法，助你安装无忧。
+title:  Firefox 火狐浏览器插件推荐（2023年）
+description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，汇总分享插件下载资源，同时提供在不同网络条件下安装插件的方法，助你插件使用无忧。
 date: 2020-10-29 23:59 +0800
-update: 2023-01-21 21:30 +0800
+update: 2023-01-28 11:50 +0800
 ---
 
 插件，又称拓展、附加组件、Addons、擴充套件等，意在为浏览器实现更多更丰富的特性。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
@@ -44,7 +44,21 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 **uBO Minus 是基于 Manifest V3 标准的实验性插件**。 Manifest V3 就移除了每个广告屏蔽扩展都在使用 WebRequest API，只能提供带有限制性的 declarativeNetRequest API 接口。这个改动消弱了隐私拓展的能力，加之 Manifest V3 仅允许扩展拥有最多 3 万条规则（相比 Manifest V2 的一些广告拦截器就有接近 10 万条规则），这两点改动使得 uBO Minus 插件效果不如 uBlock Origin 。这里还是推荐使用 uBlock Origin。
 
-## 二、AdNauseam
+## 二、uBlacklist
+
+一个可以通过订阅规则来屏蔽搜索引擎结果页里的内容农场等信息量低的网站，提高搜索效率。
+
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" style="color: #0c82ff;">uBlacklist 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/</a>
+
+## 三、Tampermonkey
+
+堪称【浏览器辅助神器】的油猴脚本，有丰富的大神定义脚本，众多功能等待挖掘！ 
+
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/</a>
+
+脚本推荐：<a href="https://ypingcn.com/article/scriptlist.html" style="color: #0c82ff;">优秀好用脚本列表</a>
+
+## 四、AdNauseam
 
 一款基于 uBlock Origin 构建的插件，最大的特点是可以根据设置，模拟用户点击相关广告达到迷惑广告商的目的。还有可视化的界面，以图片、文字的形式列举所屏蔽过的所有广告内容。同样的，因为是基于 uBlock Origin 构建的插件，所以上一小节提到的广告过滤规则在这里同样可以使用。
 
@@ -56,7 +70,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 > 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装广告过滤插件的影响。 <a href="https://www.crxsoso.com/firefox/detail/adnauseam" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件备选下载地址</a> 
 
-## 三、Gesturefy
+## 五、Gesturefy
 
 <img src="/img/special/firefox/firefox-gesturefy.png" style="width:auto;height:auto;max-width:100%;max-height:100%;" alt="Gesturefy 简介及评分">
 
@@ -66,7 +80,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/</a>
 
-## 四、clearUrls
+## 六、clearUrls
 
 <img src="/img/special/firefox/firefox-clearurls.png" style="width:auto;height:auto;max-width:100%;max-height:100%;" alt="clearurls 简介及评分">
 
@@ -78,7 +92,7 @@ clearUrls 可以自动清理请求中的这种多余参数，能有效减少信�
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" style="color: #0c82ff;">clearUrls 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/</a>
 
-## 五、Firefox Multi-Account Containers
+## 七、Firefox Multi-Account Containers
 
 <img src="/img/special/firefox/firefox-multi-account-containers.png" style="width:auto;height:auto;max-width:100%;max-height:100%;" alt="Firefox Multi-Account Containers 简介及评分">
 
@@ -88,25 +102,19 @@ clearUrls 可以自动清理请求中的这种多余参数，能有效减少信�
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" style="color: #0c82ff;">Firefox Multi-Account Containers 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/</a>
 
-## 六、VivaldiFox
+## 八、VivaldiFox
 
 一个可以让你的主题颜色跟随网页主题色更改的插件，跟 Vivaldi 浏览器一样的体验。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;">VivaldiFox 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
 
-## 七、Sidebery
+## 九、Sidebery
 
 浏览器侧边栏插件，可以跟 edge 一样将所有打开的标签页和书签展示在侧边栏上，提高宽屏显示器的利用效率。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
 
-## 八、Tampermonkey
 
-堪称【浏览器辅助神器】的油猴脚本，有丰富的大神定义脚本，众多功能等待挖掘！ 
-
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/</a>
-
-脚本推荐：<a href="https://ypingcn.com/article/scriptlist.html" style="color: #0c82ff;">优秀好用脚本列表</a>
 
 ---
 

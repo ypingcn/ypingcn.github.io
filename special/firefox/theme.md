@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Firefox 火狐浏览器主题美化
+title:  Firefox 火狐浏览器主题美化（2023年）
 description: Firefox 火狐浏览器支持主题设置，简单几次点击即可美化浏览器，满足自己的审美需求。
 date: 2022-03-30 20:40 +0800
-update: 2022-10-24 17:00 +0800
+update: 2023-01-28 11:50 +0800
 ---
 
 Firefox 火狐浏览器支持设置主题，简单的几次点击即可美化浏览器，满足自己的审美需求。更有多种开箱即用的预设主题，2023 年 1 月 17 日前还有多个```Independent Voices```的 colorways 主题可供选择。更新到Firefox 106 及以上版本，访问 Firefox View 页面（标签栏最左侧的标签）即可选择。

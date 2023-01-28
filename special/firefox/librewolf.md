@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Librewolf 浏览器资源汇总
+title:  Librewolf 浏览器资源汇总（2023年）
 date: 2022-04-24 13:40 +0800
-update: 2022-10-24 17:00 +0800
+update: 2023-01-28 11:50 +0800
 ---
 
 **快速下载**：<a href="https://ypingcn.com/go/out?r=librewolf-windows-lastest" rel="nofollow" style="color: #0c82ff;">最新版Librewolf Windows安装程序下载</a>

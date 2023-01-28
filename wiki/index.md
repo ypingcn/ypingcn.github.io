@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  帮助 FAQ
-update:  2022-10-16 11:00 +0800
+update: 2023-01-28 11:50 +0800
 description: 博客的 FAQ 页面，记录博客所有模块的入口和常见问题的解答，希望能及时提供帮助。
 linkeddata: {"@context":"http://schema.org","@type":"ItemList","numberOfItems":"9","itemListElement":[{"@type":"ListItem","position":1,"url":"https://blog.ypingcn.com/wiki/about/"},{"@type":"ListItem","position":2,"url":"https://blog.ypingcn.com/wiki/guestbook/"},{"@type":"ListItem","position":3,"url":"https://blog.ypingcn.com/wiki/copywriting-guidelines/"},{"@type":"ListItem","position":4,"url":"https://blog.ypingcn.com/special/firefox/resource/"},{"@type":"ListItem","position":5,"url":"https://blog.ypingcn.com/special/firefox/addons/"},{"@type":"ListItem","position":6,"url":"https://blog.ypingcn.com/special/firefox/version/"},{"@type":"ListItem","position":7,"url":"https://blog.ypingcn.com/special/firefox/theme/"},{"@type":"ListItem","position":8,"url":"https://blog.ypingcn.com/special/firefox/librewolf/"},{"@type":"ListItem","position":9,"url":"https://blog.ypingcn.com/special/fund/year-book/"}]}
 not_show_copyright: true
@@ -34,6 +34,10 @@ not_show_ad: true
 
 ### Firefox 火狐浏览器
 
+<a href="/special/firefox/librewolf/" style="color: #0c82ff;"># @Librewolf 浏览器 ~</a>
+
+<a href="/special/firefox/floorp/" style="color: #0c82ff;"># @Floorp 浏览器 ~</a>
+
 <a href="/special/firefox/resource/" style="color: #0c82ff;"># @Firefox 火狐浏览器资源汇总 </a>
 
 <a href="/special/firefox/version/" style="color: #0c82ff;"># @Firefox 火狐浏览器版本差异 </a>
@@ -45,10 +49,6 @@ not_show_ad: true
 <a href="/special/firefox/website/" style="color: #0c82ff;"># @Firefox 火狐浏览器相关网站汇总 ~</a>
 
 <a href="/special/firefox/doh/" style="color: #0c82ff;"># @Firefox 火狐浏览器设置安全 DNS （DoH） ~</a>
-
-<a href="/special/firefox/librewolf/" style="color: #0c82ff;"># @Librewolf 浏览器 ~</a>
-
-<a href="/special/firefox/floorp/" style="color: #0c82ff;"># @Floorp 浏览器 ~</a>
 
 ### 基金
 
