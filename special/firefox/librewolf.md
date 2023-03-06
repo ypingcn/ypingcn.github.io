@@ -2,7 +2,7 @@
 layout: page
 title:  Librewolf 浏览器资源汇总（2023年）
 date: 2022-04-24 13:40 +0800
-update: 2023-01-28 11:50 +0800
+update: 2023-03-06 13:00 +0800
 ---
 
 **快速下载**：<a href="https://ypingcn.com/go/out?r=librewolf-windows-lastest" rel="nofollow" style="color: #0c82ff;">最新版Librewolf Windows安装程序下载</a>
@@ -10,6 +10,8 @@ update: 2023-01-28 11:50 +0800
 ---
 
 Librewolf，字面意思即【自由之狼】。Librewolf 浏览器是一款基于 Mozilla Firefox 火狐浏览器定制，旨在为普通用户提供注重安全隐私、开箱即用的优秀浏览器。
+
+它删除了 Firefox 中收集用户数据的组件，例如 Pocket、Telemetry 和 Data Collection 等，并添加了一些针对隐私和安全的扩展和配置选项，如uBlock Origin、HTTPS Everywhere 和 First Party Isolation等。此外，Librewolf 浏览器还包括一些高级功能，如强制加密DNS（DoH）和HTTP Referrer控制等，以增强用户的在线隐私。
 
 同样支持 Windows、MacOS、Linux 等不同日常使用的操作系统平台，满足不同人群的使用需要。
 

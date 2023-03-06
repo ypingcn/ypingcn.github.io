@@ -3,7 +3,7 @@ layout: page
 title:  Firefox 火狐浏览器插件推荐（2023年）
 description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，汇总分享插件下载资源，同时提供在不同网络条件下安装插件的方法，助你插件使用无忧。
 date: 2020-10-29 23:59 +0800
-update: 2023-01-28 11:50 +0800
+update: 2023-03-06 13:00 +0800
 ---
 
 插件，又称拓展、附加组件、Addons、擴充套件等，意在为浏览器实现更多更丰富的特性。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
@@ -20,9 +20,11 @@ update: 2023-01-28 11:50 +0800
 
 首先推荐的是广告过滤插件 uBlock Origin <a href="https://ublockorigin.com/" rel="nofollow" style="color: #0c82ff;">「官网」</a>。
 
-只使用默认的配置就能减少无关内容对页面浏览的分心。还能在设置页面里添加更多第三方维护的规则，如 EasyPrivacy 规则，以此减少网站对用户数据的收集。
+uBlock Origin 可以屏蔽网页上的多种广告形式，包括弹出式广告、悬浮广告、视频广告等，让您的网页阅读更加清爽，减少干扰。
 
-因为它本身是还是一个开源软件，因此也有许多热心的网友整理了很多 uBlock Origin 规则以供使用 —— 除了内置的 uBlock filters 规则外，还有著名的过滤广告规则 EasyList 、隐私保护规则 EasyPrivacy 和拦截恶意网站，除此之外还有针对特定地区/语言的不同规则可以选择。
+不同类型的广告通常会跟踪用户行为并收集个人信息，uBlock Origin 可以有效地阻止这种行为，增强您在网上的隐私保护。
+
+因为它本身是还是一个开源软件，因此也有许多热心的网友整理了很多 uBlock Origin 规则以供使用 —— 除了内置的 uBlock filters 规则外，还有著名的过滤广告规则 EasyList 、隐私保护规则 EasyPrivacy 和拦截恶意网站，除此之外还有针对特定地区/语言的不同规则可以选择。还可以阻止一些不必要的资源加载，如字体、样式表等，从而提高页面加载速度和性能。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/</a>
 
@@ -46,13 +48,15 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 ## 二、uBlacklist
 
-一个可以通过订阅规则来屏蔽搜索引擎结果页里的内容农场等信息量低的网站，提高搜索效率。
+uBlacklist 是一款针对搜索结果过滤的插件，可以屏蔽用户不感兴趣、不想看到的特定网站或者内容质量低下的网站。当用户在搜索时，uBlacklist 可以根据用户自定义的规则和关键词，将匹配的网站从搜索结果中过滤掉。
+
+例如，如果您不愿意查看某些新闻网站的链接，您可以在 uBlacklist 中添加这些网站的域名或关键词，然后 uBlacklist 将会在将来的搜索结果中过滤掉这些网站的链接。这样可以让用户更快地找到他们所需要的信息，同时减少不必要的干扰和误导。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" style="color: #0c82ff;">uBlacklist 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/</a>
 
 ## 三、Tampermonkey
 
-堪称【浏览器辅助神器】的油猴脚本，有丰富的大神定义脚本，众多功能等待挖掘！ 
+堪称【浏览器辅助神器】的油猴脚本，Tampermonkey 可以管理和运行用户编写的 JavaScript 脚本，这些脚本可以对网页进行修改、扩展或增强等操作，例如自动填充表单、屏蔽广告、抓取信息等，还有丰富的大神定义脚本，众多功能等待挖掘！ 
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/</a>
 
@@ -60,7 +64,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 ## 四、AdNauseam
 
-一款基于 uBlock Origin 构建的插件，最大的特点是可以根据设置，模拟用户点击相关广告达到迷惑广告商的目的。还有可视化的界面，以图片、文字的形式列举所屏蔽过的所有广告内容。同样的，因为是基于 uBlock Origin 构建的插件，所以上一小节提到的广告过滤规则在这里同样可以使用。
+一款基于 uBlock Origin 构建的插件，最大的特点是可以根据设置，模拟用户点击相关广告达到迷惑广告商的目的。AdNauseam 的设计理念是通过干扰广告商的经济模型来反击广告追踪和数据收集，因此它的操作方式可能与传统的广告屏蔽器不同。还有可视化的界面，以图片、文字的形式列举所屏蔽过的所有广告内容。同样的，因为是基于 uBlock Origin 构建的插件，所以上一小节提到的广告过滤规则在这里同样可以使用。
 
 个人体验下来广告过滤效果跟单独使用 uBlock Origin 一致，但广告统计里的数据量不多（可能是我浏览的网站贴片广告有限），对广告过滤统计感兴趣的可以用 AdNauseam 代替 uBlock Origin 使用。
 
@@ -76,7 +80,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 <center><font color="#bfbfbf"> --- Gesturefy 简介及评分 --- </font></center>
 
-通过鼠标手势完成简单页面操作，提高效率，无需移动过多距离即可完成前进、后退等操作，还支持诸多自定义操作。
+Gesturefy 支持多种手势操作，例如滑动、缩放、旋转、轻扫等，可以代替传统的鼠标或键盘操作，提高用户的效率和体验。通过鼠标手势完成简单页面操作，提高效率，无需移动过多距离即可完成前进、后退等操作，还支持诸多自定义操作。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/</a>
 
@@ -88,7 +92,7 @@ Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin 
 
 网站中的小尾巴参数可以拿来作为营销的参考，大家所厌恶的广告捆绑软件的也是用了这种方法来牟利。同时这种隐藏在地址栏里的参数不仅将用户的设备、用户、广告信息，而且在地址栏里复制地址给其他人的时候，也会不经意间把这些敏感信息暴露给外人。
 
-clearUrls 可以自动清理请求中的这种多余参数，能有效减少信息暴露，对广告营销说「不」。
+clearUrls 可以自动从URL中删除跟踪元素，使浏览更加私密和安全。它可以防止广告商跟踪你的在线活动、提高网站加载速度，并清除不必要的重定向链接。
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" style="color: #0c82ff;">clearUrls 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/</a>
 
