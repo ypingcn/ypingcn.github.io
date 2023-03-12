@@ -75,10 +75,10 @@ bo go peun ma eu me
 kkeun nae bo nae ji mo tha go
 끝내 보내지 못하고
 始终不能释怀
-neo ha na myeon chung bun haess	eot	deon
+neo ha na myeon chung bun haess eot deon
 너 하나면 충분했었던
 只要一个你就足够了
-geu	nar	ui u rir dwi ro han chae
+geu nar ui u rir dwi ro han chae
 그날의 우릴 뒤로 한 채
 把那时的我们抛在身后
 da si tto nun eur gam neun da
