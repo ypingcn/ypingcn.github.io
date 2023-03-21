@@ -3,14 +3,14 @@ layout: page
 title: 歌词音译 - Drama @IU
 date: 2022-06-03 19:34 +0800
 update: 2022-07-07 10:30 +0800
-description: Drama @IU - 韩语罗马音译
+description: Drama @IU - 韩语罗马音译+中文歌词
 ---
 
 Drama @IU <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 
-韩语罗马音译全文如下
+韩语罗马音译+中文歌词。全文如下
 
 ```
 na do han ddae nen k i ye so-ner cab go

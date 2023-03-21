@@ -3,14 +3,14 @@ layout: page
 title: 歌词音译 - 致犹豫的恋人们 @Jannabi
 date: 2022-06-03 19:34 +0800
 update: 2022-07-07 10:30 +0800
-description: 致犹豫的恋人们 @Jannabi - 韩语罗马音译
+description: 致犹豫的恋人们 @Jannabi - 韩语罗马音译+中文歌词
 ---
 
 致犹豫的恋人们(주저하는 연인들을 위해) @Jannabi <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 
-韩语罗马音译全文如下
+韩语罗马音译+中文歌词。全文如下
 
 ```
 나는 읽기 쉬운 마음이야

@@ -3,14 +3,14 @@ layout: page
 title: 歌词音译 - 被遗忘的季节 @IU
 date: 2022-06-03 19:34 +0800
 update: 2022-07-07 10:30 +0800
-description: 被遗忘的季节 @IU - 韩语罗马音译
+description: 被遗忘的季节 @IU - 韩语罗马音译+中文歌词
 ---
 
 被遗忘的季节 잊혀진 계절 @IU <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 
-韩语罗马音译全文如下
+韩语罗马音译+中文歌词。全文如下
 
 ```
 잊혀진 계절

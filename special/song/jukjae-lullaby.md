@@ -3,14 +3,14 @@ layout: page
 title: 歌词音译 - Lullaby @Jukjae(郑宰阮)
 date: 2023-03-12 22:00 +0800
 update: 2023-03-12 22:00 +0800
-description: Lullaby @Jukjae(郑宰阮) - 韩语罗马音译
+description: Lullaby @Jukjae(郑宰阮) - 韩语罗马音译+中文歌词
 ---
 
 摇篮曲 Lullaby @Jukjae(郑宰阮)<a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 
-韩语罗马音译全文如下
+韩语罗马音译+中文歌词。全文如下
 
 ```
 jam deul ji mo than bam
