@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 歌词音译 - December 24th(12월24일) @IU
+title: 歌词音译 - December 24th(12월24일) @d.ear
 date: 2023-03-21 22:00 +0800
 update: 2023-03-21 22:00 +0800
-description: IU December 24th(12월24일) - 韩语罗马音译+中文歌词
+description: d.ear December 24th(12월24일) - 韩语罗马音译+中文歌词
 ---
 
 December 24th(12월24일) <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>

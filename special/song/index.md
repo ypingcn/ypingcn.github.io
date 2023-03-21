@@ -2,13 +2,13 @@
 layout: page
 title: KPOP 歌曲歌词音译汇总
 date: 2023-03-12 23:00 +0800
-update: 2023-03-21 22:30 +0800
+update: 2023-03-21 23:00 +0800
 description: KPOP 歌曲歌词音译汇总
 ---
 
-<a target="_blank" href="/special/song/iu-drama/" style="color: #0c82ff;">#《Drama》 - IU</a>
+<a target="_blank" href="/special/song/d.ear-december-24th/" style="color: #0c82ff;">#《12月24日》- d.ear</a>
 
-<a target="_blank" href="/special/song/iu-december-24th/" style="color: #0c82ff;">#《12月24日》 - IU</a>
+<a target="_blank" href="/special/song/iu-drama/" style="color: #0c82ff;">#《Drama》- IU</a>
 
 <a target="_blank" href="/special/song/iu-suga-eight/" style="color: #0c82ff;">#《Eight》- IU x SUGA</a>
 
