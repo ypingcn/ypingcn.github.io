@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Podcast 是新一代的 Blog？| 播客收听体验分享"
+subtitle: "播客收听体验分享"
+description: "播客收听体验分享"
+date:   2023-05-02 +0800
+update: 2023-05-02 21:00 +0800
+author:     "ypingcn"
+header-img: "img/bg.webp"
+header-mask: 0.3
+catalog:    true
+tags:
+    - 生活
+    - 分享
+---
+
+> <a target="_blank" href="https://ypingcn.com/article/podcast.html" style="color: #0c82ff;">闲暇听什么：我的私藏播客清单</a>
+
+我个人是从 2021 年起才开始用```AntennaPod```接触并收听播客节目的（希望大家能多多支持开源软件~），今年起也会慢慢使用```小宇宙APP```来收听其他苹果播客上搜不到的节目（```AntennaPod```主要是使用苹果播客的数据）作为辅助。收听时长也从 2021 年 11.9h 到 2022 年 54.7h 到今年刚过4个月就已经 13.2+33h 了，播客已经慢慢成为我通勤、在家打扫卫生、跑步锻炼等碎片时间里的一个好陪伴了。
+
+> Podcast 是新一代的 Blog？
+
+不得不说，播客（Podcast）与博客（Blog）多少有点相似之处。对于创作者而言都是一个分享自己经历和感受的方式，发表自己的意见系统化的将自己的想法留存下来。而读者都可以从文字版的博客、音频版的播客里获取信息，“打破信息差”。音频所带来的“信息密度”远没有文字版的博客信息量大，所以说实话播客并不是一个获取信息最高效的方式，但也因音频声音高低、想象空间的特点，能给听众文字所不具备的陪伴感、临场感和生活气息。
+
+> <a target="_blank" href="https://ypingcn.com/article/podcast.html" style="color: #0c82ff;">闲暇听什么：我的私藏播客清单</a>
+
+以下几个是我个人比较喜欢的播客节目——
+
+1.<a target="_blank" rel="noopener nofollow" href="https://www.xiaoyuzhoufm.com/podcast/5ebcf445418a84a046c2e26d">《来都来了》</a>
+
+丸籽和 Nico 两位女生用聊天的形式节目，轻松愉悦的聊天氛围。
+
+2.<a target="_blank" rel="noopener nofollow" href="https://www.xiaoyuzhoufm.com/podcast/61dd99a47b29652ff572257b">《起朱楼宴宾客》</a>
+
+创作者是大卫翁，一个金融从业者记录时代和个人经验的分享。
+
+3.<a target="_blank" rel="noopener nofollow" href="https://www.xiaoyuzhoufm.com/podcast/6159297f8b734da17cbfe472">《阿弥晚安》</a>
+
+节目最大的特点是播主狂阿弥的声音，以及每一期最后都会用一首歌曲或者轻音乐作为结束。
