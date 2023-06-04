@@ -2,7 +2,7 @@
 layout: page
 title:  Firefox 火狐浏览器专题资源汇总
 date: 2022-03-30 20:43 +0800
-update: 2023-03-06 13:00 +0800
+update: 2023-06-04 16:00 +0800
 ---
 
 火狐浏览器是一款免费的开源互联网浏览器，拥有丰富的扩展功能。与其他浏览器相比，它更注重隐私保护和用户体验。
@@ -36,3 +36,5 @@ update: 2023-03-06 13:00 +0800
 <a target="_blank" href="/special/firefox/website/" style="color: #0c82ff;"># @Firefox 火狐浏览器相关网站汇总 ~</a>
 
 <a target="_blank" href="/special/firefox/doh/" style="color: #0c82ff;"># @Firefox 火狐浏览器设置安全 DNS （DoH） ~</a>
+
+<a target="_blank" href="/special/firefox/trains/" style="color: #0c82ff;"># @Firefox Trains，一个查看 Firefox 火狐浏览器不同渠道最新版本的网站 ~</a>
