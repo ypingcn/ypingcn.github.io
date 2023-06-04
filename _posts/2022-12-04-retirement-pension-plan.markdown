@@ -4,7 +4,7 @@ title:  "追「个人养老金」热点？不如多了解观望看看"
 subtitle: "Retirement pension plan"
 description: "个人养老金"
 date:   2022-12-04 +0800
-update: 2022-12-09 19:19 +0800
+update: 2023-06-04 16:00 +0800
 author:     "ypingcn"
 header-img: "img/bg.webp"
 header-mask: 0.3
@@ -33,7 +33,7 @@ tags:
 
 > 后续相关信息的更新，会放在 <a target="_blank" href="https://ypingcn.com/article/finance.html" style="color: #0c82ff;">《财经文章收藏》</a> 
 > 
-> 个人养老金可买的公募基金相关信息的更新，会放在 <a target="_blank" href="https://blog.ypingcn.com/special/fund/year-book" style="color: #0c82ff;">《中国公募基金发展大事记》</a> 
+> 个人养老金可买的公募基金相关信息的更新，会放在 <a target="_blank" href="/special/fund/year-book" style="color: #0c82ff;">《中国公募基金发展大事记》</a> 
 > 
 > 欢迎访问。
 

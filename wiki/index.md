@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  帮助 FAQ
-update: 2023-06-04 15:40 +0800
+update: 2023-06-04 16:00 +0800
 description: 博客的 FAQ 页面，记录博客所有模块的入口和常见问题的解答，希望能及时提供帮助。
-linkeddata: {"@context":"http://schema.org","@type":"ItemList","numberOfItems":"9","itemListElement":[{"@type":"ListItem","position":1,"url":"https://blog.ypingcn.com/wiki/about/"},{"@type":"ListItem","position":2,"url":"https://blog.ypingcn.com/wiki/guestbook/"},{"@type":"ListItem","position":3,"url":"https://blog.ypingcn.com/wiki/copywriting-guidelines/"},{"@type":"ListItem","position":4,"url":"https://blog.ypingcn.com/special/firefox/resource/"},{"@type":"ListItem","position":5,"url":"https://blog.ypingcn.com/special/firefox/addons/"},{"@type":"ListItem","position":6,"url":"https://blog.ypingcn.com/special/firefox/version/"},{"@type":"ListItem","position":7,"url":"https://blog.ypingcn.com/special/firefox/theme/"},{"@type":"ListItem","position":8,"url":"https://blog.ypingcn.com/special/firefox/librewolf/"},{"@type":"ListItem","position":9,"url":"https://blog.ypingcn.com/special/fund/year-book/"}]}
+linkeddata: {"@context":"http://schema.org","@type":"ItemList","numberOfItems":"9","itemListElement":[{"@type":"ListItem","position":1,"url":"{{site.url}}/wiki/about/"},{"@type":"ListItem","position":2,"url":"{{site.url}}/wiki/guestbook/"},{"@type":"ListItem","position":3,"url":"{{site.url}}/wiki/copywriting-guidelines/"},{"@type":"ListItem","position":4,"url":"{{site.url}}/special/firefox/resource/"},{"@type":"ListItem","position":5,"url":"{{site.url}}/special/firefox/addons/"},{"@type":"ListItem","position":6,"url":"{{site.url}}/special/firefox/version/"},{"@type":"ListItem","position":7,"url":"{{site.url}}/special/firefox/theme/"},{"@type":"ListItem","position":8,"url":"{{site.url}}/special/firefox/librewolf/"},{"@type":"ListItem","position":9,"url":"{{site.url}}/special/fund/year-book/"}]}
 not_show_copyright: true
 not_show_ad: true
 ---

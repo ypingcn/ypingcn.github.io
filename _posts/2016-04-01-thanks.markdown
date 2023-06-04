@@ -86,7 +86,7 @@ int main()
 
 
 
-[外部链接](https://blog.ypingcn.com)
+[外部链接]({{site.url}})
 
 ------
 
