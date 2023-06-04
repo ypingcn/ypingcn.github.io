@@ -2,7 +2,7 @@
 layout: page
 title:  Firefox 火狐浏览器版本差异（2023年）
 date: 2021-10-30 12:00 +0800
-update: 2023-01-28 11:50 +0800
+update: 2023-06-04 14:30 +0800
 ---
 
 Firefox 火狐浏览器在 PC 电脑上主要分为 ```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR``` 四个版本，每个版本都会在上一个版本稳定之后按计划进入下一个版本。由前往后，更新频率逐步降低，但稳定性逐步上升。不同版本的区别除去 Logo 样式上的不同，更多的是为了满足不同的需要，不同版本有不同版本的侧重点。
@@ -57,7 +57,7 @@ Nightly 版的 Logo 是十分鲜艳的紫色，表明这个版本是十分不稳
 
 因为部分用户需要保持稳定，几个月或者更长的时间才会更新一次软件版本。于是便有了 ESR（Extended Support Release 长期支持）版本，前面提到的便称为 Rapid Release 快速发布版。 
 
-上面提到的不同版本更新节奏均可以在 <a href="https://wiki.mozilla.org/Release_Management/Calendar" rel="nofollow" style="color: #0c82ff;"> Mozilla wiki </a> 中的「发行计划」查询到
+上面提到的不同版本更新节奏均可以在 <del><a href="https://wiki.mozilla.org/Release_Management/Calendar" rel="nofollow" style="color: #0c82ff;"> Mozilla wiki </a> 中的「发行计划」</del><a href="https://whattrainisitnow.com/calendar/" rel="nofollow" style="color: #0c82ff;"> Firefox Trains </a>中查询到
 
 ---
 
