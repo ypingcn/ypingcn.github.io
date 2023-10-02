@@ -118,8 +118,6 @@ clearUrls 可以自动从URL中删除跟踪元素，使浏览更加私密和安�
 
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
 
-
-
 ---
 
 **更多**: <a href="/wiki/affiliate/" style="color: #0c82ff;" target="_blank">好物资源推荐</a>  

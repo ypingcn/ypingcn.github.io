@@ -147,9 +147,9 @@ layout: default
                 <h5>「更多独立博客」</h5>
                 <a target="_blank" style="color: #0c82ff;" rel="noopener nofollow" href="https://www.foreverblog.cn/feeds.html" alt="十年之约专题展示">十年之约专题展示</a>
                 <br>
-                <a href="https://travellings.cn/go.html?utm_source=blog&utm_medium=sidebar&utm_campaign=blog.ypingcn.com"
+                <a href="https://www.travellings.cn/go.html?utm_source=blog&utm_medium=sidebar&utm_campaign=blog.ypingcn.com"
                     target="_blank" rel="noopener nofollow" title="开往-友链接力">
-                    <img src="https://travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120">
+                    <img src="https://www.travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120">
                 </a>
             </section>
             <!-- Short About -->
@@ -178,8 +178,8 @@ layout: default
             </section>
             <section>
                 <hr>
-                <h5>「你可能会喜欢」</h5>
-                <div>{% assign next_page_group = site.pages | sample: 6  %}{% for next_page in next_page_group %}{% assign now_folder_level = next_page.url | split:"/" | size %}{% assign now_all_folder = next_page.url | split:"/" %}
+                <h5>「你可能会关注的文章」</h5>
+                <div>{% assign next_page_group = site.pages | sample: 8  %}{% for next_page in next_page_group %}{% assign now_folder_level = next_page.url | split:"/" | size %}{% assign now_all_folder = next_page.url | split:"/" %}
                     {% if next_page.title and now_folder_level >= 3 %}{% if now_all_folder[1]  == "special" or now_all_folder[1]  == "notes" %}
                     <a style="color: #0c82ff;" href="{{next_page.url}}" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
                     {% endif %}{% endif %}{% endfor %}

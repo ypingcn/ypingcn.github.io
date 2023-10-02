@@ -3,10 +3,12 @@ layout: page
 title:  Firefox 火狐浏览器资源汇总（2023年）
 description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版（简体中文、英文）才能尽量避免广告，精心整理 Firefox 火狐浏览器/ Librewolf 浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf 浏览器畅游网络
 date: 2021-10-30 12:00 +0800
-update: 2023-01-28 11:50 +0800
+update: 2023-10-02 12:00 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Firefox火狐浏览器国际版（简体中文） </a>
+
+**快速下载**：【Firefox Setup 115.3.1esr】BT(bittorrent)迅雷下载地址 <a href="magnet:?xt=urn:btih:afc0936d7b424d2fa3f5c42e1bf9496366262a09&dn=Firefox%20Setup%20115.3.1esr.exe&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=https%3a%2f%2ftracker.tamersunion.org%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&ws=https%3a%2f%2farchive.mozilla.org%2fpub%2ffirefox%2freleases%2f115.3.1esr%2fwin64%2fzh-CN%2fFirefox%2520Setup%2520115.3.1esr.exe" rel="nofollow" style="color: #0c82ff;">点击下载</a>
 
 ---
 

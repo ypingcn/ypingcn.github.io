@@ -2,7 +2,7 @@
 layout: page
 title:  Librewolf 浏览器资源汇总（2023年）
 date: 2022-04-24 13:40 +0800
-update: 2023-09-24 14:00 +0800
+update: 2023-10-02 12:00 +0800
 ---
 
 **快速下载**：<a href="https://ypingcn.com/go/out?r=librewolf-windows-lastest" rel="nofollow" style="color: #0c82ff;">最新版Librewolf Windows安装程序下载</a>
@@ -41,12 +41,6 @@ Librewolf 浏览器 Windows 安装包下载地址：<a href="https://librewolf.n
 Librewolf 浏览器 MacOS 安装包下载地址：<a href="https://librewolf.net/installation/macos/" rel="nofollow" style="color: #0c82ff;">点击前往</a>
 
 其他 Linux 平台如 Arch、Debian、Gentoo、Fedora 等发行版可以访问 <a href="https://librewolf.net/" rel="nofollow" style="color: #0c82ff;">Librewolf 浏览器官网</a> 获取更为详细的指引。
-
-## 更多下载
-
-Librewolf 117.0.1 Windows 版本 
-
-<a href="magnet:?xt=urn:btih:aaa4a331aa33bea37fb434fb8027ae62e9278655&dn=librewolf-117.0.1-1-windows-x86_64-setup.exe&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce" rel="nofollow" style="color: #0c82ff;">BT(bittorrent) 迅雷下载地址</a>
 
 ---
 
