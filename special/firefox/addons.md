@@ -3,7 +3,7 @@ layout: page
 title:  Firefox 火狐浏览器插件推荐（2023年）
 description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，汇总分享插件下载资源，同时提供在不同网络条件下安装插件的方法，助你插件使用无忧。
 date: 2020-10-29 23:59 +0800
-update: 2023-10-19 19:30 +0800
+update: 2023-10-19 20:30 +0800
 ---
 
 插件，又称拓展、附加组件、Addons、擴充套件等，意在为浏览器实现更多更丰富的特性。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
@@ -13,23 +13,14 @@ update: 2023-10-19 19:30 +0800
 以下是本文推荐的插件，排名不分先后，仅以个人喜好排序。
 
 1. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件下载</a>
-
 2. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" style="color: #0c82ff;">uBlacklist 插件下载</a>
-
 3. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/" rel="nofollow" style="color: #0c82ff;">沉浸式翻译 插件下载</a>
-
 4. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey 插件下载</a>
-
 5. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件下载</a>
-
 6. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy 插件下载</a>
-
 7. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" style="color: #0c82ff;">clearUrls 插件下载</a>
-
 8. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" style="color: #0c82ff;">Firefox Multi-Account Containers 插件下载</a>
-
 9. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;">VivaldiFox 插件下载</a>
-
 10. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery 插件下载</a>
 
 ## 一、uBlock Origin
