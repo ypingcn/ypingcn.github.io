@@ -22,4 +22,6 @@ description: KPOP 歌曲歌词音译汇总
 
 <a target="_blank" href="/special/song/jannabi-for-lover-who-hesitate/" style="color: #0c82ff;">#《致犹豫的恋人们》- Jannabi</a>
 
+<a target="_blank" href="/special/song/jannabi-november-rain/" style="color: #0c82ff;">#《November Rain》- Jannabi</a>
+
 <a target="_blank" href="/special/song/jukjae-lullaby/" style="color: #0c82ff;">#《摇篮曲》- Jukjae(郑宰阮)</a>

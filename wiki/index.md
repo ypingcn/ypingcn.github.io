@@ -77,3 +77,5 @@ not_show_ad: true
 <a href="/special/song/janabi-a-thought-on-an-autumn-night/" style="color: #0c82ff;"># 秋夜思绪 @Jannabi </a>
 
 <a href="/special/song/jannabi-for-lover-who-hesitate/" style="color: #0c82ff;"># 致犹豫的恋人们 @Jannabi </a>
+
+<a href="/special/song/jannabi-november-rain/" style="color: #0c82ff;"># November Rain @Jannabi</a>
