@@ -12,12 +12,6 @@ Lyrics Korean/Hangul Romanization/Chinese
 
 韩语罗马音译+中文歌词。全文如下
 
-
-November Rain - 잔나비
-词：잔나비
-曲：잔나비
-编曲：잔나비
-
 sum|swir|su ga|eops eo
 숨|쉴|수가|없어
 无法呼吸
