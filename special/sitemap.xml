@@ -7,17 +7,11 @@
     <lastmod>{{ "now" | date_to_xmlschema }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
-</url>
-{% for page in site.pages %}
-{% assign now_folder = page.url | slice: 0,9 %}
-{% assign now_folder_level = page.url | split:"/" | size %}
-{% if now_folder ==  "/special/" and now_folder_level > 3 %}
+</url>{% for page in site.pages %}{% assign now_folder = page.url | slice: 0,9 %}{% assign now_folder_level = page.url | split:"/" | size %}{% if now_folder ==  "/special/" and now_folder_level > 3 %}
 <url>
-<loc>{{site.url}}{{page.url}}</loc>
+    <loc>{{site.url}}{{page.url}}</loc>
     <lastmod>{% if page.update %}{{ page.update | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
-</url>
-{% endif %}
-{% endfor %}
+</url>{% endif %}{% endfor %}
 </urlset>
