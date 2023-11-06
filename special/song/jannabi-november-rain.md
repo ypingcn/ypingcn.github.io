@@ -2,7 +2,7 @@
 layout: page
 title: 歌词音译 - November Rain@Jannabi
 date: 2023-11-05 17:30 +0800
-update: 2023-11-05 17:30 +0800
+update: 2023-11-06 11:20 +0800
 description:  November Rain@Jannabi - 韩语罗马音译+中文歌词
 ---
 
@@ -12,6 +12,7 @@ Lyrics Korean/Hangul Romanization/Chinese
 
 韩语罗马音译+中文歌词。全文如下
 
+```
 sum|swir|su ga|eops eo
 숨|쉴|수가|없어
 无法呼吸
@@ -144,3 +145,4 @@ cheor eopt neun|a i cheo reom|tta seu han
 gyeo ur i|o gil
 겨 울 이|오 길
 希望温暖的冬天到来
+```
