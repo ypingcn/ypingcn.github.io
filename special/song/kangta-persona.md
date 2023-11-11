@@ -2,7 +2,7 @@
 layout: page
 title: 歌词音译 - 面具 @安七炫
 date: 2023-11-05 17:45 +0800
-update: 2023-11-05 17:45 +0800
+update: 2023-11-11 16:30 +0800
 description: 面具 @安七炫 - 韩语罗马音译+中文版歌词
 ---
 
@@ -107,78 +107,114 @@ Lyrics Korean/Hangul Romanization/Chinese
 ## 韩文版歌词/Korean Version
 
 ```
-mog e|me eo|wa seo|nun mur i|heul leo seo
-목 에|메 어|와 서|눈 물 이|흘 러 서
-nun ap i|heu ryeo seo|geor eur|su|eops eo seo
-눈 앞 이|흐 려 서|걸 을|수|없 어 서
-jo geum ssig|nae ge|meor eo ji neun
-조 금 씩|내 게|멀 어 지 는
-neor|but jab a naer|him jo cha do
-널|붙 잡 아 낼|힘 조 차 도
-bu reur|su do|eops eot na bwa
-부 를|수 도|없 었 나 봐
-jjit gyeo jyeo|heut eo jin|i mi|sseog eo beo rin
-찢 겨 져|흩 어 진|이 미|썩 어 버 린
-mot sseu ge|dwae beo rin|nae|ga seum eu ro|neol
-못 쓰 게|돼 버 린|내|가 슴 으 로|널
-han beon do|ut ge|ha ji|mot han|geon
-한 번 도|웃 게|하 지|못 한|건
-nae|mi chyeo beo rin|jip chag i ran|geol
-내|미 쳐 버 린|집 착 이 란|걸
-nar|dor a bo ji|ma|dwi dor a bo ji|ma
-날|돌 아 보 지|마|뒤 돌 아 보 지|마
-geu dae ro|ttwi eo ga|nar|it go|sar a ga
-그 대 로|뛰 어 가|날|잊 고|살 아 가
-meol li|jo geum|deo|meol li|nae ge seo|deo|meol li|do mang ga
-멀 리|조 금|더|멀 리|내 게 서|더|멀 리|도 망 가
-i reoh ge|mot nan|nar|i reoh ge|mot doen|nal
-이 렇 게|못 난|날|이 렇 게|못 된|날
-eo ri seog eot deon|nar|jar|tteo na gan|geo ya
-어 리 석 었 던|날|잘|떠 나 간|거 야
-chu eog eun|ha ji|ma|gi eok do|ha ji|ma
-추 억 은|하 지|마|기 억 도|하 지|마
-cha ra ri|jug eur|man keum|oe rop deo ra do
-차 라 리|죽 을|만 큼|외 롭 더 라 도
-jar|ji nae ra neun|mar|mi an ha da neun|mar|haeng bok haess eot dan|mal
-잘|지 내 라 는|말|미 안 하 다 는|말|행 복 했 었 단|말
-nar|tteo na ryeo myeon|nar|cha ra ri|yeo gi seo|jug i go|ga
-날|떠 나 려 면|날|차 라 리|여 기 서|죽 이 고|가
-ni ga|eops in|ha ru ha ru|jug eo gar|nae|mo seub in|geol
-니 가|없 인|하 루 하 루|죽 어 갈|내|모 습 인|걸
-al janh a|neo do|al go|it janh a
-알 잖 아|너 도|알 고|있 잖 아
-i mi|dor a gar|su|eops eur|man keum
-이 미|돌 아 갈|수|없 을|만 큼
-neo reur|dalm a beo rin|na neun|eo tteoh ge|do dae che|eo tteoh ge|wae
-너 를|닮 아 버 린|나 는|어 떻 게|도 대 체|어 떻 게|왜
-nar|tteo na ryeo go|ha ni|wae
-날|떠 나 려 고|하 니|왜
-nar|dor a bo ji|ma|dwi dor a bo ji|ma
-날|돌 아 보 지|마|뒤 돌 아 보 지|마
-geu dae ro|ttwi eo ga|nar|it go|sar a ga
-그 대 로|뛰 어 가|날|잊 고|살 아 가
-meol li|jo geum|deo|meol li|nae ge seo|deo|meol li|do mang ga
-멀 리|조 금|더|멀 리|내 게 서|더|멀 리|도 망 가
-i reoh ge|mot nan|nar|i reoh ge|mot doen|nal
-이 렇 게|못 난|날|이 렇 게|못 된|날
-eo ri seog eot deon|nar|jar|tteo na gan|geo ya
-어 리 석 었 던|날|잘|떠 나 간|거 야
-chu eog eun|ha ji|ma|gi eok do|ha ji|ma
-추 억 은|하 지|마|기 억 도|하 지|마
-cha ra ri|jug eur|man keum|oe rop deo ra do
-차 라 리|죽 을|만 큼|외 롭 더 라 도
-nar|dor a bo ji|ma|dwi dor a bo ji|ma
-날|돌 아 보 지|마|뒤 돌 아 보 지|마
-geu dae ro|ttwi eo ga|nar|it go|sar a ga
-그 대 로|뛰 어 가|날|잊 고|살 아 가
-meol li|jo geum|deo|meol li|nae ge seo|deo|meol li|do mang ga
-멀 리|조 금|더|멀 리|내 게 서|더|멀 리|도 망 가
-i reoh ge|mot nan|nar|i reoh ge|mot doen|nal
-이 렇 게|못 난|날|이 렇 게|못 된|날
-eo ri seog eot deon|nar|jar|tteo na gan|geo ya
-어 리 석 었 던|날|잘|떠 나 간|거 야
-chu eog eun|ha ji|ma|gi eok do|ha ji|ma
-추 억 은|하 지|마|기 억 도|하 지|마
-cha ra ri|jug eur|man keum|oe rop deo ra do
-차 라 리|죽 을|만 큼|외 롭 더 라 도
+mog e me eo wa seo nun mur i heul leo seo
+목에 메어 와서 눈물이 흘러서
+
+nun ap i heu ryeo seo geor eur su eops eo seo
+눈앞이 흐려서 걸을 수 없어서
+
+jo geum ssig nae ge meor eo ji neun
+조금씩 내게 멀어지는
+
+neor but jab a naer him jo cha do
+널 붙잡아낼 힘조차도
+
+bu reur su do eops eot na bwa
+부를 수도 없었나봐
+
+jjit gyeo jyeo heut eo jin i mi sseog eo beo rin
+찢겨져 흩어진 이미 썩어버린
+
+mot sseu ge dwae beo rin nae ga seum eu ro neol
+못쓰게 돼버린 내 가슴으로 널
+
+han beon do ut ge ha ji mot han geon
+한번도 웃게 하지 못한 건
+
+nae mi chyeo beo rin jip chag i ran geol
+내 미쳐버린 집착이란 걸
+
+nar dor a bo ji ma dwi dor a bo ji ma
+날 돌아보지 마 뒤돌아보지 마
+
+geu dae ro ttwi eo ga nar it go sar a ga
+그대로 뛰어가 날 잊고 살아가
+
+meol li jo geum deo meol li nae ge seo deo meol li do mang ga
+멀리 조금 더 멀리 내게서 더 멀리 도망가
+
+i reoh ge mot nan nar i reoh ge mot doen nal
+이렇게 못난 날 이렇게 못된 날
+
+eo ri seog eot deon nar jar tteo na gan geo ya
+어리석었던 날 잘 떠나간 거야
+
+chu eog eun ha ji ma gi eok do ha ji ma
+추억은 하지 마 기억도 하지 마
+
+cha ra ri jug eur man keum oe rop deo ra do
+차라리 죽을 만큼 외롭더라도
+
+jar ji nae ra neun mar mi an ha da neun mar haeng bok haess eot dan mal
+잘 지내라는 말 미안하다는 말 행복했었단 말
+
+nar tteo na ryeo myeon nar cha ra ri yeo gi seo jug i go ga
+날 떠나려면 날 차라리 여기서 죽이고 가
+
+ni ga eops in ha ru ha ru jug eo gar nae mo seub in geol
+니가 없인 하루하루 죽어갈 내 모습인 걸
+
+al janh a neo do al go it janh a
+알잖아 너도 알고 있잖아
+
+i mi dor a gar su eops eur man keum
+이미 돌아갈 수 없을 만큼
+
+neo reur dalm a beo rin na neun eo tteoh ge do dae che eo tteoh ge wae
+너를 닮아버린 나는 어떻게 도대체 어떻게 왜
+
+nar tteo na ryeo go ha ni wae
+날 떠나려고 하니 왜
+
+nar dor a bo ji ma dwi dor a bo ji ma
+날 돌아보지 마 뒤돌아보지 마
+
+geu dae ro ttwi eo ga nar it go sar a ga
+그대로 뛰어가 날 잊고 살아가
+
+meol li jo geum deo meol li nae ge seo deo meol li do mang ga
+멀리 조금 더 멀리 내게서 더 멀리 도망가
+
+i reoh ge mot nan nar i reoh ge mot doen nal
+이렇게 못난 날 이렇게 못된 날
+
+eo ri seog eot deon nar jar tteo na gan geo ya
+어리석었던 날 잘 떠나간 거야
+
+chu eog eun ha ji ma gi eok do ha ji ma
+추억은 하지 마 기억도 하지 마
+
+cha ra ri jug eur man keum oe rop deo ra do
+차라리 죽을 만큼 외롭더라도
+
+nar dor a bo ji ma dwi dor a bo ji ma
+날 돌아보지 마 뒤돌아보지 마
+
+geu dae ro ttwi eo ga nar it go sar a ga
+그대로 뛰어가 날 잊고 살 아가
+
+meol li jo geum deo meol li nae ge seo deo meol li do mang ga
+멀리 조금 더 멀리 내게서 더 멀리 도망가
+
+i reoh ge mot nan nar i reoh ge mot doen nal
+이렇게 못난 날 이렇게 못된 날
+
+eo ri seog eot deon nar jar tteo na gan geo ya
+어리석었던 날 잘 떠나간 거야
+
+chu eog eun ha ji ma gi eok do ha ji ma
+추억은 하지 마 기억도 하지 마
+
+cha ra ri jug eur man keum oe rop deo ra do
+차라리 죽을 만큼 외롭더라도
 ```

@@ -2,7 +2,7 @@
 layout: page
 title: 歌词音译 - November Rain@Jannabi
 date: 2023-11-05 17:30 +0800
-update: 2023-11-06 11:20 +0800
+update: 2023-11-11 16:30 +0800
 description:  November Rain@Jannabi - 韩语罗马音译+中文歌词
 ---
 
@@ -13,136 +13,136 @@ Lyrics Korean/Hangul Romanization/Chinese
 韩语罗马音译+中文歌词。全文如下
 
 ```
-sum|swir|su ga|eops eo
-숨|쉴|수가|없어
+sum swir su ga eops eo
+숨 쉴 수가 없어
 无法呼吸
-um jig ir|su jo cha|eops eo
-움 직 일|수 조 차|없 어
+um jig ir su jo cha eops eo
+움직일 수 조 차 없 어
 也动弹不了
-bi ga|on da|geu|nal cheo reom
-비 가|온 다|그|날 처 럼
+bi ga on da geu nal cheo reom
+비가 온다 그 날처럼
 像那天一样下雨了
-na|ur|su do|eopt go
-나|울|수 도|없 고
+na ur su do eopt go
+나 울 수도 없고
 我不能哭
-us eo bor|su jo cha|eops eo
-웃 어 볼|수 조 차|없 어
+us eo bor su jo cha eops eo
+웃어볼 수조차 없어
 也不能笑
-bi ga|on da
-비 가|온 다
+bi ga on da
+비가 온다
 下雨了
-nun i|doe ji|mot han|chae
-눈 이|되 지|못 한|채
+nun i doe ji mot han chae
+눈이 되지 못한 채
 没能成为雪
-gi eog|sog e|no bem beo|re in
-기 억|속 에|노 벰 버|레 인
+gi eog sog e no bem beo re in
+기억 속에 노벰버 레인
 记忆中十一月的雨
-sal myeo si|du|nun ga e
-살 며 시|두|눈 가 에
+sal myeo si du nun ga e
+살며시 두 눈가에
 轻轻在眼角
-maet hin da|tto|maet hin da
-맺 힌 다|또|맺 힌 다
+maet hin da tto maet hin da
+맺힌다 또 맺힌다
 凝结 又凝结了
-deul lyeo o neun|bit so ri e
-들 려 오 는|빗 소 리 에
+deul lyeo o neun bit so ri e
+들려오는 빗소리에
 在传来的雨声中
-gam chwo dun|gi eok ma jeo
-감 춰 둔|기 억 마 저
+gam chwo dun gi eok ma jeo
+감춰둔 기억마저
 连收藏的记忆也
-jeot neun da|o|jeot neun da
-젖 는 다|오|젖 는 다
+jeot neun da o jeot neun da
+젖는다 오 젖는다
 淋湿了 淋湿了
-it hyeo|jir|su|eops eo
-잊 혀|질|수|없 어
+it hyeo jir su eops eo
+잊혀 질 수 없어
 难以忘怀
-gi eog eun|gye jeor eur|heul leo
-기 억 은|계 절 을|흘 러
+gi eog eun gye jeor eur heul leo
+기억은 계절을 흘러
 记忆流过季节
-bi ga|doen da
-비 가|된 다
+bi ga doen da
+비 가 된 다
 成为雨
-nun i|doe ji|mot han|chae
-눈 이|되 지|못 한|채
+nun i doe ji mot han chae
+눈이 되지 못한 채
 没能成为雪
-gi eog|sog e|no bem beo|re in
-기 억|속 에|노 벰 버|레 인
+gi eog sog e no bem beo re in
+기 억 속에 노벰버 레인
 记忆中十一月的雨
-sal myeo si|du|nun ga e
-살 며 시|두|눈 가 에
+sal myeo si du nun ga e
+살며시 두 눈가에
 轻轻在眼角
-maet hin da|tto|maet hin da
-맺 힌 다|또|맺 힌 다
+maet hin da tto maet hin da
+맺힌다 또 맺힌다
 凝结 又凝结了
-deul lyeo o neun|bit so ri e
-들 려 오 는|빗 소 리 에
+deul lyeo o neun bit so ri e
+들려오는 빗소리에
 在传来的雨声中
-gam chwo dun|gi eok ma jeo
-감 춰 둔|기 억 마 저
+gam chwo dun gi eok ma jeo
+감춰둔 기억마저
 连收藏的记忆也
-jeot neun da|o|jeot neun da
-젖 는 다|오|젖 는 다
+jeot neun da o jeot neun da
+젖는다 오 젖는다
 淋湿了 淋湿了
-gi eog|sog e|no bem beo|re in
-기 억|속 에|노 벰 버|레 인
+gi eog sog e no bem beo re in
+기억 속에 노벰버 레인
 记忆中十一月的雨
-tto|da si|du|nun ga e
-또|다 시|두|눈 가 에
+tto da si du nun ga e
+또 다시 두 눈가에
 再一次在眼角
-maet hir|ttaen|tto|maet hir|ttaen
-맺 힐|땐|또|맺 힐|땐
+maet hir ttaen tto maet hir ttaen
+맺힐 땐 또 맺힐 땐
 凝结时 又凝结时
-deul lyeo o neun|bit so ri do
-들 려 오 는|빗 소 리 도
+deul lyeo o neun bit so ri do
+들려오는 빗소리도
 希望传来的雨声
-tta seu han|chu eog eu ro
-따 스 한|추 억 으 로
+tta seu han chu eog eu ro
+따스한 추억으로
 也成为温暖的回忆
-heu reu gir|tto|heu reu gil
-흐 르 길|또|흐 르 길
+heu reu gir tto heu reu gil
+흐르길 또 흐르길
 流淌 又流淌
-geo ri geo ri|su noh at deon
-거 리 거 리|수 놓 았 던
+geo ri geo ri su noh at deon
+거리거리 수놓았던
 落满每条街的
-nag yeob i|hoe saek bic e
-낙 엽 이|회 색 빛 에
+nag yeob i hoe saek bic e
+낙엽이 회색빛에
 落叶被灰色
-mul deul myeon|tto|mul deul myeon
-물 들 면|또|물 들 면
+mul deul myeon tto mul deul myeon
+물들면 또 물들면
 浸染 又浸染
-ha yeom eops i|heu reu neun|bi
-하 염 없 이|흐 르 는|비
+ha yeom eops i heu reu neun bi
+하염없이 흐르는 비
 一直下的雨
-geu dae ro|nun i|doe eo
-그 대 로|눈 이|되 어
+geu dae ro nun i doe eo
+그대로 눈이 되어
 就这样成为雪
-nae ryeo ra|o|nae ryeo ra
-내 려 라|오|내 려 라
+nae ryeo ra o nae ryeo ra
+내려라 오 내려라
 下吧 下吧
-bi ga|on da
-비 가|온 다
+bi ga on da
+비가 온다
 下雨了
-nun i|doe ji|mot han|chae
-눈 이|되 지|못 한|채
+nun i doe ji mot han chae
+눈이 되지 못한 채
 没能成为雪
-gyeo ur|go yo han|a chim
-겨 울|고 요 한|아 침
+gyeo ur go yo han a chim
+겨울 고요한 아침
 冬天安静的清晨
-keo teun|geu|sae ro
-커 튼|그|새 로
+keo teun geu sae ro
+커튼 그 새로
 在窗帘间
-heut nal li neun|seol le im
-흩 날 리 는|설 레 임
+heut nal li neun seol le im
+흩날리는 설레임
 飘飞的悸动
-gyeo ur i|o gil
-겨 울 이|오 길
+gyeo ur i o gil
+겨울이 오길
 希望冬天到来
-da si|huin|nun eur|gi da ri neun
-다 시|흰|눈 을|기 다 리 는
+da si huin nun eur gi da ri neun
+다시 흰 눈을 기다리는
 像再一次等待白雪的
-cheor eopt neun|a i cheo reom|tta seu han
-철 없 는|아 이 처 럼|따 스 한
+cheor eopt neun a i cheo reom tta seu han
+철없는 아이처럼 따스한
 不懂事的孩子般
-gyeo ur i|o gil
-겨 울 이|오 길
+gyeo ur i o gil
+겨울이 오길
 希望温暖的冬天到来
 ```
