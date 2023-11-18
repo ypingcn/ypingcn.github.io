@@ -1,13 +1,12 @@
 ---
 layout: page
 title: 如何在 Firefox 火狐浏览器上设置并启用基于 HTTPS 的安全 DNS（DoH）
+description: 阅读本站精选制作的详细教程，学习如何在Firefox火狐浏览器上设置并启用基于HTTPS的安全 DNS（DoH）。保护你的网络浏览安全，并增强数据保密性。
 date: 2022-10-16 10:20 +0800
-update: 2023-10-02 12:00 +0800
+update: 2023-11-18 18:00 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Firefox火狐浏览器国际版（简体中文） </a>
-
-**快速下载**：【Firefox Setup 115.3.1esr】BT(bittorrent)迅雷下载地址 <a href="magnet:?xt=urn:btih:afc0936d7b424d2fa3f5c42e1bf9496366262a09&dn=Firefox%20Setup%20115.3.1esr.exe&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=https%3a%2f%2ftracker.tamersunion.org%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&ws=https%3a%2f%2farchive.mozilla.org%2fpub%2ffirefox%2freleases%2f115.3.1esr%2fwin64%2fzh-CN%2fFirefox%2520Setup%2520115.3.1esr.exe" rel="nofollow" style="color: #0c82ff;">点击下载</a>
 
 ---
 

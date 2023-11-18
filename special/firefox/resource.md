@@ -1,14 +1,12 @@
 ---
 layout: page
 title:  Firefox 火狐浏览器资源汇总（2023年）
-description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版（简体中文、英文）才能尽量避免广告，精心整理 Firefox 火狐浏览器/ Librewolf 浏览器下载资源，汇总优质官网内容，不含任何广告特供版，放心安心使用 Firefox 火狐浏览器、Librewolf 浏览器畅游网络
+description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版（简体中文、英文）才能尽量避免广告，精心整理 Firefox 火狐浏览器/ Librewolf 浏览器下载资源，汇总优质官网内容.提供最新最全面的火狐资讯，包括软件更新下载、插件、主题、浏览器教程等。拥有最即时的火狐资讯和技术支持，帮助您掌握火狐的一切信息。立即下载最新的火狐浏览器国际版，享受最佳的网页浏览体验！
 date: 2021-10-30 12:00 +0800
-update: 2023-10-02 12:00 +0800
+update: 2023-11-18 12:00 +0800
 ---
 
-**快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Firefox火狐浏览器国际版（简体中文） </a>
-
-**快速下载**：【Firefox Setup 115.3.1esr】BT(bittorrent)迅雷下载地址 <a href="magnet:?xt=urn:btih:afc0936d7b424d2fa3f5c42e1bf9496366262a09&dn=Firefox%20Setup%20115.3.1esr.exe&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=https%3a%2f%2ftracker.tamersunion.org%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&ws=https%3a%2f%2farchive.mozilla.org%2fpub%2ffirefox%2freleases%2f115.3.1esr%2fwin64%2fzh-CN%2fFirefox%2520Setup%2520115.3.1esr.exe" rel="nofollow" style="color: #0c82ff;">点击下载</a>
+**快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Windows Firefox火狐浏览器国际版（简体中文） </a>
 
 ---
 
@@ -22,7 +20,7 @@ update: 2023-10-02 12:00 +0800
 
 ## 一. 国际版与谋智版的区分
 
-首先先明确一下关于国际版火狐官网的问题
+首先先明确一下【国际版 Firefox 火狐浏览器】官网的问题
 
 问题：哪个是国际版火狐浏览器的官方网站：firefox.com.cn 还是 mozilla.org？
 答案：mozilla.org！
@@ -43,13 +41,11 @@ update: 2023-10-02 12:00 +0800
 
 电脑版本可以在官网直接下载获取。
 
-安卓可以使用 FFUpdate 软件自动下载更新，或者自行前往官网下载（需要判断好下载页面），或者在 fdroid 里安装 Fennec 浏览器。
-
 > Firefox 火狐浏览器更新节奏为```Nightly``` --> ```Beta``` --> ```Release``` --> ```ESR```，不确认自己适合哪个版本的可以在 <a href="/special/firefox/version/" style="color: #0c82ff;" target="_blank"> 《Firefox 火狐浏览器各版本区别》</a> 文章中了解更多差异和改动。个人使用还是推荐 ``` ESR ``` 或者 ``` Release ``` 这两个更为稳定的版本。
 
 ### 1. PC 电脑 Windows 最新正式版
 
-> 2022年3月起，每次 Firefox 火狐浏览器下载都将配唯一标识符（dltoken）进行下载分析统计，这在某种程度上会侵犯用户隐私。在下载 PC 电脑正式版的时候更推荐到  <a href="https://ftp.mozilla.org/pub/firefox/releases/" rel="nofollow" style="color: #0c82ff;"> SFTP  </a>  上下载
+> 2022年3月起，每次 Firefox 火狐浏览器下载都将配唯一标识符（dltoken）进行下载分析统计，这种分析行为在某种程度上会侵犯用户隐私。在下载 PC 电脑正式版的时候更推荐到  <a href="https://ftp.mozilla.org/pub/firefox/releases/" rel="nofollow" style="color: #0c82ff;"> SFTP  </a>  上下载
 
 有简体中文页面。页面上有 Firefox 火狐浏览器功能特性的相关介绍和下载界面。要注意的是，该页面下载的安装包后续使用的时候是需要联网下载的。
 
