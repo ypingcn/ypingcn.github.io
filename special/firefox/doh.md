@@ -3,7 +3,7 @@ layout: page
 title: 如何在 Firefox 火狐浏览器上设置并启用基于 HTTPS 的安全 DNS（DoH）
 description: 阅读本站精选制作的详细教程，学习如何在Firefox火狐浏览器上设置并启用基于HTTPS的安全 DNS（DoH）。保护你的网络浏览安全，并增强数据保密性。
 date: 2022-10-16 10:20 +0800
-update: 2023-11-18 18:00 +0800
+update: 2023-11-30 22:35 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Firefox火狐浏览器国际版（简体中文） </a>
@@ -60,7 +60,9 @@ update: 2023-11-18 18:00 +0800
 
 OneDNS 是北京微步在线科技有限公司提供的具备安全防护能力的 DNS 递归解析服务，能有效防护恶意软件、勒索病毒等威胁，并且屏蔽各类广告骚扰和欺诈类网站，净化网络环境，保护数据安全。
 
-地址：【拦截版】 ```doh.onedns.net/dns-query``` 【纯净版】 ```doh-pure.onedns.net/dns-query```
+地址：【拦截版】 ```https://doh.onedns.net/dns-query``` 
+
+【纯净版】 ```https://doh-pure.onedns.net/dns-query```
 
 #### 2.4 Cloudflare
 
