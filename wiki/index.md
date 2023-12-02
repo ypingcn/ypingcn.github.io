@@ -50,6 +50,8 @@ not_show_ad: true
 
 <a href="/special/firefox/librewolf/" style="color: #0c82ff;"># @Librewolf 浏览器 ~</a>
 
+<a href="/special/firefox/waterfox/" style="color: #0c82ff;"># @Waterfox 浏览器 ~</a>
+
 <a href="/special/firefox/resource/" style="color: #0c82ff;"># @Firefox 火狐浏览器资源汇总 </a>
 
 <a href="/special/firefox/theme/" style="color: #0c82ff;"># @Firefox 火狐浏览器主题美化 ~</a>

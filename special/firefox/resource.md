@@ -135,6 +135,13 @@ update: 2023-11-18 12:00 +0800
                     <span>《Firefox 火狐浏览器主题美化》</span>
                 </a>
             </li>
+            <li class="now">
+                <a href="/special/firefox/waterfox/" target="_blank" data-toggle="tooltip" data-placement="top"
+                    title="《Waterfox 水狐浏览器资源》">
+                    下一篇<br>
+                    <span>《Waterfox 水狐浏览器资源》</span>
+                </a>
+            </li>
             <li class="next">
                 <a href="/special/firefox/addons/" target="_blank" data-toggle="tooltip" data-placement="top"
                     title="《Firefox 火狐浏览器插件推荐》">

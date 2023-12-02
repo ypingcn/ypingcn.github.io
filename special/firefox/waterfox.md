@@ -24,7 +24,7 @@ Waterfox 浏览器的主要特点有:
 
 Waterfox 也是第一个在网络上广泛传播使用的 64 位浏览器之一，以其先进性、兼容性、性能与隐私著称，并很快获得了忠实的追随者。
 
-现如今 Waterfox 浏览器分为两种，Waterfox Current（新版）和 Waterfox Classic（旧版本，有安全隐患不推荐使用）
+现如今 WaterFox 水狐浏览器分为两类，Waterfox Current（新版）和 Waterfox Classic（旧版本，有安全隐患不推荐使用）
 
 ## 安装
 
@@ -32,4 +32,4 @@ Waterfox 也是第一个在网络上广泛传播使用的 64 位浏览器之一�
 
 【推荐使用】Waterfox 浏览器 Windows/MacOS/Linux 官方下载地址：<a href="https://www.waterfox.net/download/" rel="nofollow" style="color: #0c82ff;">点击前往</a>
 
-【不再维护，不推荐使用)】Waterfox 浏览器 Classic版本 Windows/MacOS/Linux 官方下载地址：<a href="https://classic.waterfox.net/" rel="nofollow" style="color: #0c82ff;">点击前往</a>
+【不再维护，不推荐使用)】Waterfox 浏览器 Classic 版本 Windows/MacOS/Linux 官方下载地址：<a href="https://classic.waterfox.net/" rel="nofollow" style="color: #0c82ff;">点击前往</a>
