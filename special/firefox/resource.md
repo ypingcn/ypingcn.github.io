@@ -129,13 +129,6 @@ update: 2023-12-31 13:00 +0800
     post-container">
         <ul class="pager">
             <li class="previous">
-                <a href="/special/firefox/theme/" target="_blank" data-toggle="tooltip" data-placement="top"
-                    title="《Firefox 火狐浏览器主题美化》">
-                    下一篇<br>
-                    <span>《Firefox 火狐浏览器主题美化》</span>
-                </a>
-            </li>
-            <li class="now">
                 <a href="/special/firefox/waterfox/" target="_blank" data-toggle="tooltip" data-placement="top"
                     title="《Waterfox 水狐浏览器资源》">
                     下一篇<br>
