@@ -3,25 +3,26 @@ layout: page
 title:  Firefox 火狐浏览器插件推荐（2024年）
 description: 电脑浏览器不只是拿来上网浏览网页的，合理使用浏览器插件，能大幅提高使用效率。以 Firefox 火狐浏览器为例，汇总分享插件下载资源，同时提供在不同网络条件下安装插件的方法，助你插件使用无忧。欢迎分享本文，发现 Firefox 火狐浏览器的最佳插件，这些插件可以帮助你提升在线效率，提高浏览体验，并保护你的在线隐私。
 date: 2020-10-29 23:59 +0800
-update: 2023-12-31 13:00 +0800
+update: 2024-04-21 16:00 +0800
 ---
+
+以下是本文推荐的插件，排名不分先后，仅以文章介绍排序。
+
+NO.|简介|下载地址|
+1|【推荐】广告过滤|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin</a>|
+2|不良网站屏蔽|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" style="color: #0c82ff;">uBlacklist</a>|
+3|翻译插件|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/" rel="nofollow" style="color: #0c82ff;">沉浸式翻译</a>|
+4|脚本安装|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey</a>|
+5|广告过滤|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" style="color: #0c82ff;">AdNauseam</a>|
+6|鼠标手势|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy</a>|
+7|地址格式规范|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" style="color: #0c82ff;">clearUrls</a>|
+8|多开利器|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" style="color: #0c82ff;">Firefox Multi-Account Containers</a>|
+9|颜色制定|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;">VivaldiFox</a>|
+10|侧边栏|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery</a>|
 
 插件，又称拓展、附加组件、Addons、擴充套件等，意在为浏览器实现更多更丰富的特性。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
 
 而 <a href="https://addons.mozilla.org/zh-CN/firefox/" rel="nofollow" style="color: #0c82ff;">「Firefox 火狐浏览器插件官网 AMO 」</a> 中有海量实用的官方/第三方扩展插件，这些运行在浏览器上的小插件能为浏览器增添功能，让上网变得更快、更安全，效率更高。无论你是在操作效率、隐私安全上有要求，或者是希望提高购物、看视频、界面阅读等方面的体验，在 AMO 中都能找到对应的拓展完成你的目标～
-
-以下是本文推荐的插件，排名不分先后，仅以个人喜好排序。
-
-1. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件下载</a>
-2. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" style="color: #0c82ff;">uBlacklist 插件下载</a>
-3. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/" rel="nofollow" style="color: #0c82ff;">沉浸式翻译 插件下载</a>
-4. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey 插件下载</a>
-5. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件下载</a>
-6. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy 插件下载</a>
-7. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" style="color: #0c82ff;">clearUrls 插件下载</a>
-8. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" style="color: #0c82ff;">Firefox Multi-Account Containers 插件下载</a>
-9. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;">VivaldiFox 插件下载</a>
-10. <a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery 插件下载</a>
 
 ## 一、uBlock Origin
 

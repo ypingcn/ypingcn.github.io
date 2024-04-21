@@ -2,7 +2,8 @@
 layout: page
 title:  Firefox 火狐浏览器专题资源汇总
 date: 2022-03-30 20:43 +0800
-update: 2023-12-02 21:50 +0800
+update: 2024-04-21 16:00 +0800
+description: 火狐浏览器是一款免费的开源互联网浏览器，拥有丰富的扩展功能。与其他浏览器相比，它更注重隐私保护和用户体验。
 ---
 
 火狐浏览器是一款免费的开源互联网浏览器，拥有丰富的扩展功能。与其他浏览器相比，它更注重隐私保护和用户体验。
@@ -19,7 +20,7 @@ update: 2023-12-02 21:50 +0800
 
 下面是汇总整理 Firefox 火狐浏览器相关资源——
 
-Floorp/Librewolf/Waterfox 浏览器都是基于 Firefox 火狐浏览器二次开发定制的版本，各具特色。
+ - Floorp/ Librewolf / Waterfox 浏览器都是基于 Firefox 火狐浏览器二次开发定制的版本，各具特色。
 
 <a target="_blank" href="/special/firefox/addons/" style="color: #0c82ff;"># @Firefox 火狐浏览器插件推荐 </a>
 

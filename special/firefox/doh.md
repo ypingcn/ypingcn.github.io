@@ -1,12 +1,27 @@
 ---
 layout: page
 title: 如何在 Firefox 火狐浏览器上设置并启用基于 HTTPS 的安全 DNS（DoH）
-description: 阅读本站精选制作的详细教程，学习如何在Firefox火狐浏览器上设置并启用基于HTTPS的安全 DNS（DoH）。保护你的网络浏览安全，并增强数据保密性。
+description: 阅读本站精选制作的详细教程，学习如何在 Firefox 火狐浏览器上设置并启用基于HTTPS的安全 DNS（DoH）。保护你的网络浏览安全，并增强数据保密性。
 date: 2022-10-16 10:20 +0800
-update: 2023-11-30 22:35 +0800
+update: 2024-04-21 16:00 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Firefox火狐浏览器国际版（简体中文） </a>
+
+**快速设置列表**:
+
+|介绍|地址|
+|阿里云|```https://dns.alidns.com/dns-query```|
+|腾讯云 DNSPod|```https://dns.pub/dns-query```|
+|OneDNS 拦截版|```https://doh.onedns.net/dns-query```|
+|OneDNS 纯净版|```https://doh-pure.onedns.net/dns-query```|
+|Cloudflare 默认|```https://cloudflare-dns.com/dns-query```|
+|Cloudflare 火狐浏览器版|```https://mozilla.cloudflare-dns.com/dns-query```|
+|Cloudflare 屏蔽病毒程序|```https://security.cloudflare-dns.com/dns-query```|
+|Cloudflare 屏蔽病毒程序和成人内容|```https://family.cloudflare-dns.com/dns-query```|
+|AdguardDNS 默认|```https://dns.adguard.com/dns-query```|
+|AdguardDNS 家庭保护|```https://dns-family.adguard.com/dns-query```|
+|AdguardDNS 无过滤|```https://unfiltered.adguard-dns.com/dns-query```|
 
 ---
 
