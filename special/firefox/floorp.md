@@ -3,7 +3,7 @@ layout: page
 title:  Floorp 浏览器资源汇总（2024年）
 description: 汇总提供 Floorp 浏览器下载等资源信息。专注于提供最高效，安全和使用简便的浏览器解决方案，满足您在线活动的所有需求。
 date: 2022-10-16 00:20 +0800
-update: 2023-12-31 13:00 +0800
+update: 2024-06-29 23:00 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=floorp-windows-lastest" rel="nofollow" style="color: #0c82ff;"> 最新 Floorp 浏览器 Windows 版本</a>
@@ -48,4 +48,4 @@ Floorp 浏览器是国外学生社区基于 Firefox 火狐浏览器开发的隐�
 
 支持 Windows、MacOS、Linux 等多个常用平台。Linux 平台使用 flatpak 技术安装，官网仅在 Ubuntu 和 Fedora 平台测试可用。经测试 Linuxmint 亦可流畅使用 Floorp 浏览器。
 
-访问官网获取更多信息 —— <a href="https://floorp.ablaze.one/en/" rel="nofollow" style="color: #0c82ff;">跳转官网</a>
+访问官网获取更多信息 —— <a href="https://floorp.app/en" rel="nofollow" style="color: #0c82ff;">跳转官网</a>
