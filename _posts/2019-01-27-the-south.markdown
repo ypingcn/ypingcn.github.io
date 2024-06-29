@@ -6,7 +6,7 @@ description: "A article for southern town. I am not a native english-speaker but
 date:   2019-01-27 +0800
 update: 2021-10-30 12:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

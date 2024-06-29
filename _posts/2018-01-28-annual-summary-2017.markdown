@@ -6,7 +6,7 @@ description: "2017 年终总结。说是总结，其实是对自己这年的要�
 date:   2018-01-28 +0800
 update: 2018-01-28 12:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

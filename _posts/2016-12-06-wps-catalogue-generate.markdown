@@ -6,7 +6,7 @@ description: "无需复杂操作，只要几次鼠标点击，即可简单快捷
 date:   2016-12-06 +0800
 update: 2021-11-01 22:39 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

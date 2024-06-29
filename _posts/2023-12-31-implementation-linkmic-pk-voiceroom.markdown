@@ -6,7 +6,7 @@ description: "连麦、PK和语音房的实现设计思路记录"
 date:   2023-12-31 +0800
 update: 2023-12-31 16:30 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

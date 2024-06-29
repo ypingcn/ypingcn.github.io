@@ -6,7 +6,7 @@ description: "如果你只是想简单的在 Github 上搭建一个简易的博�
 date:   2016-04-04 +0800
 update: 2022-06-27 10:11 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

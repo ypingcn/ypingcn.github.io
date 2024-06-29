@@ -6,7 +6,7 @@ description: "ssh 连接服务器、远程使用命令、上传文件、下载�
 date:   2016-09-30 +0800
 update: 2021-11-02 23:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

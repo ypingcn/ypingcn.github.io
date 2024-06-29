@@ -6,7 +6,7 @@ description: "简化开发逻辑的用户属性服务设计，支持快速迭代
 date:   2022-10-14 +0800
 update: 2022-11-03 20:30 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

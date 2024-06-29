@@ -6,7 +6,7 @@ description: "Firefox Quantum 在 2017 年 11 月 14 日发布，最大的变化
 date:   2017-11-21 +0800
 update: 2022-10-16 00:20 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

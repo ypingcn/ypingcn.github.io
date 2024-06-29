@@ -6,7 +6,7 @@ description: "不用安装 Office，网页也可以完成演示功能，nodePPT"
 date:   2016-11-30 +0800
 update: 2021-11-02 23:02 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

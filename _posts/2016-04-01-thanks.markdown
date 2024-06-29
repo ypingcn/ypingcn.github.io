@@ -6,7 +6,7 @@ description: "huangxuan.me 博客模板渲染效果"
 date:       2016-04-01 12:00:00
 update:     2022-08-01 10:00:00
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 ---

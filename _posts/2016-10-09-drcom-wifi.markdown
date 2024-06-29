@@ -6,7 +6,7 @@ description: "在 Openwrt 进行相关配置，以便在 Dr.com 认证的校园�
 date:   2016-10-09 +0800
 update: 2021-11-02 22:39 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

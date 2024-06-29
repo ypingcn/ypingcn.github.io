@@ -6,7 +6,7 @@ description: "信息爆炸时代，有价值的信息淹没在浩如烟海的噪
 date:   2021-11-21 +0800
 update: 2022-08-01 10:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

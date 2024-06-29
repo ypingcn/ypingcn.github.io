@@ -4,7 +4,7 @@ title:  Markdown 基础语法
 description: Markdown 十二个基本语法（标题、引用、斜体、粗体、有序列表和无序列表、链接、图片、删除线、分割线、脚注、代码）
 date: 2016-11-10 12:00 +0800
 update: 2023-06-04 16:00 +0800
-linkeddata: {"@context":"https://schema.org","@type":"NewsArticle","headline":"Markdown 十二个基本语法（标题、引用、斜体、粗体、有序列表和无序列表、链接、图片、删除线、分割线、脚注、代码）","image":["https://blog.ypingcn.com/img/home-bg.webp"],"datePublished":"2016-11-10T08:00:00+08:00","dateModified":"2021-11-06 00:20 +0800","author":[{"@type":"Person","name":"ypingcn","url":"https://blog.ypingcn.com/wiki/about/"}]}
+linkeddata: {"@context":"https://schema.org","@type":"NewsArticle","headline":"Markdown 十二个基本语法（标题、引用、斜体、粗体、有序列表和无序列表、链接、图片、删除线、分割线、脚注、代码）","image":["https://blog.ypingcn.com/img/home-home-bg-Sm5ceH.webp"],"datePublished":"2016-11-10T08:00:00+08:00","dateModified":"2021-11-06 00:20 +0800","author":[{"@type":"Person","name":"ypingcn","url":"https://blog.ypingcn.com/wiki/about/"}]}
 ---
 
 Markdown 语法可以满足文档的基本需要，是强有力的写作工具。常见的用法如下 

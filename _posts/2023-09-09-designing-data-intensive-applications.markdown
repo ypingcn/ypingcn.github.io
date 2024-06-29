@@ -6,7 +6,7 @@ description: "Claude AI 关于《数据密集型应用系统设计》一书生�
 date:   2023-09-09 +0800
 update: 2023-09-09 22:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

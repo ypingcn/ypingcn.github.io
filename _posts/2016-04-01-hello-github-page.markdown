@@ -6,7 +6,7 @@ description: "This blog is powered by Github Page & Jekyll. And I am really lovi
 date:   2016-04-01 +0800
 update: 2016-04-01 12:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 ---

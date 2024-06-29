@@ -6,7 +6,7 @@ description: "2022 年终总结"
 date:   2023-01-01 +0800
 update: 2023-01-01 21:30 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

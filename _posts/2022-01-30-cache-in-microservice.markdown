@@ -6,7 +6,7 @@ description: "微服务相较于整体式架构而言具有易拓展的特点，
 date:   2022-01-30 +0800
 update: 2022-08-09 11:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

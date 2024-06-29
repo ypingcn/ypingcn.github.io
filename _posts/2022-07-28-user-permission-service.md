@@ -6,7 +6,7 @@ description: "简化黑名单、白名单逻辑的用户权限服务的设计"
 date:   2022-07-28 +0800
 update: 2022-10-08 18:30 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

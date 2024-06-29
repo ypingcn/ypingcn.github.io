@@ -6,7 +6,7 @@ description: "最后也找到实习了，面过算是不少的公司，多少有
 date:   2018-03-18 +0800
 update: 2018-03-20 12:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

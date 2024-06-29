@@ -6,7 +6,7 @@ description: ""
 date:   2022-06-02 +0800
 update: 2022-11-13 18:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

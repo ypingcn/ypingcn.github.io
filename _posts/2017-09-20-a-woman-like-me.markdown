@@ -6,7 +6,7 @@ description: "选修课作业，续写 西西的作品《像我这样的一个�
 date:   2017-09-20 +0800
 update: 2022-01-08 17:55 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    false
 tags:

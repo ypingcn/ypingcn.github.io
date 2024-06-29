@@ -3,7 +3,7 @@ layout: page
 title:  Firefox 火狐浏览器资源汇总（2024年）
 description: 中文用户下载 Firefox 火狐浏览器要选择下载国际版（简体中文、英文）才能尽量避免广告，精心整理 Firefox 火狐浏览器/ Librewolf 浏览器下载资源，汇总优质官网内容.提供最新最全面的火狐资讯，包括软件更新下载、插件、主题、浏览器教程等。拥有最即时的火狐资讯和技术支持，帮助您掌握火狐的一切信息。立即下载最新的火狐浏览器国际版，享受最佳的网页浏览体验！
 date: 2021-10-30 12:00 +0800
-update: 2024-04-21 16:00 +0800
+update: 2024-06-30 00:00 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Windows Firefox火狐浏览器国际版（简体中文） </a>
@@ -31,7 +31,7 @@ update: 2024-04-21 16:00 +0800
 
 【❌不推荐】谋智版的网站标题是 —— ```Firefox 火狐浏览器 - 全新、安全、快速 | 官方最新下载```
 
-**更多**: 更多区别请参考 <a href="/special/firefox/edition-faq/" style="color: #0c82ff;" target="_blank"> 《Firefox（国际版）浏览器与火狐中国版本的区别》 </a>
+**更多**: 更多区别请参考 <a href="/special/firefox/edition-faq/" style="color: #0c82ff;" target="_blank"> 《Firefox 火狐浏览器【国际版】与【谋智中国版】的区别》 </a>
 
 ------
 

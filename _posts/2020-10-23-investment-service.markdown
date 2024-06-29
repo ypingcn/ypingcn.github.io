@@ -6,7 +6,7 @@ description: "2019年三家基金销售平台（支付宝、理财通、且慢�
 date:   2020-10-23 +0800
 update: 2020-10-23 12:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:

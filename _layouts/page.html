@@ -10,8 +10,9 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
                 <div class="site-heading">
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-                    <h4>{% if page.update %}Lastest updated on {{ page.update | date: "%B %-d, %Y" }}{% endif %}</h4>
-                    <!--<hr class="small">-->
+                    <br>
+                    <h4>{% if page.date %}首次发布时间：{{ page.date | date: "%Y年%m月%d日" }}{% endif %}</h4>
+                    <h4>{% if page.update %}最后更新时间：{{ page.update | date: "%Y年%m月%d日" }}{% endif %}</h4>
                     <span class="subheading">{{ page.subtitle }}</span>
                 </div>
             </div>
@@ -149,7 +150,7 @@ layout: default
                 <br>
                 <a href="https://www.travellings.cn/go.html?utm_source=blog&utm_medium=sidebar&utm_campaign=blog.ypingcn.com"
                     target="_blank" rel="noopener nofollow" title="开往-友链接力">
-                    <img src="https://www.travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120">
+                    <img src="/img/travelling-logo.gif" alt="开往-友链接力" width="120">
                 </a>
             </section>
             <!-- Short About -->

@@ -6,7 +6,7 @@ description: "个人养老金"
 date:   2022-12-04 +0800
 update: 2023-06-04 16:00 +0800
 author:     "ypingcn"
-header-img: "img/bg.webp"
+header-img: "img/home-bg-Sm5ceH.webp"
 header-mask: 0.3
 catalog:    true
 tags:
