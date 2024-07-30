@@ -22,19 +22,12 @@
   <meta property="og:type" content="website"/>
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
   <meta property="og:site_name" content="{{ site.SEOTitle }}"/>
-  <!-- Web App Manifest -->
   <link rel="manifest" href="{{ site.url }}/pwa/manifest.json">
-  <!-- Favicon -->
   <link rel="shortcut icon" href="{{ site.url }}/img/favicon.ico">
-  <!-- Canonical URL -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <!-- Bootstrap Core CSS -->
   <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
-  <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ "/css/hux-blog.min.css" | prepend: site.baseurl }}">
-  <!-- Pygments Github CSS -->
   <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
-  <!-- Custom Fonts -->
   <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   <!-- <link href="//fastly.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
   {% if page.linkeddata %}
@@ -78,6 +71,7 @@
   }
   </script>
   {% endif %}
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="ffa24b18-022f-45ea-a760-de7c86c2fca2"></script>
   <script>
       !function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"Ji8sNEm09d4f8ZaO",ck:"Ji8sNEm09d4f8ZaO",autoTrack:true});
   </script>
