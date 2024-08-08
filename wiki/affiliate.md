@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  我的好物推荐
-update:  2023-10-02 12:30 +0800
+update:  2024-08-08 13:30 +0800
 description: 我的好物推荐
 not_show_copyright: true
 ---
@@ -27,10 +27,6 @@ ikbc C87 机械键盘（有线） <a href="https://ypingcn.com/go/out?r=ikbc-c87
 #### 2.2 七牛云
 
 对象存储新客好礼：永久免费 免费额度每月送，云存储用户可永久享用 <a href="https://ypingcn.com/go/out?r=qiniu" target="_blank" rel="noopener nofollow" style="color: #0c82ff;" title="七牛云对象存储">【领取】</a>
-
-#### 2.3 51LA
-
-51LA网站统计V6，国内领先的免费流量统计技术服务提供商<a href="https://ypingcn.com/go/out?r=51la" target="_blank" rel="noopener nofollow" style="color: #0c82ff;" title="51LA统计">【注册】</a>
 
 ------
 
