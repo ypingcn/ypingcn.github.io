@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  SQL 基础语法
-update: 2016-11-19 10:36 +0800 
+update: 2016-11-19 10:36 +0800
 ---
 
 SQL 的基础语法（select/insert/update/delete ...）

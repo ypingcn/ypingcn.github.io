@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  C++ 使用 redis
-update: 2017-09-17 15:43 +0800 
+update: 2017-09-17 15:43 +0800
 ---
 
 > 参考　[hiredis/README.md at master · redis/hiredis · GitHub](https://github.com/redis/hiredis/blob/master/README.md)
