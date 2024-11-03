@@ -95,10 +95,26 @@
                        href="https://ypingcn.com/article/">文章收藏</a>|<a 
                        href="/special/song/">KPOP</a>|<a 
                        href="/wiki/privacy/">隐私策略</a>
+                    <br>
+                    <span id="ip-geo-meta"></span>
             </div>
         </div>
     </div>
 </footer>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        fetch('https://api.ypingcn.com/worker/ip-geo')
+            .then(response => response.json())
+            .then(data => {
+                const welcomeDiv = document.getElementById('ip-geo-meta');
+                welcomeDiv.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
+            })
+            .catch(error => {
+                console.error('error fetching ip-geo info', error);
+            });
+    });
+</script>
 
 <!-- jQuery -->
 <!-- <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script> -->
