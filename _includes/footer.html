@@ -104,11 +104,12 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function () {
-        fetch('https://api.ypingcn.com/worker/ip-geo')
+        const url = 'https://api.ypingcn.com/worker/ip-geo/v1?appId=wFTAvmfaZ&from=' + btoa(window.location.href)
+        fetch(url)
             .then(response => response.json())
             .then(data => {
-                const welcomeDiv = document.getElementById('ip-geo-meta');
-                welcomeDiv.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
+                const metaSpan = document.getElementById('ip-geo-meta');
+                metaSpan.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
             })
             .catch(error => {
                 console.error('error fetching ip-geo info', error);
