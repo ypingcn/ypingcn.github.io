@@ -96,26 +96,11 @@
                        href="/special/song/">KPOP</a>|<a 
                        href="/wiki/privacy/">隐私策略</a>
                     <br>
-                    <span id="ip-geo-meta"></span>
+                    <span id="page-meta"></span>
             </div>
         </div>
     </div>
 </footer>
-
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const url = 'https://api.ypingcn.com/worker/ip-geo/v1?appId=wFTAvmfaZ&from=' + btoa(window.location.href)
-        fetch(url)
-            .then(response => response.json())
-            .then(data => {
-                const metaSpan = document.getElementById('ip-geo-meta');
-                metaSpan.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
-            })
-            .catch(error => {
-                console.error('error fetching ip-geo info', error);
-            });
-    });
-</script>
 
 <!-- jQuery -->
 <!-- <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script> -->
