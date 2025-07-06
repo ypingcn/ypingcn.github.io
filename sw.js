@@ -10,8 +10,8 @@ const PRECACHE = 'precache-v1';
 const RUNTIME = 'runtime';
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "cdnjs.cloudflare.com",
-  "fastly.jsdelivr.net"
+  // "cdnjs.cloudflare.com",
+  // "fastly.jsdelivr.net"
 ]
 
 
