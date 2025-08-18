@@ -3,7 +3,7 @@ layout: page
 title: Mercury 浏览器资源汇总（2025年）
 description: 号称比原版 Firefox 浏览器性能优化 8%-20% 的 Mercury 浏览器，新一代高效安全的浏览器选择
 date: 2025-08-17 15:00 +0800
-update: 2025-08-17 15:00 +0800
+update: 2025-08-18 09:00 +0800
 ---
 
 根据官网说明，Mercury 浏览器【<a href="https://thorium.rocks/mercury" rel="nofollow" style="color: #0c82ff;">官网</a>】是一款着重编译优化的 Firefox 火狐浏览器分支，并且集成了来自 LibreWolf、Waterfox 等多款优秀浏览器的隐私/安全性特性改动。
@@ -56,6 +56,11 @@ Mercury 浏览器在基准测试和不同操作系统上相比原生 Firefox 可
 
 访问【<a href="https://thorium.rocks/mercury" rel="nofollow" style="color: #0c82ff;">官网</a>】，找到【Releases (Linux & Windows) 】的下载入口，根据 Windows 、MacOS 或 Linux 等操作系统选择下载~
 
+## 提醒
+
+个人开发者因精力有限，所开发浏览器往往更新频率低，甚至存在断更风险，其功能迭代、bug修复及安全补丁无法及时跟进，可能影响使用稳定性与安全性，建议谨慎将 Mercury 浏览器作为主力浏览器使用。
+
+截止 2025 年 08 月 18 日，作者 Alex313031 最近一次更新 Mercury 浏览器时间已经是 2024 年 09 月 17 日，间隔时间接近一年。
 ---
 
 **更多阅读**
