@@ -605,7 +605,7 @@ pre code {
   }
 }
 .post-preview > a {
-  color: #404040;
+  color: #0c82ff;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
@@ -634,7 +634,7 @@ pre code {
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
-  color: #404040;
+  color: #0c82ff;
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
@@ -804,7 +804,7 @@ form .row:first-child .floating-label-form-group {
   }
 }
 .pager li > a {
-  color: #404040;
+  color: #0c82ff;
 }
 .pager li > a:hover,
 .pager li > a:focus {
