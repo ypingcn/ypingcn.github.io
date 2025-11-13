@@ -3,22 +3,22 @@ layout: page
 title:  何为 Firefox Trains？
 description: Firefox Trains 一个可以查询到 Firefox 火狐浏览器不同渠道的最新版本的页面。
 date: 2022-06-03 23:50 +0800
-update: 2024-06-11 15:30 +0800
+update: 2025-11-13 18:00 +0800
 ---
 
 什么是 Firefox Trains？Firefox Trains 一个可以查询到 Firefox 火狐浏览器不同渠道的最新版本的页面。
 
 <img src="/img/special/firefox/firefox-trains.png" style="width:auto;height:auto;max-width:100%;max-height:100%;" alt="Firefox Trains">
 
-如图所示，截止 2024 年 06 月 11 日，不同渠道最新版本如下（不同渠道的设计和区别详见<a href="/special/firefox/version/" style="color: #0c82ff;" target="_blank"> 《Firefox 火狐浏览器各版本区别》</a>）
+如图所示，截止 2025 年 11 月 13 日，不同渠道最新版本如下（不同渠道的设计和区别详见<a href="/special/firefox/version/" style="color: #0c82ff;" target="_blank"> 《Firefox 火狐浏览器各版本区别》</a>）
 
-ESR 长期支持版：```115```
+ESR 长期支持版：```140```
 
-Release 正式版：```126```
+Release 正式版：```145```
 
-Beta 测试版：```127```
+Beta 测试版：```146```
 
-Nightly 每夜开发版：```129```
+Nightly 每夜开发版：```147```
 
 ### 一、不同渠道的介绍
 
