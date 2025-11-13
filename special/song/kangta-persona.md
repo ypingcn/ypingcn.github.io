@@ -6,7 +6,7 @@ update: 2023-11-11 16:30 +0800
 description: 面具 @安七炫 - 韩语罗马音译+中文版歌词
 ---
 
-面具 가면 (Persona) @安七炫 <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
+面具 가면 (Persona) @安七炫 <a target="_blank" href="/special/song/" >[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 

@@ -6,7 +6,7 @@ date: 2023-12-02 21:30 +0800
 update: 2025-05-09 10:30 +0800
 ---
 
-**快速下载**：<a href="https://ypingcn.com/go/out?r=waterfox-windows-lastest" rel="nofollow" style="color: #0c82ff;">最新版 WaterFox 水狐浏览器 Windows 安装程序下载</a>
+**快速下载**：<a href="https://ypingcn.com/go/out?r=waterfox-windows-lastest" rel="nofollow" >最新版 WaterFox 水狐浏览器 Windows 安装程序下载</a>
 
 ---
 
@@ -30,6 +30,6 @@ Waterfox 也是第一个在网络上广泛传播使用的 64 位浏览器之一�
 
 官网请认准：```https://www.waterfox.net```
 
-【推荐使用】Waterfox 浏览器 Windows/MacOS/Linux 官方下载地址：<a href="https://www.waterfox.net/download/" rel="nofollow" style="color: #0c82ff;">点击前往</a>
+【推荐使用】Waterfox 浏览器 Windows/MacOS/Linux 官方下载地址：<a href="https://www.waterfox.net/download/" rel="nofollow" >点击前往</a>
 
-【不再维护，不推荐使用】Waterfox 浏览器 Classic 版本 Windows/MacOS/Linux 官方下载地址：<a href="https://classic.waterfox.net/" rel="nofollow" style="color: #0c82ff;">点击前往</a>
+【不再维护，不推荐使用】Waterfox 浏览器 Classic 版本 Windows/MacOS/Linux 官方下载地址：<a href="https://classic.waterfox.net/" rel="nofollow" >点击前往</a>

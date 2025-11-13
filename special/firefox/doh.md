@@ -6,7 +6,7 @@ date: 2022-10-16 10:20 +0800
 update: 2024-04-21 16:00 +0800
 ---
 
-**快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" style="color: #0c82ff;"> 最新Firefox火狐浏览器国际版（简体中文） </a>
+**快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" > 最新Firefox火狐浏览器国际版（简体中文） </a>
 
 **快速设置列表**:
 

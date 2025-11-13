@@ -6,7 +6,7 @@ update: 2024-07-17 00:00 +0800
 description: 좋은 사람 있으면 소개시켜줘 (有不错的人就介绍下吧/Introduce me a good person)《机智的医生生活》OST - 韩语罗马音译+中文歌词
 ---
 
-좋은 사람 있으면 소개시켜줘 (有不错的人就介绍下吧/Introduce me a good person)《机智的医生生活》OST <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
+좋은 사람 있으면 소개시켜줘 (有不错的人就介绍下吧/Introduce me a good person)《机智的医生生活》OST <a target="_blank" href="/special/song/" >[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 

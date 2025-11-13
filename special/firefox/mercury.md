@@ -6,7 +6,7 @@ date: 2025-08-17 15:00 +0800
 update: 2025-08-18 09:00 +0800
 ---
 
-根据官网说明，Mercury 浏览器【<a href="https://thorium.rocks/mercury" rel="nofollow" style="color: #0c82ff;">官网</a>】是一款着重编译优化的 Firefox 火狐浏览器分支，并且集成了来自 LibreWolf、Waterfox 等多款优秀浏览器的隐私/安全性特性改动。
+根据官网说明，Mercury 浏览器【<a href="https://thorium.rocks/mercury" rel="nofollow" >官网</a>】是一款着重编译优化的 Firefox 火狐浏览器分支，并且集成了来自 LibreWolf、Waterfox 等多款优秀浏览器的隐私/安全性特性改动。
 
 ## 亮点
 
@@ -54,7 +54,7 @@ Mercury 浏览器在基准测试和不同操作系统上相比原生 Firefox 可
 
 ## 下载方式
 
-访问【<a href="https://thorium.rocks/mercury" rel="nofollow" style="color: #0c82ff;">官网</a>】，找到【Releases (Linux & Windows) 】的下载入口，根据 Windows 、MacOS 或 Linux 等操作系统选择下载~
+访问【<a href="https://thorium.rocks/mercury" rel="nofollow" >官网</a>】，找到【Releases (Linux & Windows) 】的下载入口，根据 Windows 、MacOS 或 Linux 等操作系统选择下载~
 
 ## 提醒
 

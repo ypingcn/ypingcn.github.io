@@ -6,7 +6,7 @@ date: 2022-10-16 00:20 +0800
 update: 2024-12-26 09:00 +0800
 ---
 
-**快速下载**：下载 <a href="https://ypingcn.com/go/out?r=floorp-windows-lastest" rel="nofollow" style="color: #0c82ff;"> 最新 Floorp 浏览器 Windows 版本</a>
+**快速下载**：下载 <a href="https://ypingcn.com/go/out?r=floorp-windows-lastest" rel="nofollow" > 最新 Floorp 浏览器 Windows 版本</a>
 
 ---
 
@@ -16,7 +16,7 @@ Floorp 浏览器是国外学生社区基于 Firefox 火狐浏览器开发的隐�
 
 1. 默认启用“严格”增强型跟踪保护
 2. 支持开启抵制指纹和 IP 地址泄漏（指纹保护功能默认关闭、自动批准 HTML5 图像数据的访问确认提示默认开启、WebGL 和 WebRTC 功能也支持一键开启或关闭）
-3. 增加了 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin</a>、Privacy Badger、DuckDuckGo Privacy Essentials、Canvas Blocker 等多个插件的简介和安装跳转入口。默认不安装。
+3. 增加了 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" >uBlock Origin</a>、Privacy Badger、DuckDuckGo Privacy Essentials、Canvas Blocker 等多个插件的简介和安装跳转入口。默认不安装。
 
 <img src="/img/special/firefox/floorp.png" style="width:auto;height:auto;max-width:100%;max-height:100%;" alt="Floorp 浏览器" title="Floorp 浏览器" />
 
@@ -24,12 +24,12 @@ Floorp 浏览器是国外学生社区基于 Firefox 火狐浏览器开发的隐�
 
 特色功能和改动包括 ——
 
-1. 默认自带 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy</a> 手势操作插件和翻译插件。
+1. 默认自带 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" >Gesturefy</a> 手势操作插件和翻译插件。
 2. 支持多级标签、双击关闭标签等标签操作。
 3. 支持设置侧边工具栏，可自定义上下左右等位置。
 4. 支持一键切换 User Agent 到使用 Firefox User Agent (默认)、模拟 Chrome（Windows）、模拟 Chrome（macOS）、模拟 Chrome（Linux）、模拟 移动端 等多个选择
 
-官方特地<a href="https://blog.ablaze.one/1146/2022-01-19/" rel="nofollow" style="color: #0c82ff;">介绍</a>了相关的隐私改动
+官方特地<a href="https://blog.ablaze.one/1146/2022-01-19/" rel="nofollow" >介绍</a>了相关的隐私改动
 
 1. 与 WebRTC 相比，Floorp 尽可能地隐藏了您的本地 IP。 Floorp 将尽力保护其用户。
 2. 某些 API 因指纹对策而被阻止。
@@ -48,4 +48,4 @@ Floorp 浏览器是国外学生社区基于 Firefox 火狐浏览器开发的隐�
 
 支持 Windows、MacOS、Linux 等多个常用平台。Linux 平台使用 flatpak 技术安装，官网仅在 Ubuntu 和 Fedora 平台测试可用。经测试 Linuxmint 亦可流畅使用 Floorp 浏览器。
 
-访问官网获取更多信息 —— <a href="https://floorp.app/en" rel="nofollow" style="color: #0c82ff;">跳转官网</a>
+访问官网获取更多信息 —— <a href="https://floorp.app/en" rel="nofollow" >跳转官网</a>

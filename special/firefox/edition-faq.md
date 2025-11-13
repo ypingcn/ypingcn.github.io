@@ -59,7 +59,7 @@ Firefox 火狐浏览器现在有官方国际版和谋智（火狐中国版）两
 
 【❌不推荐】国内版仅能选择```Firefox```、```Firefox延长支持版``` 、``` Firefox Android``` 、```Firefox iOS版本```四大类，且无法选择其他语言。  
 
-不确认自己适合哪个版本的可以在 <a href="/special/firefox/version/" style="color: #0c82ff;" target="_blank"> 《Firefox 火狐浏览器各版本区别》</a> 文章中了解更多差异和改动。个人使用还是推荐 ``` Firefox延长支持版 ``` 或者 ``` Firefox ``` 这两个更为稳定的版本。
+不确认自己适合哪个版本的可以在 <a href="/special/firefox/version/"  target="_blank"> 《Firefox 火狐浏览器各版本区别》</a> 文章中了解更多差异和改动。个人使用还是推荐 ``` Firefox延长支持版 ``` 或者 ``` Firefox ``` 这两个更为稳定的版本。
 
 ------
 

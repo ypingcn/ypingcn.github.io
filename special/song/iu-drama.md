@@ -6,7 +6,7 @@ update: 2022-07-07 10:30 +0800
 description: Drama @IU - 韩语罗马音译+中文歌词
 ---
 
-Drama @IU <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
+Drama @IU <a target="_blank" href="/special/song/" >[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 

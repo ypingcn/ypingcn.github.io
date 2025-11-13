@@ -9,20 +9,20 @@ update: 2024-12-26 09:00 +0800
 以下是本文推荐的插件，排名不分先后，仅以文章介绍排序。
 
 NO.|简介|下载地址|
-1|【推荐】广告过滤|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin</a>|
-2|不良网站屏蔽|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" style="color: #0c82ff;">uBlacklist</a>|
-3|翻译插件|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/" rel="nofollow" style="color: #0c82ff;">沉浸式翻译</a>|
-4|脚本安装|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey</a>|
-5|广告过滤|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" style="color: #0c82ff;">AdNauseam</a>|
-6|鼠标手势|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy</a>|
-7|地址格式规范|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" style="color: #0c82ff;">clearUrls</a>|
-8|多开利器|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" style="color: #0c82ff;">Firefox Multi-Account Containers</a>|
-9|颜色制定|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;">VivaldiFox</a>|
-10|侧边栏|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery</a>|
+1|【推荐】广告过滤|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" >uBlock Origin</a>|
+2|不良网站屏蔽|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" >uBlacklist</a>|
+3|翻译插件|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/" rel="nofollow" >沉浸式翻译</a>|
+4|脚本安装|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" >Tampermonkey</a>|
+5|广告过滤|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" >AdNauseam</a>|
+6|鼠标手势|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" >Gesturefy</a>|
+7|地址格式规范|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" >clearUrls</a>|
+8|多开利器|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" >Firefox Multi-Account Containers</a>|
+9|颜色制定|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" >VivaldiFox</a>|
+10|侧边栏|<a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" >Sidebery</a>|
 
 插件，又称拓展、附加组件、Addons、擴充套件等，意在为浏览器实现更多更丰富的特性。插件极大地丰富了浏览器的功能，满足人们日常生活工作娱乐的需求。
 
-而 <a href="https://addons.mozilla.org/zh-CN/firefox/" rel="nofollow" style="color: #0c82ff;">「Firefox 火狐浏览器插件官网 AMO 」</a> 中有海量实用的官方/第三方扩展插件，这些运行在浏览器上的小插件能为浏览器增添功能，让上网变得更快、更安全，效率更高。无论你是在操作效率、隐私安全上有要求，或者是希望提高购物、看视频、界面阅读等方面的体验，在 AMO 中都能找到对应的拓展完成你的目标～
+而 <a href="https://addons.mozilla.org/zh-CN/firefox/" rel="nofollow" >「Firefox 火狐浏览器插件官网 AMO 」</a> 中有海量实用的官方/第三方扩展插件，这些运行在浏览器上的小插件能为浏览器增添功能，让上网变得更快、更安全，效率更高。无论你是在操作效率、隐私安全上有要求，或者是希望提高购物、看视频、界面阅读等方面的体验，在 AMO 中都能找到对应的拓展完成你的目标～
 
 ## 一、uBlock Origin
 
@@ -30,7 +30,7 @@ NO.|简介|下载地址|
 
 <center><font color="#bfbfbf"> --- uBlock Origin 简介及评分 --- </font></center>
 
-首先推荐的是广告过滤插件 uBlock Origin <a href="https://ublockorigin.com/" rel="nofollow" style="color: #0c82ff;">「官网」</a>。
+首先推荐的是广告过滤插件 uBlock Origin <a href="https://ublockorigin.com/" rel="nofollow" >「官网」</a>。
 
 uBlock Origin 可以屏蔽网页上的多种广告形式，包括弹出式广告、悬浮广告、视频广告等，让您的网页阅读更加清爽，减少干扰。
 
@@ -38,11 +38,11 @@ uBlock Origin 可以屏蔽网页上的多种广告形式，包括弹出式广告
 
 因为它本身是还是一个开源软件，因此也有许多热心的网友整理了很多 uBlock Origin 规则以供使用 —— 除了内置的 uBlock filters 规则外，还有著名的过滤广告规则 EasyList 、隐私保护规则 EasyPrivacy 和拦截恶意网站，除此之外还有针对特定地区/语言的不同规则可以选择。还可以阻止一些不必要的资源加载，如字体、样式表等，从而提高页面加载速度和性能。
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/" rel="nofollow" >uBlock Origin 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/</a>
 
-> 注：2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 uBlock Origin，大陆用户访问会提示「**此页面在您的地区不可用、您尝试访问的页面在您的地区不可用**」，可以使用这个地址备选下载。 <a href="https://www.crxsoso.com/firefox/detail/ublock-origin" rel="nofollow" style="color: #0c82ff;">uBlock Origin 插件备选下载地址</a> 
+> 注：2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装 uBlock Origin，大陆用户访问会提示「**此页面在您的地区不可用、您尝试访问的页面在您的地区不可用**」，可以使用这个地址备选下载。 <a href="https://www.crxsoso.com/firefox/detail/ublock-origin" rel="nofollow" >uBlock Origin 插件备选下载地址</a> 
 
-**如果是无法安装 uBlock Origin 的大陆地区用户，也可以考虑下载使用同样基于火狐浏览器定制的 Librewolf 浏览器，自带 uBlock Origin ，详见 <a href="/special/firefox/librewolf/" style="color: #0c82ff;" target="_blank">《Librewolf 资源汇总》</a>**
+**如果是无法安装 uBlock Origin 的大陆地区用户，也可以考虑下载使用同样基于火狐浏览器定制的 Librewolf 浏览器，自带 uBlock Origin ，详见 <a href="/special/firefox/librewolf/"  target="_blank">《Librewolf 资源汇总》</a>**
 
 Firefox 火狐浏览器 Android 安卓手机版同样可以使用 uBlock Origin ，点开菜单中的附加组件选项，勾选安装即可。
 
@@ -64,21 +64,21 @@ uBlacklist 是一款针对搜索结果过滤的插件，可以屏蔽用户不感
 
 例如，如果您不愿意查看某些新闻网站的链接，您可以在 uBlacklist 中添加这些网站的域名或关键词，然后 uBlacklist 将会在将来的搜索结果中过滤掉这些网站的链接。这样可以让用户更快地找到他们所需要的信息，同时减少不必要的干扰和误导。
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" style="color: #0c82ff;">uBlacklist 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/" rel="nofollow" >uBlacklist 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/</a>
 
 ## 三、沉浸式翻译
 
 一个方便好用的翻译插件，能以双语的格式对照显示、智能识别主内容区，并且包含 10+ 种翻译服务，AI 驱动更智能！
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/" rel="nofollow" style="color: #0c82ff;">沉浸式翻译 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/" rel="nofollow" >沉浸式翻译 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/</a>
 
 ## 四、Tampermonkey
 
 堪称【浏览器辅助神器】的油猴脚本，Tampermonkey 可以管理和运行用户编写的 JavaScript 脚本，这些脚本可以对网页进行修改、扩展或增强等操作，例如自动填充表单、屏蔽广告、抓取信息等，还有丰富的大神定义脚本，众多功能等待挖掘！ 
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" style="color: #0c82ff;">Tampermonkey 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" rel="nofollow" >Tampermonkey 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/</a>
 
-脚本推荐：<a href="https://ypingcn.com/article/scriptlist.html" style="color: #0c82ff;">优秀好用脚本列表</a>
+脚本推荐：<a href="https://ypingcn.com/article/scriptlist.html" >优秀好用脚本列表</a>
 
 ## 五、AdNauseam
 
@@ -86,9 +86,9 @@ uBlacklist 是一款针对搜索结果过滤的插件，可以屏蔽用户不感
 
 个人体验下来广告过滤效果跟单独使用 uBlock Origin 一致，但广告统计里的数据量不多（可能是我浏览的网站贴片广告有限），对广告过滤统计感兴趣的可以用 AdNauseam 代替 uBlock Origin 使用。
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/" rel="nofollow" >AdNauseam 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/</a>
 
-> 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装广告过滤插件的影响。 <a href="https://www.crxsoso.com/firefox/detail/adnauseam" rel="nofollow" style="color: #0c82ff;">AdNauseam 插件备选下载地址</a> 
+> 注：本插件同样受到 2022年3月下旬 AMO 开始屏蔽中国大陆地区 IP 访问安装广告过滤插件的影响。 <a href="https://www.crxsoso.com/firefox/detail/adnauseam" rel="nofollow" >AdNauseam 插件备选下载地址</a> 
 
 ## 六、Gesturefy
 
@@ -98,7 +98,7 @@ uBlacklist 是一款针对搜索结果过滤的插件，可以屏蔽用户不感
 
 Gesturefy 支持多种手势操作，例如滑动、缩放、旋转、轻扫等，可以代替传统的鼠标或键盘操作，提高用户的效率和体验。通过鼠标手势完成简单页面操作，提高效率，无需移动过多距离即可完成前进、后退等操作，还支持诸多自定义操作。
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" style="color: #0c82ff;">Gesturefy 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/" rel="nofollow" >Gesturefy 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/</a>
 
 ## 七、clearUrls
 
@@ -110,7 +110,7 @@ Gesturefy 支持多种手势操作，例如滑动、缩放、旋转、轻扫等�
 
 clearUrls 可以自动从URL中删除跟踪元素，使浏览更加私密和安全。它可以防止广告商跟踪你的在线活动、提高网站加载速度，并清除不必要的重定向链接。
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" style="color: #0c82ff;">clearUrls 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/" rel="nofollow" >clearUrls 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/</a>
 
 ## 八、Firefox Multi-Account Containers
 
@@ -120,23 +120,23 @@ clearUrls 可以自动从URL中删除跟踪元素，使浏览更加私密和安�
 
 类似“小号窗口”，开启后同个浏览器就能登录不同账号，再也不用安装多个浏览器～
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" style="color: #0c82ff;">Firefox Multi-Account Containers 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/" rel="nofollow" >Firefox Multi-Account Containers 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/</a>
 
 ## 九、VivaldiFox
 
 一个可以让你的主题颜色跟随网页主题色更改的插件，跟 Vivaldi 浏览器一样的体验。
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" style="color: #0c82ff;">VivaldiFox 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/" rel="nofollow" >VivaldiFox 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
 
 ## 十、Sidebery
 
 浏览器侧边栏插件，可以跟 edge 一样将所有打开的标签页和书签展示在侧边栏上，提高宽屏显示器的利用效率。
 
-<a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" style="color: #0c82ff;">Sidebery 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/" rel="nofollow" >Sidebery 插件下载地址 - https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/</a>
 
 ---
 
-**更多**: <a href="/wiki/affiliate/" style="color: #0c82ff;" target="_blank">好物资源推荐</a>  
+**更多**: <a href="/wiki/affiliate/"  target="_blank">好物资源推荐</a>  
 
 **更多阅读**
 

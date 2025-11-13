@@ -6,7 +6,7 @@ update: 2023-03-21 22:00 +0800
 description: d.ear December 24th(12월24일) - 韩语罗马音译+中文歌词
 ---
 
-December 24th(12월24일) <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
+December 24th(12월24일) <a target="_blank" href="/special/song/" >[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 

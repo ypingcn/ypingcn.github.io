@@ -32,4 +32,4 @@ Zen 浏览器是一款以极简主义为核心设计的开源浏览器，基于 
 
 当前所有版本仍处于 beta 测试版中，需注意日常数据备份同步以免意外导致丢失。支持 Windows/MacOS/Linux 三大主流电脑环境，X86_64 是平时更常见的选择，而 ARM64 架构可以在 Apple M1、M2 芯片或其他知情的情况下选择下载。
 
-【推荐使用】Zen 浏览器 Windows/MacOS/Linux 官方下载地址：<a href="https://zen-browser.app/download/" rel="nofollow" style="color: #0c82ff;">点击前往</a>
+【推荐使用】Zen 浏览器 Windows/MacOS/Linux 官方下载地址：<a href="https://zen-browser.app/download/" rel="nofollow" >点击前往</a>

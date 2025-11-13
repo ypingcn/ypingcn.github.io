@@ -6,7 +6,7 @@ update: 2023-03-12 22:00 +0800
 description: Lullaby @Jukjae(郑宰阮) - 韩语罗马音译+中文歌词
 ---
 
-摇篮曲 Lullaby @Jukjae(郑宰阮)<a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
+摇篮曲 Lullaby @Jukjae(郑宰阮)<a target="_blank" href="/special/song/" >[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 

@@ -6,7 +6,7 @@ update: 2023-11-11 16:30 +0800
 description:  November Rain@Jannabi - 韩语罗马音译+中文歌词
 ---
 
-November Rain @Jannabi <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
+November Rain @Jannabi <a target="_blank" href="/special/song/" >[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 

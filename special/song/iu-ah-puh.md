@@ -6,7 +6,7 @@ update: 2023-06-28 13:00 +0800
 description: IU Ah Puh(어푸) - 韩语罗马音译+中文歌词
 ---
 
-Ah Puh(어푸) <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
+Ah Puh(어푸) <a target="_blank" href="/special/song/" >[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 

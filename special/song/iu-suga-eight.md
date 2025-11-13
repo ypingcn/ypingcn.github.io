@@ -6,7 +6,7 @@ update: 2022-07-07 10:30 +0800
 description: Eight @IUxSUGA - 韩语罗马音译+中文歌词
 ---
 
-에잇(Prod.&Feat. SUGA of BTS) @IU <a target="_blank" href="/special/song/" style="color: #0c82ff;">[更多]</a>
+에잇(Prod.&Feat. SUGA of BTS) @IU <a target="_blank" href="/special/song/" >[更多]</a>
 
 Lyrics Korean/Hangul Romanization/Chinese
 
