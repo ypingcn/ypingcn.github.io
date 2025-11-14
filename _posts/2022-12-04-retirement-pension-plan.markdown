@@ -13,7 +13,7 @@ tags:
     - 生活
 ---
 
-最近有一个很火的话题便是个人养老金了，银行渠道的红包开户大力推广叠加「养老」的焦虑，个人养老金俨然成为最近的热点话题。年轻人对于养老问题都有提前规划的意识和规划（详见<a target="_blank" href="https://new.qq.com/omn/20210828/20210828A0AHEP00.html?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" rel="nofollow" style="color: #0c82ff;">《这届年轻人，不到30岁就思考养老的事了》 - 腾讯新闻</a>），那么个人养老金这项制度对于年轻人养老是否有所帮助呢？下面是我最近关于「个人养老金」的观察分析总结，在此与各位分享下。
+最近有一个很火的话题便是个人养老金了，银行渠道的红包开户大力推广叠加「养老」的焦虑，个人养老金俨然成为最近的热点话题。年轻人对于养老问题都有提前规划的意识和规划（详见<a target="_blank" href="https://new.qq.com/omn/20210828/20210828A0AHEP00.html?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" rel="nofollow" >《这届年轻人，不到30岁就思考养老的事了》 - 腾讯新闻</a>），那么个人养老金这项制度对于年轻人养老是否有所帮助呢？下面是我最近关于「个人养老金」的观察分析总结，在此与各位分享下。
 
 ## 何为「个人养老金」？
 
@@ -31,9 +31,9 @@ tags:
 
 3. 对于年轻人群体而言选择「公募基金」更为适合，但现有品种只是各种养老目标基金，缺少国债、不同指数基金的选择，品种单一缺少分散风险的有效手段。
 
-> 后续相关信息的更新，会放在 <a target="_blank" href="https://ypingcn.com/article/finance.html" style="color: #0c82ff;">《财经文章收藏》</a> 
+> 后续相关信息的更新，会放在 <a target="_blank" href="https://ypingcn.com/article/finance.html" >《财经文章收藏》</a> 
 > 
-> 个人养老金可买的公募基金相关信息的更新，会放在 <a target="_blank" href="/special/fund/year-book" style="color: #0c82ff;">《中国公募基金发展大事记》</a> 
+> 个人养老金可买的公募基金相关信息的更新，会放在 <a target="_blank" href="/special/fund/year-book" >《中国公募基金发展大事记》</a> 
 > 
 > 欢迎访问。
 
@@ -76,10 +76,10 @@ tags:
 
 >  更多参考资料
 
-<a target="_blank" href="https://youzhiyouxing.cn/materials/1315?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" rel="nofollow" style="color: #0c82ff;">《E54 个人养老金账户有必要开吗？太有了｜养老那些事儿 02》 </a>
+<a target="_blank" href="https://youzhiyouxing.cn/materials/1315?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" rel="nofollow" >《E54 个人养老金账户有必要开吗？太有了｜养老那些事儿 02》 </a>
 
-<a target="_blank" href="https://youzhiyouxing.cn/materials/1373?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" rel="nofollow" style="color: #0c82ff;">《E65 我到底要不要开个人养老金账户？听完这期就懂了｜我们和养老的距离 05》</a>
+<a target="_blank" href="https://youzhiyouxing.cn/materials/1373?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" rel="nofollow" >《E65 我到底要不要开个人养老金账户？听完这期就懂了｜我们和养老的距离 05》</a>
 
-<a target="_blank" href="https://youzhiyouxing.cn/materials/1370?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" rel="nofollow" style="color: #0c82ff;">《「个人养老金」来了，我要参与吗？》</a>
+<a target="_blank" href="https://youzhiyouxing.cn/materials/1370?utm_source=blog&utm_medium=content&utm_campaign=blog.ypingcn.com" rel="nofollow" >《「个人养老金」来了，我要参与吗？》</a>
 
 

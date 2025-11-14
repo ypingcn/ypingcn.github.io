@@ -14,7 +14,7 @@ tags:
     - 分享
 ---
 
-> <a target="_blank" href="https://ypingcn.com/article/podcast.html" style="color: #0c82ff;">闲暇听什么：我的私藏播客清单</a>
+> <a target="_blank" href="https://ypingcn.com/article/podcast.html" >闲暇听什么：我的私藏播客清单</a>
 
 我个人是从 2021 年起才开始用```AntennaPod```接触并收听播客节目的（希望大家能多多支持开源软件~），今年起也会慢慢使用```小宇宙APP```来收听其他苹果播客上搜不到的节目（```AntennaPod```主要是使用苹果播客的数据）作为辅助。收听时长也从 2021 年 11.9h 到 2022 年 54.7h 到今年刚过4个月就已经 13.2+33h 了，播客已经慢慢成为我通勤、在家打扫卫生、跑步锻炼等碎片时间里的一个好陪伴了。
 
@@ -22,7 +22,7 @@ tags:
 
 不得不说，播客（Podcast）与博客（Blog）多少有点相似之处。对于创作者而言都是一个分享自己经历和感受的方式，发表自己的意见系统化的将自己的想法留存下来。而读者都可以从文字版的博客、音频版的播客里获取信息，“打破信息差”。音频所带来的“信息密度”远没有文字版的博客信息量大，所以说实话播客并不是一个获取信息最高效的方式，但也因音频声音高低、想象空间的特点，能给听众文字所不具备的陪伴感、临场感和生活气息。
 
-> <a target="_blank" href="https://ypingcn.com/article/podcast.html" style="color: #0c82ff;">闲暇听什么：我的私藏播客清单</a>
+> <a target="_blank" href="https://ypingcn.com/article/podcast.html" >闲暇听什么：我的私藏播客清单</a>
 
 以下几个是我个人比较喜欢的播客节目——
 

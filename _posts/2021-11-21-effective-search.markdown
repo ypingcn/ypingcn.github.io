@@ -16,7 +16,7 @@ tags:
 
 你一定会有这样的经历，在为了查找某个内容，输入一个关键词的时候，展现在你面前的内容有很多是毫无相关的页面、视频，甚至更过分的是广告和诈骗。在当今信息爆炸时代，有价值的信息淹没在浩如烟海的噪音中，如何高效地获得所需要的信息也就成为当今时代所必须要掌握的一项技能。
 
-<a href="https://book.douban.com/subject/1013208/" style="color: #0c82ff;" target="_blank" rel="noopener nofollow">《如何阅读一本书》</a>这种经典或许能给我们一点启示。书中举了不同的例子讲述了作者自己是如何阅读书籍的，同样，我们在网上搜索的时候也是需要一点技巧来提高效率的。下面几个是我个人最近在网上搜索内容时候的一点总结，希望也能给你有所启示。
+<a href="https://book.douban.com/subject/1013208/"  target="_blank" rel="noopener nofollow">《如何阅读一本书》</a>这种经典或许能给我们一点启示。书中举了不同的例子讲述了作者自己是如何阅读书籍的，同样，我们在网上搜索的时候也是需要一点技巧来提高效率的。下面几个是我个人最近在网上搜索内容时候的一点总结，希望也能给你有所启示。
 
 搜索可以分为三步走
 
@@ -57,9 +57,9 @@ tags:
 
 百度一下已经是大家对网上搜索的代名词了，但网上好用的搜索平台不只百度一个。在搜不到结果的时候不妨换一个网站。
 
- - <a href="https://www.google.com" style="color: #0c82ff;" target="_blank" rel="noopener nofollow">谷歌 Google</a>（收录网站最多的）
- - <a href="https://www.sogou.com" style="color: #0c82ff;" target="_blank" rel="noopener nofollow">搜狗 Sogou </a> （还支持搜索微信的内容）
- - <a href="https://www.bing.com" style="color: #0c82ff;" target="_blank" rel="noopener nofollow">必应 Bing </a>
+ - <a href="https://www.google.com"  target="_blank" rel="noopener nofollow">谷歌 Google</a>（收录网站最多的）
+ - <a href="https://www.sogou.com"  target="_blank" rel="noopener nofollow">搜狗 Sogou </a> （还支持搜索微信的内容）
+ - <a href="https://www.bing.com"  target="_blank" rel="noopener nofollow">必应 Bing </a>
 
 ### 2.3 下载 APP 获取
 

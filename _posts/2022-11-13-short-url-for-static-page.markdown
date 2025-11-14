@@ -77,4 +77,4 @@ function goUrl(config, timeoutMs) {
 
 #### 参考网页
 
-1. <a href="https://apqx.me/post/original/2022/05/17/%E4%B8%8D%E5%BF%85%E5%A4%8D%E6%9D%82-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9F%AD%E9%93%BE.html" rel="nofollow" style="color: #0c82ff;">《不必复杂，静态博客也可以做短链》</a>
+1. <a href="https://apqx.me/post/original/2022/05/17/%E4%B8%8D%E5%BF%85%E5%A4%8D%E6%9D%82-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9F%AD%E9%93%BE.html" rel="nofollow" >《不必复杂，静态博客也可以做短链》</a>

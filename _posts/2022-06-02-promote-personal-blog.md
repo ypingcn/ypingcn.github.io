@@ -38,10 +38,10 @@ tags:
 
 记录一下其他博主的类似问题，以便有空的时候尝试解决问题。
 
-2022-03-25 <a href="https://www.jessesquires.com/blog/2022/03/25/my-website-disappeared-from-bing-and-duckduckgo/" rel="nofollow" style="color: #0c82ff;">《My website disappeared from Bing and DuckDuckGo · Jesse Squires》</a>
+2022-03-25 <a href="https://www.jessesquires.com/blog/2022/03/25/my-website-disappeared-from-bing-and-duckduckgo/" rel="nofollow" >《My website disappeared from Bing and DuckDuckGo · Jesse Squires》</a>
 
-2022-07-25 <a href="https://www.jessesquires.com/blog/2022/07/25/my-website-disappeared-from-bing-and-duckduckgo-part-2/" rel="nofollow" style="color: #0c82ff;">《My website disappeared from Bing and DuckDuckGo, Part 2 · Jesse Squires》</a>
+2022-07-25 <a href="https://www.jessesquires.com/blog/2022/07/25/my-website-disappeared-from-bing-and-duckduckgo-part-2/" rel="nofollow" >《My website disappeared from Bing and DuckDuckGo, Part 2 · Jesse Squires》</a>
 
-2022-06-16 <a href="https://lapcatsoftware.com/articles/bing.html" rel="nofollow" style="color: #0c82ff;">《Bing and DuckDuckGo removed my business web site - Jeff Johnson》</a>
+2022-06-16 <a href="https://lapcatsoftware.com/articles/bing.html" rel="nofollow" >《Bing and DuckDuckGo removed my business web site - Jeff Johnson》</a>
 
-2022-06-24 <a href="https://io.bikegremlin.com/28530/microsoft-bing-serp-gone-overnight/" rel="nofollow" style="color: #0c82ff;">《Microsoft Bing - site gone from SERP overnight! | BikeGremlin I/O》</a>
+2022-06-24 <a href="https://io.bikegremlin.com/28530/microsoft-bing-serp-gone-overnight/" rel="nofollow" >《Microsoft Bing - site gone from SERP overnight! | BikeGremlin I/O》</a>

@@ -14,7 +14,7 @@ tags:
     - 讨论
 ---
 
-Firefox 57 (Firefox Quantum)版在2017年11月14日发布，这个版本最大的变化在于用了自家的 Rust 编写 CSS 引擎，扩展仅支持 WebExtension 格式。最近几天的使用下来，能明显感受到的变化在于速度，打开网站的速度有所提高。偶尔对于不经常访问的网站会在 HTTPS 握手部分卡住，占用较长的一段时间。至于拓展方面，影响倒不是很大，能有广告过滤（<a href="https://ypingcn.com/go/out?r=ublock-origin-firefox" rel="nofollow" style="color: #0c82ff;">uBlock Origin</a>）、切换 UA（<a href="https://ypingcn.com/go/out?r=user-agent-switcher-revived" rel="nofollow" style="color: #0c82ff;">User-Agent Switcher</a> ）、切换代理（<a href="https://ypingcn.com/go/out?r=smartproxy" rel="nofollow" style="color: #0c82ff;">SmartProxy</a>）三类拓展就足够了，主题倒不是什么核心需求，不改也罢。
+Firefox 57 (Firefox Quantum)版在2017年11月14日发布，这个版本最大的变化在于用了自家的 Rust 编写 CSS 引擎，扩展仅支持 WebExtension 格式。最近几天的使用下来，能明显感受到的变化在于速度，打开网站的速度有所提高。偶尔对于不经常访问的网站会在 HTTPS 握手部分卡住，占用较长的一段时间。至于拓展方面，影响倒不是很大，能有广告过滤（<a href="https://ypingcn.com/go/out?r=ublock-origin-firefox" rel="nofollow" >uBlock Origin</a>）、切换 UA（<a href="https://ypingcn.com/go/out?r=user-agent-switcher-revived" rel="nofollow" >User-Agent Switcher</a> ）、切换代理（<a href="https://ypingcn.com/go/out?r=smartproxy" rel="nofollow" >SmartProxy</a>）三类拓展就足够了，主题倒不是什么核心需求，不改也罢。
 
 新版本出来的时候在一个群聊里发了张图片和链接，算是一种推广。一如既往的安静，反倒是一句“火狐给了你多少钱”有了以下片段的想法。
 
