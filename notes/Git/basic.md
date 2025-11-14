@@ -10,7 +10,7 @@ update: 2021-10-30 17:06 +0800
 
 参考资料
 
-Git - Book <a href="https://git-scm.com/book/en/v2" style="color: #0c82ff;" target="_blank" rel="noopener nofollow">#英文版链接</a> <a href="https://git-scm.com/book/zh/v2" style="color: #0c82ff;" target="_blank" rel="noopener nofollow">#中文版链接</a>
+Git - Book <a href="https://git-scm.com/book/en/v2"  target="_blank" rel="noopener nofollow">#英文版链接</a> <a href="https://git-scm.com/book/zh/v2"  target="_blank" rel="noopener nofollow">#中文版链接</a>
 
 ### 初始化
 

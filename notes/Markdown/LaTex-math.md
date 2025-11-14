@@ -174,9 +174,9 @@ g & h & i
 
 参考资料 ：
 
-\#1 <a href="https://zh.wikipedia.org/wiki/Help:%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F" style="color: #0c82ff;"  target="_blank" rel="noopener nofollow">帮助:数学公式 - 维基百科，自由的百科全书</a>
+\#1 <a href="https://zh.wikipedia.org/wiki/Help:%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F"   target="_blank" rel="noopener nofollow">帮助:数学公式 - 维基百科，自由的百科全书</a>
 
-\#2 <a href="https://zh.wikibooks.org/wiki/LaTeX/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F" style="color: #0c82ff;"  target="_blank" rel="noopener nofollow">LaTeX/数学公式 - 维基教科书，自由的教学读本</a>
+\#2 <a href="https://zh.wikibooks.org/wiki/LaTeX/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F"   target="_blank" rel="noopener nofollow">LaTeX/数学公式 - 维基教科书，自由的教学读本</a>
 
 ---
 

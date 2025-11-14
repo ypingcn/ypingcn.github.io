@@ -94,7 +94,7 @@ hello[^note]
 
 参考资料
 
-<a href="http://wowubuntu.com/markdown/" style="color: #0c82ff;"  target="_blank" rel="noopener nofollow">Markdown 语法说明(简体中文版)</a>
+<a href="http://wowubuntu.com/markdown/"   target="_blank" rel="noopener nofollow">Markdown 语法说明(简体中文版)</a>
 
 ---
 

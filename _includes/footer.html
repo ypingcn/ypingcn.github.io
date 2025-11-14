@@ -3,10 +3,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <ul class="list-inline text-center">
+                <ul class="list-inline text-center subscribe-icon">
                     {% if site.RSS %}
                     <li>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}" alt=" RSS 订阅地址">
+                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}" alt="RSS 订阅地址">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -80,8 +80,6 @@
                     {% else %}
                     转载请注明以下信息：《{{page.title}}》转载自 <a href="{{ site.url }}">{{ site.url }}</a>
                     <br>
-                    本文地址：<a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>
-                    <br>
                     <br>
                     {% endif %}
                     版权所有 &copy; <a href="/wiki/about/">{{ site.title }}</a> 保留所有权利 2016 - {{ site.time | date: '%Y' }} 
@@ -93,6 +91,7 @@
                        href="/special/firefox/addons/">广告过滤</a>|<a 
                        href="https://ypingcn.com/?utm_source=blog&utm_medium=footer">混沌书签导航</a>|<a 
                        href="https://ypingcn.com/article/?utm_source=blog&utm_medium=footer">文章收藏</a>|<a 
+                       href="https://ypingcn.com/spa/?utm_source=blog&utm_medium=footer">工具合集</a>|<a 
                        href="/special/song/">KPOP</a>|<a 
                        href="/wiki/privacy/">隐私策略</a>
                     <br>

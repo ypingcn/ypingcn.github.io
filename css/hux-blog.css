@@ -9,6 +9,11 @@
     padding-right: 5%;
   }
 }
+.subscribe-icon a {
+  color: #808080 !important;
+  text-decoration: none;
+}
+
 .sidebar-container {
   color: #bfbfbf;
   font-size: 14px;
@@ -162,7 +167,7 @@ h4 {
   font-size: 21px;
 }
 a {
-  color: #404040;
+  color: #337ab7;
 }
 a:hover,
 a:focus {
@@ -306,6 +311,7 @@ pre code {
   float: left;
 }
 .post-container .pager li > a {
+  color: #808080;
   width: 100%;
 }
 .post-container .pager li > a > span {
@@ -605,12 +611,12 @@ pre code {
   }
 }
 .post-preview > a {
-  color: #0c82ff;
+  color: #404040;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: #808080;
 }
 .post-preview > a > .post-title {
   font-size: 21px;
@@ -804,7 +810,7 @@ form .row:first-child .floating-label-form-group {
   }
 }
 .pager li > a {
-  color: #0c82ff;
+  color: #404040;
 }
 .pager li > a:hover,
 .pager li > a:focus {

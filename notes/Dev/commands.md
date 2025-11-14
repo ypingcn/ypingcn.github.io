@@ -11,11 +11,11 @@ update: 2022-11-13 12:00 +0800
 
 ### 文本编辑 - vim
 
-简单入门学习可以在 <a href="https://coolshell.cn/articles/5426.html" style="color: #0c82ff;"  target="_blank" rel="noopener nofollow">《简明 Vim 练级攻略 | 酷 壳 - CoolShell》</a> 学习。
+简单入门学习可以在 <a href="https://coolshell.cn/articles/5426.html"   target="_blank" rel="noopener nofollow">《简明 Vim 练级攻略 | 酷 壳 - CoolShell》</a> 学习。
 
-学习完以后可以在 <a href="https://vim-adventures.com/" style="color: #0c82ff;"  target="_blank" rel="noopener nofollow">vim-adventures</a> 上加以练习，这个网站将 vim 操作融入游戏中，寓教于乐。
+学习完以后可以在 <a href="https://vim-adventures.com/"   target="_blank" rel="noopener nofollow">vim-adventures</a> 上加以练习，这个网站将 vim 操作融入游戏中，寓教于乐。
 
-博客中笔记 <a href="/notes/Vim/config" style="color: #0c82ff;"  target="_blank">《Vim 配置与快捷键》</a> 也提到了 Vim 编辑器的配置和快捷键相关的知识拓展。
+博客中笔记 <a href="/notes/Vim/config"   target="_blank">《Vim 配置与快捷键》</a> 也提到了 Vim 编辑器的配置和快捷键相关的知识拓展。
 
 ### 编译器 - gcc/g++
 

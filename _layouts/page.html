@@ -29,7 +29,7 @@ layout: default
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 postlist-container">
             {% if page.not_show_ad %}
             {% else %}
-            <blockquote>[AD] -- 下方为内容广告，点击支持作者，<a style="color: #0c82ff;" href="/special/firefox/addons/">想过滤广告？</a> -- [AD]</blockquote>
+            <blockquote>[AD] -- 下方为内容广告，点击支持作者，<a href="/special/firefox/addons/">想过滤广告？</a> -- [AD]</blockquote>
             <ins class="adsbygoogle"
                     style="display:block; text-align:center;"
                     data-ad-layout="in-article"
@@ -44,10 +44,7 @@ layout: default
             {{ content }}
         </div>
         <!-- Sidebar Container -->
-        <div class="
-                col-lg-8 col-lg-offset-2
-                col-md-10 col-md-offset-1
-                sidebar-container">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 sidebar-container">
             <!-- Featured Tags -->
             {% if site.featured-tags %}
             <section>
@@ -81,7 +78,7 @@ layout: default
         <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 postlist-container">
             {% if page.not_show_ad %}
             {% else %}
-            <blockquote>[AD] -- 下方为内容广告，点击支持作者，<a style="color: #0c82ff;" href="/special/firefox/addons/">想过滤广告？</a> -- [AD]</blockquote>
+            <blockquote>[AD] -- 下方为内容广告，点击支持作者，<a href="/special/firefox/addons/">想过滤广告？</a> -- [AD]</blockquote>
             <ins class="adsbygoogle"
                     style="display:block; text-align:center;"
                     data-ad-layout="in-article"
@@ -97,7 +94,7 @@ layout: default
 
             {% if page.not_show_ad %}
             {% else %}
-            <blockquote>[AD] -- 下方为内容广告，点击支持作者，<a style="color: #0c82ff;" href="/special/firefox/addons/">想过滤广告？</a> -- [AD]</blockquote>
+            <blockquote>[AD] -- 下方为内容广告，点击支持作者，<a href="/special/firefox/addons/">想过滤广告？</a> -- [AD]</blockquote>
             <ins class="adsbygoogle"
                     style="display:block; text-align:center;"
                     data-ad-layout="in-article"
@@ -126,14 +123,14 @@ layout: default
             </section>
             {% endif %}
             <section>
-                <div>
+                <div class="sidebar-recommand">
                     <h5><a href="{{'/wiki/' | prepend: site.baseurl }}">本站专题</a></h5>
-                    <a target="_blank" style="color: #0c82ff;" href="https://ypingcn.com/?utm_source=blog&utm_medium=nav" alt="「书签导航」">「书签导航」</a>
-                    <br><a target="_blank" style="color: #0c82ff;" href="https://ypingcn.com/article/?utm_source=blog&utm_medium=nav" alt="「文章收藏」">「文章收藏」</a>
-                    <br><a target="_blank" style="color: #0c82ff;" href="https://ypingcn.com/spa/?utm_source=blog&utm_medium=nav" alt="「工具合集」">「工具合集」</a>
-                    <br><a target="_blank" style="color: #0c82ff;" href="/special/firefox/" alt="「火狐专题」">「火狐专题」</a>
-                    <br><a target="_blank" style="color: #0c82ff;" href="/wiki/affiliate/" alt="「好物推荐」">「好物推荐」</a>
-                    <br><a target="_blank" style="color: #0c82ff;" href="/special/fund/year-book/" alt="「基金专题」">「基金专题」</a>
+                    <a target="_blank"  href="https://ypingcn.com/?utm_source=blog&utm_medium=nav" alt="「书签导航」">「书签导航」</a>
+                    <br><a target="_blank"  href="https://ypingcn.com/article/?utm_source=blog&utm_medium=nav" alt="「文章收藏」">「文章收藏」</a>
+                    <br><a target="_blank"  href="https://ypingcn.com/spa/?utm_source=blog&utm_medium=nav" alt="「工具合集」">「工具合集」</a>
+                    <br><a target="_blank"  href="/special/firefox/" alt="「火狐专题」">「火狐专题」</a>
+                    <br><a target="_blank"  href="/wiki/affiliate/" alt="「好物推荐」">「好物推荐」</a>
+                    <br><a target="_blank"  href="/special/fund/year-book/" alt="「基金专题」">「基金专题」</a>
                 </div>
                 <hr>
                 <h5>[AD] -- 「侧边栏广告」 --</h5>
@@ -147,7 +144,7 @@ layout: default
                 </div>
                 <hr>
                 <h5>「更多独立博客」</h5>
-                <a target="_blank" style="color: #0c82ff;" rel="noopener nofollow" href="https://www.foreverblog.cn/feeds.html" alt="十年之约专题展示">十年之约专题展示</a>
+                <a target="_blank"  rel="noopener nofollow" href="https://www.foreverblog.cn/feeds.html" alt="十年之约专题展示">十年之约专题展示</a>
                 <br>
                 <a href="https://www.travellings.cn/go.html?utm_source=blog&utm_medium=sidebar&utm_campaign=blog.ypingcn.com"
                     target="_blank" rel="noopener nofollow" title="开往-友链接力">
@@ -166,7 +163,7 @@ layout: default
                     <p>{{site.sidebar-about-description}}</p>
                     {% endif %}
                     <!-- SNS Link -->
-                    <ul class="list-inline">
+                    <ul class="list-inline subscribe-icon">
                         <li>
                             <a target="_blank" href="{{ " /feed.xml" | prepend: site.baseurl }}">
                                 <span class="fa-stack fa-lg">
@@ -183,7 +180,7 @@ layout: default
                 <h5>「你可能会关注的文章」</h5>
                 <div>{% assign next_page_group = site.pages | sample: 8  %}{% for next_page in next_page_group %}{% assign now_folder_level = next_page.url | split:"/" | size %}{% assign now_all_folder = next_page.url | split:"/" %}
                     {% if next_page.title and now_folder_level >= 3 %}{% if now_all_folder[1]  == "special" or now_all_folder[1]  == "notes" %}
-                    <a style="color: #0c82ff;" href="{{next_page.url}}" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
+                    <a href="{{next_page.url}}" alt="{{next_page.title}}">《{{next_page.title}}》</a><br>
                     {% endif %}{% endif %}{% endfor %}
                 </div>
             </li>

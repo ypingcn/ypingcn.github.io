@@ -14,25 +14,25 @@ not_show_ad: true
 
 ## 关于
 
-<a href="/wiki/about/" style="color: #0c82ff;"># @关于本站 </a>
+<a href="/wiki/about/" ># @关于本站 </a>
 
-<a href="/wiki/guestbook/" style="color: #0c82ff;"># @留言联系 </a>
+<a href="/wiki/guestbook/" ># @留言联系 </a>
 
 ------
 
 ## 博客
 
-<a href="/" style="color: #0c82ff;"># @最新更新 </a>
+<a href="/" ># @最新更新 </a>
 
 ------
 
 ## 知识库
 
-<a href="/notes/" style="color: #0c82ff;"># @笔记目录 </a>
+<a href="/notes/" ># @笔记目录 </a>
 
-<a href="/wiki/lctt/" style="color: #0c82ff;"># @LCTT 翻译记录 </a>
+<a href="/wiki/lctt/" ># @LCTT 翻译记录 </a>
 
-<a href="/wiki/copywriting-guidelines/" style="color: #0c82ff;"># @中文排版指北 </a>
+<a href="/wiki/copywriting-guidelines/" ># @中文排版指北 </a>
 
 ------
 
@@ -40,58 +40,58 @@ not_show_ad: true
 
 ### Firefox 火狐浏览器
 
-<a href="/special/firefox/addons/" style="color: #0c82ff;"># @Firefox 火狐浏览器插件推荐 </a>
+<a href="/special/firefox/addons/" ># @Firefox 火狐浏览器插件推荐 </a>
 
-<a href="/special/firefox/doh/" style="color: #0c82ff;"># @Firefox 火狐浏览器设置安全 DNS （DoH） ~</a>
+<a href="/special/firefox/doh/" ># @Firefox 火狐浏览器设置安全 DNS （DoH） ~</a>
 
-<a href="/special/firefox/edition-faq/" style="color: #0c82ff;"># @Firefox 火狐浏览器【国际版】与【谋智中国版】的区别 </a>
+<a href="/special/firefox/edition-faq/" ># @Firefox 火狐浏览器【国际版】与【谋智中国版】的区别 </a>
 
-<a href="/special/firefox/floorp/" style="color: #0c82ff;"># @Floorp 浏览器 ~</a>
+<a href="/special/firefox/floorp/" ># @Floorp 浏览器 ~</a>
 
-<a href="/special/firefox/librewolf/" style="color: #0c82ff;"># @Librewolf 浏览器 ~</a>
+<a href="/special/firefox/librewolf/" ># @Librewolf 浏览器 ~</a>
 
-<a href="/special/firefox/waterfox/" style="color: #0c82ff;"># @Waterfox 浏览器 ~</a>
+<a href="/special/firefox/waterfox/" ># @Waterfox 浏览器 ~</a>
 
-<a href="/special/firefox/zen/" style="color: #0c82ff;"># @Zen 浏览器 ~</a>
+<a href="/special/firefox/zen/" ># @Zen 浏览器 ~</a>
 
-<a href="/special/firefox/mercury/" style="color: #0c82ff;"># @Mercury 浏览器 ~</a>
+<a href="/special/firefox/mercury/" ># @Mercury 浏览器 ~</a>
 
-<a href="/special/firefox/resource/" style="color: #0c82ff;"># @Firefox 火狐浏览器资源汇总 </a>
+<a href="/special/firefox/resource/" ># @Firefox 火狐浏览器资源汇总 </a>
 
-<a href="/special/firefox/theme/" style="color: #0c82ff;"># @Firefox 火狐浏览器主题美化 ~</a>
+<a href="/special/firefox/theme/" ># @Firefox 火狐浏览器主题美化 ~</a>
 
-<a href="/special/firefox/trains/" style="color: #0c82ff;"># @Firefox Trains，一个查看 Firefox 火狐浏览器不同渠道最新版本的网站 ~</a>
+<a href="/special/firefox/trains/" ># @Firefox Trains，一个查看 Firefox 火狐浏览器不同渠道最新版本的网站 ~</a>
 
-<a href="/special/firefox/version/" style="color: #0c82ff;"># @Firefox 火狐浏览器版本差异 </a>
+<a href="/special/firefox/version/" ># @Firefox 火狐浏览器版本差异 </a>
 
-<a href="/special/firefox/website/" style="color: #0c82ff;"># @Firefox 火狐浏览器相关网站汇总 ~</a>
+<a href="/special/firefox/website/" ># @Firefox 火狐浏览器相关网站汇总 ~</a>
 
 ### 基金
 
-<a href="/special/fund/year-book/" style="color: #0c82ff;"># @中国公募基金发展大事记 </a>
+<a href="/special/fund/year-book/" ># @中国公募基金发展大事记 </a>
 
 ### KPOP
 
-<a target="_blank" href="/special/song/d.ear-december-24th/" style="color: #0c82ff;">#《12月24日》- d.ear</a>
+<a target="_blank" href="/special/song/d.ear-december-24th/" >#《12月24日》- d.ear</a>
 
-<a target="_blank" href="/special/song/iu-ah-puh/" style="color: #0c82ff;">#《Ah Puh》- IU</a>
+<a target="_blank" href="/special/song/iu-ah-puh/" >#《Ah Puh》- IU</a>
 
-<a target="_blank" href="/special/song/iu-drama/" style="color: #0c82ff;">#《Drama》- IU</a>
+<a target="_blank" href="/special/song/iu-drama/" >#《Drama》- IU</a>
 
-<a target="_blank" href="/special/song/iu-suga-eight/" style="color: #0c82ff;">#《Eight》- IU x SUGA</a>
+<a target="_blank" href="/special/song/iu-suga-eight/" >#《Eight》- IU x SUGA</a>
 
-<a target="_blank" href="/special/song/iu-the-forgotten-season/" style="color: #0c82ff;">#《被遗忘的季节》- IU</a>
+<a target="_blank" href="/special/song/iu-the-forgotten-season/" >#《被遗忘的季节》- IU</a>
 
-<a target="_blank" href="/special/song/iu-your-meaning/" style="color: #0c82ff;">#《你的意义》- IU</a>
+<a target="_blank" href="/special/song/iu-your-meaning/" >#《你的意义》- IU</a>
 
-<a target="_blank" href="/special/song/janabi-a-thought-on-an-autumn-night/" style="color: #0c82ff;">#《秋日思绪》- Jannabi</a>
+<a target="_blank" href="/special/song/janabi-a-thought-on-an-autumn-night/" >#《秋日思绪》- Jannabi</a>
 
-<a target="_blank" href="/special/song/jannabi-for-lover-who-hesitate/" style="color: #0c82ff;">#《致犹豫的恋人们》- Jannabi</a>
+<a target="_blank" href="/special/song/jannabi-for-lover-who-hesitate/" >#《致犹豫的恋人们》- Jannabi</a>
 
-<a target="_blank" href="/special/song/jannabi-november-rain/" style="color: #0c82ff;">#《November Rain》- Jannabi</a>
+<a target="_blank" href="/special/song/jannabi-november-rain/" >#《November Rain》- Jannabi</a>
 
-<a target="_blank" href="/special/song/joy-introduce-me-a-good-person/" style="color: #0c82ff;">#《좋은 사람 있으면 소개시켜줘 》- Joy</a>
+<a target="_blank" href="/special/song/joy-introduce-me-a-good-person/" >#《좋은 사람 있으면 소개시켜줘 》- Joy</a>
 
-<a target="_blank" href="/special/song/kangta-persona/" style="color: #0c82ff;">#《面具》- 安七炫</a>
+<a target="_blank" href="/special/song/kangta-persona/" >#《面具》- 安七炫</a>
 
-<a target="_blank" href="/special/song/jukjae-lullaby/" style="color: #0c82ff;">#《摇篮曲》- Jukjae(郑宰阮)</a>
+<a target="_blank" href="/special/song/jukjae-lullaby/" >#《摇篮曲》- Jukjae(郑宰阮)</a>

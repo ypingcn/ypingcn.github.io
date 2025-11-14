@@ -10,7 +10,7 @@ update: 2022-03-11 20:00 +0800
 
 ## 配置
 
-这几个都是对应效果的配置，编辑 ```~/.vimrc``` (或者检查下 ```/etc/vim/vimrc``` 或 ```/etc/vimrc``` )文件并保存后，后续打开的文件即可生效。更多进阶级配置可参见：<a href="https://github.com/yangyangwithgnu/use_vim_as_ide" rel="nofollow" style="color: #0c82ff;">https://github.com/yangyangwithgnu/use_vim_as_ide</a> ，该处详细介绍了如何将 vim 配置成 IDE 使用（一般人可能用不到）。
+这几个都是对应效果的配置，编辑 ```~/.vimrc``` (或者检查下 ```/etc/vim/vimrc``` 或 ```/etc/vimrc``` )文件并保存后，后续打开的文件即可生效。更多进阶级配置可参见：<a href="https://github.com/yangyangwithgnu/use_vim_as_ide" rel="nofollow" >https://github.com/yangyangwithgnu/use_vim_as_ide</a> ，该处详细介绍了如何将 vim 配置成 IDE 使用（一般人可能用不到）。
 
 ```vim
 set nu
