@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 如何在 Firefox 火狐浏览器上设置并启用基于 HTTPS 的安全 DNS（DoH）
-description: 阅读本站精选制作的详细教程，学习如何在 Firefox 火狐浏览器上设置并启用基于HTTPS的安全 DNS（DoH）。保护你的网络浏览安全，并增强数据保密性。
+description: 阅读本站精选制作的2026年版详细教程，学习如何在 Firefox 火狐浏览器上设置并启用基于HTTPS的安全 DNS（DoH）。保护你的网络浏览安全，并增强数据保密性。
 date: 2022-10-16 10:20 +0800
-update: 2024-04-21 16:00 +0800
+update: 2025-12-27 18:00 +0800
 ---
 
 **快速下载**：下载 <a href="https://ypingcn.com/go/out?r=firefox-lastest-zhcn" rel="nofollow" > 最新Firefox火狐浏览器国际版（简体中文） </a>

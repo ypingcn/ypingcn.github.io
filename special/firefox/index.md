@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Firefox 火狐浏览器专题资源汇总
+title:  Firefox 火狐浏览器专题资源汇总(2026年)
 date: 2022-03-30 20:43 +0800
-update: 2025-08-17 15:00 +0800
+update: 2025-12-27 18:00 +0800
 description: 火狐浏览器是一款免费的开源互联网浏览器，拥有丰富的扩展功能。与其他浏览器相比，它更注重隐私保护和用户体验。并且拥有多个二次开发的版本极大丰富了使用体验。
 ---
 
@@ -29,6 +29,8 @@ Firefox 火狐浏览器是一款免费的开源互联网浏览器，拥有丰富
 <a target="_blank" href="/special/firefox/edition-faq/" ># @Firefox 火狐浏览器【国际版】与【谋智中国版】的区别 </a>
 
 <a target="_blank" href="/special/firefox/floorp/" ># @Floorp 浏览器 ~</a>
+
+<a target="_blank" href="/special/firefox/mullvad/" ># @Mullvad 浏览器 ~</a>
 
 <a target="_blank" href="/special/firefox/librewolf/" ># @Librewolf 浏览器 ~</a>
 

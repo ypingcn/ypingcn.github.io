@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Librewolf 浏览器资源汇总（2025年）
+title: Librewolf 浏览器资源汇总（2026年）
 description: 从下载地址到实用教程，本文为你提供一站式的 Librewolf 浏览器资源汇总。了解更多关于 Librewolf 的信息，使你的浏览体验更加完美。
 date: 2022-04-24 13:40 +0800
-update: 2024-12-26 09:00 +0800
+update: 2025-12-27 18:00 +0800
 ---
 
 **快速下载**：<a href="https://ypingcn.com/go/out?r=librewolf-windows-lastest" rel="nofollow" >最新版Librewolf 浏览器 Windows 安装程序下载</a>
